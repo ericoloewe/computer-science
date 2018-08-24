@@ -47,3 +47,7 @@ cmdFor() {
 		erro("for esperado");
 	}
 }
+
+<decl> ::= <tipo> <lista_var> ';'
+<list_var> ::= <var>
+<list_var> ::= <var> ',' <list_var>
