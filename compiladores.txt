@@ -1,0 +1,35 @@
+<cmd_while> ::= 'while' <condicao> 'do' <comando>
+
+cmdWhile() {
+	if (TOKEN == T_WHILE) {
+		buscaProximoToken();
+		condicao();
+		
+		if (TOKEN == T_DO) {
+			buscaProximoToken();
+			comando();
+		} else {
+			erro("do esperado");
+		}
+	} else {
+		erro("while esperado");
+	}
+}
+
+<cmd_for> ::= 'for' <variavel> ':=' <exp> 'to' <exp> 'do' <comando>
+
+cmdFor() {
+	if (TOKEN == T_FOR) {
+		buscaProximoToken();
+		condicao();
+		
+		if (TOKEN == T_DO) {
+			buscaProximoToken();
+			comando();
+		} else {
+			erro("do esperado");
+		}
+	} else {
+		erro("while esperado");
+	}
+}
