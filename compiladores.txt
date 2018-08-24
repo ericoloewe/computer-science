@@ -21,15 +21,29 @@ cmdWhile() {
 cmdFor() {
 	if (TOKEN == T_FOR) {
 		buscaProximoToken();
-		condicao();
+		variavel();
 		
-		if (TOKEN == T_DO) {
+		if (TOKEN == T_ATTRIB) {
 			buscaProximoToken();
-			comando();
+			expressao();
+			
+			if (TOKEN == T_TO) {
+				buscaProximoToken();
+				expressao();
+				
+				if (TOKEN == T_DO) {
+					buscaProximoToken();
+					comando();
+				} else {
+					erro("do esperado");
+				}
+			} else {
+				erro("to esperado");
+			}
 		} else {
-			erro("do esperado");
+			erro(":= esperado");
 		}
 	} else {
-		erro("while esperado");
+		erro("for esperado");
 	}
 }
