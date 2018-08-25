@@ -1,5 +1,6 @@
-<cmd_while> ::= 'while' <condicao> 'do' <comando>
+`<cmd_while> ::= 'while' <condicao> 'do' <comando>`
 
+```
 cmdWhile() {
 	if (TOKEN == T_WHILE) {
 		buscaProximoToken();
@@ -15,9 +16,11 @@ cmdWhile() {
 		erro("while esperado");
 	}
 }
+```
 
-<cmd_for> ::= 'for' <variavel> ':=' <exp> 'to' <exp> 'do' <comando>
+`<cmd_for> ::= 'for' <variavel> ':=' <exp> 'to' <exp> 'do' <comando>`
 
+```
 cmdFor() {
 	if (TOKEN == T_FOR) {
 		buscaProximoToken();
@@ -47,9 +50,11 @@ cmdFor() {
 		erro("for esperado");
 	}
 }
+```
 
-<decl> ::= <tipo> <lista_var> ';'
+`<decl> ::= <tipo> <lista_var> ';'`
 
+```
 cmdDecl() {
 	tipo();
 	buscaProximoToken();
@@ -61,10 +66,12 @@ cmdDecl() {
 		erro("decl esperado");
 	}
 }
+```
 
-<list_var> ::= <var>
-<list_var> ::= <var> ',' <list_var>
+`<list_var> ::= <var>`
+`<list_var> ::= <var> ',' <list_var>`
 
+```
 cmdListVar() {
 	var();
 	buscaProximoToken();
@@ -76,3 +83,4 @@ cmdListVar() {
 		erro("decl esperado");
 	}
 }
+```
