@@ -49,5 +49,30 @@ cmdFor() {
 }
 
 <decl> ::= <tipo> <lista_var> ';'
+
+cmdDecl() {
+	tipo();
+	buscaProximoToken();
+	listVar();
+
+	if (TOKEN == T_SEMICOLON) {
+		buscaProximoToken();
+	} else {
+		erro("decl esperado");
+	}
+}
+
 <list_var> ::= <var>
 <list_var> ::= <var> ',' <list_var>
+
+cmdListVar() {
+	var();
+	buscaProximoToken();
+
+	if (TOKEN == T_COMMA) {
+		buscaProximoToken();
+		listVar();
+	} else {
+		erro("decl esperado");
+	}
+}
