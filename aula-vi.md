@@ -20,3 +20,9 @@ da esquerda para direita e contando os numeros que não estão na ordem correta 
 
 ### Função sucessora
 Responsavel por retornar os estados futuros
+
+## Quadros
+### Quadro I
+![quadro i](./scanned_20180905-2130-001.jpg)
+### Quadro II
+![quadro ii](./scanned_20180905-2152-001.jpg)
