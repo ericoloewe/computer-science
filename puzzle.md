@@ -163,3 +163,123 @@ Devido a não recursividade foi adicionado 3 novas variáveis de controle:
 +    hasMoreItems = false;
 ...
 ```
+
+Agora, nos já tínhamos um algoritmo que funcionava. Porem, ele ainda era um grande problema devido a performance do mesmo.
+Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução
+
+#### Algoritmo busca com informação não recursivo
+```csharp
+private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, PuzzleTreeNode<IPuzzle> parent)
+{
+    PuzzleTreeNode<IPuzzle> solution = null;
+    var hasMoreItems = true;
+    var foundSolution = false;
+    var openedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
+    var closedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
+    var childRepeatControl = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
+    var parentPuzzle = parent.Data;
+    var parentPuzzleString = parentPuzzle.ToString();
+
+    if (parentPuzzle.IsDone())
+    {
+        solution = parent;
+
+        return solution;
+    }
+
+    openedParents[parentPuzzleString] = parent;
+
+    while (hasMoreItems && !foundSolution)
+    {
+        foreach (var allowedMovement in parentPuzzle.AllowedMovements())
+        {
+            var puzzleChild = (Puzzle)parentPuzzle.Clone();
+
+            puzzleChild.Move(allowedMovement);
+
+            var puzzleChildString = puzzleChild.ToString();
+            var isARepeatedPuzzle = childRepeatControl.ContainsKey(puzzleChildString);
+            var childWasAParent = closedParents.ContainsKey(puzzleChildString);
+            var childWillBeAParent = openedParents.ContainsKey(puzzleChildString);
+
+            if (!childWasAParent || !childWillBeAParent || !isARepeatedPuzzle)
+            {
+                var puzzleChildNode = tree.Insert(puzzleChild, parent);
+
+                if (!childWasAParent)
+                {
+                    openedParents[puzzleChildString] = puzzleChildNode;
+                }
+
+                if (!isARepeatedPuzzle)
+                {
+                    if (puzzleChild.IsDone())
+                    {
+                        solution = puzzleChildNode;
+                        foundSolution = true;
+
+                        return puzzleChildNode;
+                    }
+
+                    events.onStateChange.Invoke(puzzleChild);
+                    childRepeatControl[puzzleChildString] = puzzleChildNode;
+                }
+            }
+        }
+
+        openedParents.Remove(parentPuzzleString);
+        closedParents[parentPuzzleString] = parent;
+
+        if (!openedParents.Any())
+        {
+            hasMoreItems = false;
+            break;
+        }
+
+        childRepeatControl[parentPuzzleString] = parent;
+        parent = GetBestNodeByHeuristic(openedParents);
+        parentPuzzle = parent.Data;
+        parentPuzzleString = parentPuzzle.ToString();
+    }
+
+    return solution;
+}
+```
+
+Nesse algoritmo nos adicionamos mais 2 variáveis:
+- `childRepeatControl`
+- `closedParents`
+
+```diff
++ var closedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
++ var childRepeatControl = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
+...
+while (hasMoreItems && !foundSolution)
+...
+    foreach (var allowedMovement in parentPuzzle.AllowedMovements())
+...
++    var isARepeatedPuzzle = childRepeatControl.ContainsKey(puzzleChildString);
++    var childWasAParent = closedParents.ContainsKey(puzzleChildString);
++    var childWillBeAParent = openedParents.ContainsKey(puzzleChildString);
+...
+# Nesse momento ao inves de verificar somente se não é um estado repetido, passamos a verificar mais 2 pontos:
+# - Se o estado já foi um pai anteriormente
+# - Se o estado sera um pai dentro do loop
++    if (!childWasAParent || !childWillBeAParent || !isARepeatedPuzzle)
+...
+# Foi adicionado mais um ponto importante onde é feito uma validação de caso o estado filho ainda não foi um pai, ele é adicionado a lista de pais
++        if (!childWasAParent)
+...
++            openedParents[puzzleChildString] = puzzleChildNode;
+...
++        if (!isARepeatedPuzzle)
+...
+# nesse ponto é feito a validação se o estado atual é o estado final
+# caso não seja, adicionamos o mesmo em childRepeatControl
++                    childRepeatControl[puzzleChildString] = puzzleChildNode;
+...
+# Aqui é onde trocamos o proximo estado para o melhor estado, ao invés de pegarmos apenas o primeiro estado da lista
+-    parent = openedParents.First().Value;
++    parent = GetBestNodeByHeuristic(openedParents);
+...
+```
