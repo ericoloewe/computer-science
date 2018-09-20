@@ -136,20 +136,30 @@ Devido a não recursividade foi adicionado 3 novas variáveis de controle:
 - `openedParents` para controle de quais estados já foram visitados para não repetir os mesmos
 
 ```diff
-+++ var hasMoreItems = true;
-+++ var foundSolution = false;
-+++ var openedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
++ var hasMoreItems = true;
++ var foundSolution = false;
++ var openedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
 
-+++ while (hasMoreItems && !foundSolution)
+# ao invés da recursão, criamos um loop para varrer todos os estados possíveis até chegar na solução
++ while (hasMoreItems && !foundSolution)
 ...
-+++        if (!IsARepeatedPuzzle(puzzleChild))
++        if (!IsARepeatedPuzzle(puzzleChild))
 ...
-# apos vermos que o novo estado não existe
-+++            openedParents.Add(puzzleChild.ToString(), puzzleChildNode);
+-            var childrenResolution = StartToBuildPuzzleTree(events, puzzleChildNode);
+# agora, quando encontramos uma solução, marcamos foundSolution como true e retornamos o filho pronto
++            if (puzzleChild.IsDone())
+...
++                foundSolution = true;
++                return puzzleChildNode;
+...
+-            if (childrenResolution != null)
+-                return childrenResolution;
+# agora, quando vemos um novo estado o adicionamos em openedParents
++            openedParents.Add(puzzleChild.ToString(), puzzleChildNode);
 
 # nesse ponto, nos verificamos se ainda existe estados a ser verificados pelo algoritmo
-+++ if (openedParents.Count == 0)
++ if (openedParents.Count == 0)
 ...
-+++    hasMoreItems = false;
++    hasMoreItems = false;
 ...
 ```
