@@ -136,20 +136,20 @@ Devido a não recursividade foi adicionado 3 novas variáveis de controle:
 - `openedParents` para controle de quais estados já foram visitados para não repetir os mesmos
 
 ```diff
-+var hasMoreItems = true;
-+var foundSolution = false;
-+var openedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
++++ var hasMoreItems = true;
++++ var foundSolution = false;
++++ var openedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
 
-+while (hasMoreItems && !foundSolution)
++++ while (hasMoreItems && !foundSolution)
 ...
-+        if (!IsARepeatedPuzzle(puzzleChild))
++++        if (!IsARepeatedPuzzle(puzzleChild))
 ...
 # apos vermos que o novo estado não existe
-+            openedParents.Add(puzzleChild.ToString(), puzzleChildNode);
++++            openedParents.Add(puzzleChild.ToString(), puzzleChildNode);
 
-! nesse ponto, nos verificamos se ainda existe estados a ser verificados pelo algoritmo
-+if (openedParents.Count == 0)
+# nesse ponto, nos verificamos se ainda existe estados a ser verificados pelo algoritmo
++++ if (openedParents.Count == 0)
 ...
-+    hasMoreItems = false;
++++    hasMoreItems = false;
 ...
 ```
