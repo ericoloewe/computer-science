@@ -9,7 +9,58 @@ Para desenvolvimento desse algoritmo, foi utilizado algumas estruturas de dados,
 - Listas
 
 ## Desenvolvimento
-Inicialmente, foi utilizado um método recursivo para solucionar o quebra cabeça, então começamos criando uma classe chamada `HardCodeRecursiveBuilder`
+Inicialmente, foi utilizado um método recursivo para solucionar o quebra cabeça, então começamos criando uma classe chamada `HardCodeRecursiveBuilder` e uma estrutura em arvore para obter o caminho que percorremos até chegar no estado desejado.
+
+Essa estrutura inicialmente foi utilizada mais para salvar os caminhos percorridos pelo algoritmo sem duplicação e de facil entendimento
+
+#### Estrutura em arvore
+```csharp
+public class PuzzleTreeWithoutInfo<T>
+{
+    public PuzzleTreeNode<T> Root { get; set; }
+
+    public PuzzleTreeNode<T> Insert(T data)
+    {
+        return Root = new PuzzleTreeNode<T>(data);
+    }
+
+    public PuzzleTreeNode<T> Insert(T data, PuzzleTreeNode<T> parent)
+    {
+        var newNode = new PuzzleTreeNode<T>(data);
+
+        newNode.Parent = parent;
+        parent.Children.Add(newNode);
+
+        return newNode;
+    }
+
+    public IList<T> GetNodePathToRoot(PuzzleTreeNode<T> puzzleNode)
+    {
+        IList<T> pathToRoot = new List<T>();
+
+        do
+        {
+            pathToRoot.Add(puzzleNode.Data);
+            puzzleNode = puzzleNode.Parent;
+        } while (puzzleNode != null);
+
+        return pathToRoot;
+    }
+}
+
+public class PuzzleTreeNode<T>
+{
+    public IList<PuzzleTreeNode<T>> Children { get; set; }
+    public PuzzleTreeNode<T> Parent { get; set; }
+    public T Data { get; set; }
+
+    public PuzzleTreeNode(T data)
+    {
+        this.Data = data;
+        this.Children = new List<PuzzleTreeNode<T>>();
+    }
+}
+```
 
 #### Algoritmo busca sem informação recursivo
 ```csharp
@@ -165,7 +216,7 @@ Devido a não recursividade foi adicionado 3 novas variáveis de controle:
 ```
 
 Agora, nos já tínhamos um algoritmo que funcionava. Porem, ele ainda era um grande problema devido a performance do mesmo.
-Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução
+Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução. E criamos uma classe `PuzzleBuilder` para resolver esse problema.
 
 #### Algoritmo busca com informação não recursivo
 ```csharp
@@ -246,7 +297,7 @@ private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, Puzz
 }
 ```
 
-Nesse algoritmo nos adicionamos mais 2 variáveis:
+[Nesse algoritmo](#algoritmo-busca-com-informação-não-recursivo) nos adicionamos mais 2 variáveis:
 - `childRepeatControl`
 - `closedParents`
 
