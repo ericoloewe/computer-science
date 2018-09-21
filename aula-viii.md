@@ -12,6 +12,6 @@ a = b + 1
 $$
 
 ### Quadro I
-![Quadro I](./aula-viii-001.jpg)
+![Quadro I](aula-viii-001.jpg)
 ### Quadro 2
-![Quadro II](./aula-viii-002.jpg)
+![Quadro II](aula-viii-002.jpg)
