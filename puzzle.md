@@ -27,6 +27,7 @@ public class Puzzle : IPuzzle
     private PuzzlePiece[] originalRowsByIndex;
     ...
     // Método utilizado para prover os próximos movimentos do quebra cabeça a partir do estado atual
+    // (função sucessora)
     public IList<MovementType> AllowedMovements() {}
     ...
 }
@@ -296,7 +297,7 @@ private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, Puzz
 ...
 ```
 
-​	Agora, nos já tínhamos um algoritmo que funcionava. Porem, ele ainda era um grande problema devido a performance do mesmo. Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução. E criamos uma classe `PuzzleBuilder` para resolver esse problema.
+​	Agora, nos já tínhamos um [algoritmo](#algoritmo-busca-sem-informação-não-recursivo) que funcionava. Porem, ele ainda era um grande problema devido a performance do mesmo (Demorava em torno de **30s** para **encontrar uma solução**). Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução. E criamos uma classe `PuzzleBuilder` para resolver esse problema.
 
 #### Algoritmo busca com informação não recursivo
 ```csharp
@@ -377,8 +378,46 @@ private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, Puzz
 }
 ```
 
-​	[Nesse algoritmo](#algoritmo-busca-com-informação-não-recursivo) foram adicionadas novas propriedades ao nodo da arvore, para podermos realizar a busca com informação. Então, tivemos que visualizar o problema e definir métricas onde conseguiríamos dar uma pontuação aos estados. Essas métricas foram:
+Adicionamos mais 2 variáveis ao [algoritmo](#algoritmo-busca-com-informação-não-recursivo):
 
+- `childRepeatControl`
+- `closedParents`
+
+```diff
++ var closedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
++ var childRepeatControl = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
+...
+while (hasMoreItems && !foundSolution)
+...
+    foreach (var allowedMovement in parentPuzzle.AllowedMovements())
+...
++    var isARepeatedPuzzle = childRepeatControl.ContainsKey(puzzleChildString);
++    var childWasAParent = closedParents.ContainsKey(puzzleChildString);
++    var childWillBeAParent = openedParents.ContainsKey(puzzleChildString);
+...
+# Nesse momento ao inves de verificar somente se não é um estado repetido, passamos a verificar mais 2 pontos:
+# - Se o estado já foi um pai anteriormente
+# - Se o estado sera um pai dentro do loop
++    if (!childWasAParent || !childWillBeAParent || !isARepeatedPuzzle)
+...
+# Foi adicionado mais um ponto importante onde é feito uma validação de caso o estado filho ainda não foi um pai, ele é adicionado a lista de pais
++        if (!childWasAParent)
+...
++            openedParents[puzzleChildString] = puzzleChildNode;
+...
++        if (!isARepeatedPuzzle)
+...
+# nesse ponto é feito a validação se o estado atual é o estado final
+# caso não seja, adicionamos o mesmo em childRepeatControl
++                    childRepeatControl[puzzleChildString] = puzzleChildNode;
+...
+# Aqui é onde trocamos o proximo estado para o melhor estado, ao invés de pegarmos apenas o primeiro estado da lista
+-    parent = openedParents.First().Value;
++    parent = GetBestNodeByHeuristic(openedParents);
+...
+```
+
+​	[Nesse algoritmo](#algoritmo-busca-com-informação-não-recursivo) foram adicionadas também novas propriedades ao nodo da arvore, para podermos realizar a busca com informação. Então, tivemos que visualizar o problema e definir métricas onde conseguiríamos dar uma pontuação aos estados. Essas métricas foram:
 - [Quantidade de peças fora do lugar](#algoritmo-que-calcula-a-quantidade-de-peças-fora-do-lugar)
 - [Quantidade de movimentos necessários para colocar cada peça em seu devido lugar](#algoritmo-que-calcula-a-quantidade-de-movimentos-necessários-para-colocar-cada-peça-em-seu-devido-lugar)
 
@@ -427,7 +466,6 @@ public int MovementsToFinish(PuzzlePiece piece)
 {
     var originalPiece = originalRowsByIndex[piece.Number];
     
-    // para calcular a diferença, é utilizado 
     var movementToFinish = Math.Abs(
         (originalPiece.Position.Column - piece.Position.Column) +
         (originalPiece.Position.Row - piece.Position.Row)
@@ -437,41 +475,8 @@ public int MovementsToFinish(PuzzlePiece piece)
 }
 ```
 
-​	Adicionamos também mais 2 variáveis ao [algoritmo](#algoritmo-busca-com-informação-não-recursivo):
+## Conclusões
 
-- `childRepeatControl`
-- `closedParents`
+Nesse momento, a performance do algoritmo melhorou exponencialmente, de **30s**\* o algoritmo passou a rodar em menos de um segundo **1s**\*. Sendo assim foi possivel ver que uma busca com informação agrega um grande valor ao algoritmo de busca, pois, quando é realizado uma busca com informação se torna muito mais facil de se encontrar o melhor caminho a se seguir.
 
-```diff
-+ var closedParents = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
-+ var childRepeatControl = new Dictionary<string, PuzzleTreeNode<IPuzzle>>();
-...
-while (hasMoreItems && !foundSolution)
-...
-    foreach (var allowedMovement in parentPuzzle.AllowedMovements())
-...
-+    var isARepeatedPuzzle = childRepeatControl.ContainsKey(puzzleChildString);
-+    var childWasAParent = closedParents.ContainsKey(puzzleChildString);
-+    var childWillBeAParent = openedParents.ContainsKey(puzzleChildString);
-...
-# Nesse momento ao inves de verificar somente se não é um estado repetido, passamos a verificar mais 2 pontos:
-# - Se o estado já foi um pai anteriormente
-# - Se o estado sera um pai dentro do loop
-+    if (!childWasAParent || !childWillBeAParent || !isARepeatedPuzzle)
-...
-# Foi adicionado mais um ponto importante onde é feito uma validação de caso o estado filho ainda não foi um pai, ele é adicionado a lista de pais
-+        if (!childWasAParent)
-...
-+            openedParents[puzzleChildString] = puzzleChildNode;
-...
-+        if (!isARepeatedPuzzle)
-...
-# nesse ponto é feito a validação se o estado atual é o estado final
-# caso não seja, adicionamos o mesmo em childRepeatControl
-+                    childRepeatControl[puzzleChildString] = puzzleChildNode;
-...
-# Aqui é onde trocamos o proximo estado para o melhor estado, ao invés de pegarmos apenas o primeiro estado da lista
--    parent = openedParents.First().Value;
-+    parent = GetBestNodeByHeuristic(openedParents);
-...
-```
+\* Testes realizados em uma maquina com processador core i5, 8GB de ram e HD SSD
