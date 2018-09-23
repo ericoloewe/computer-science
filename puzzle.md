@@ -477,6 +477,6 @@ public int MovementsToFinish(PuzzlePiece piece)
 
 ## Conclusões
 
-​	Com o algoritmo de busca com informação, a performance melhorou exponencialmente, de **30s**\* o algoritmo passou a rodar em menos de um segundo **1s**\*. Sendo assim foi possivel ver que uma busca com informação agrega um grande valor a busca, pois, quando é realizado uma busca com informação se torna muito mais facil de se encontrar o melhor caminho a se seguir.
+​	Com o algoritmo de busca com informação, a performance melhorou exponencialmente, de **30s**\* o algoritmo passou a rodar em menos de um segundo **1s**\*. Sendo assim foi possível ver que uma busca com informação agrega um grande valor a busca, pois, quando é realizado uma busca com informação se torna muito mais fácil de se encontrar o melhor caminho a se seguir.
 
 \* Testes realizados em uma maquina com processador core i5, 8GB de ram e HD SSD
