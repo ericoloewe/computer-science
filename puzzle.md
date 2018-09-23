@@ -1,19 +1,38 @@
 # Quebra cabeça 3x3
 ## Introdução
-O objetivo desta atividade é a prática na construção de uma solução para problemas com o emprego da busca em espaço de estados com informação. Os alunos devem construir um programa que implemente o problema do quebra-cabeça de blocos deslizantes 3x3 e uma função de busca baseada em alguma heurística. Então, descrever e avaliar os resultados.
+​	O objetivo desta atividade é a prática na construção de uma solução para problemas com o emprego da busca em espaço de estados com informação. Os alunos devem construir um programa que implemente o problema do quebra-cabeça de blocos deslizantes 3x3 e uma função de busca baseada em alguma heurística. Então, descrever e avaliar os resultados.
 
 ## Estrutura
-Para desenvolvimento desse algoritmo, foi utilizado algumas estruturas de dados, delas:
-- Arvore com valor heurístico
+​	Para desenvolvimento desse algoritmo, foi utilizado algumas estruturas de dados, delas:
+- O próprio [Quebra cabeça](#quebra-cabeça)
+- [Arvore com valor heurístico](#arvore-com-informação)
+- [Arvore sem valor heurístico](#arvore-sem-informação)
 - Dicionários
 - Listas
 
-## Desenvolvimento
-Inicialmente, foi utilizado um método recursivo para solucionar o quebra cabeça, então começamos criando uma classe chamada `HardCodeRecursiveBuilder` e uma estrutura em arvore para obter o caminho que percorremos até chegar no estado desejado.
+### Quebra cabeça
+```csharp
+public class Puzzle : IPuzzle
+{
+    ...
+    // Tamanho do quebra cabeça
+    public int Size { get; private set; }
+    // Estrutura criada para guardar posições das peças
+    public PuzzlePiece[][] Rows { get; private set; }
+    // Peça que não tem valor
+    private PuzzlePiece hidePiece;
+    // Estrutura criada para validar a estrutura atual com a estrutura original
+    private PuzzlePiece[][] originalRows;
+    // Estrutura criada para performance sua ideia é facilitar a busca pelas peças do quebra cabeça, buscando pelo index da peça
+    private PuzzlePiece[] originalRowsByIndex;
+    ...
+    // Método utilizado para prover os próximos movimentos do quebra cabeça a partir do estado atual
+    public IList<MovementType> AllowedMovements() {}
+    ...
+}
+```
 
-Essa estrutura inicialmente foi utilizada mais para salvar os caminhos percorridos pelo algoritmo sem duplicação e de facil entendimento
-
-#### Estrutura em arvore
+### Arvore sem informação
 ```csharp
 public class PuzzleTreeWithoutInfo<T>
 {
@@ -62,7 +81,71 @@ public class PuzzleTreeNode<T>
 }
 ```
 
+​	Ao nodo, foi adicionado ao nodo as informações de `Data` - a informação armazena na arvore -, `Children` - a relação entre o nodo e seus filhos - , `Parent` - a relação entre o nodo o seu pai -. No momento, essas eram as únicas informações necessárias para realizar o algoritmo de busca sem informação.
+
+​	Abaixo, iremos mostrar a estrutura de arvores criada (`PuzzleTreeWithInfo`) para trabalhar com informações, nela, foi adicionado um método `AddInfoTo` o qual fica responsável por adicionar as informações heurísticas ao nodo
+
+### Arvore com informação
+#### Estrutura da arvore
+```csharp
+public class PuzzleTreeWithInfo
+{
+    public PuzzleTreeNode<IPuzzle> Root { get; private set; }
+
+    public PuzzleTreeNode<IPuzzle> Insert(IPuzzle data)
+    {
+        Root = new PuzzleTreeNode<IPuzzle>(data);
+
+        AddInfoTo(Root);
+
+        return Root;
+    }
+
+    public PuzzleTreeNode<IPuzzle> Insert(IPuzzle data, PuzzleTreeNode<IPuzzle> parent)
+    {
+        var newNode = new PuzzleTreeNode<IPuzzle>(data);
+
+        AddInfoTo(newNode);
+        newNode.Parent = parent;
+        parent.Children.Add(newNode);
+
+        return newNode;
+    }
+
+    public IList<IPuzzle> GetNodePathToRoot(PuzzleTreeNode<IPuzzle> puzzleNode)
+    {
+        ...
+    }
+
+    private void AddInfoTo(PuzzleTreeNode<IPuzzle> node)
+    {
+        node.AmountOfPiecesOutOfOrder = node.Data.AmountOfPiecesOutOfOrder();
+        node.MovementsToFinish = node.Data.MovementsToFinishAllPieces();
+    }
+}
+```
+#### Estrutura do nodo
+```diff
+public class PuzzleTreeNode<T>
+{
+    public IList<PuzzleTreeNode<T>> Children { get; set; }
+# Soma das informações heuristicas    
++    public int HeuristicValue { get { return AmountOfPiecesOutOfOrder + MovementsToFinish; } }
+# Quantidade de peças fora do lugar
++    public int AmountOfPiecesOutOfOrder { get; set; }
+# Quantidade de movimentos necessários para colocar cada peça em seu devido lugar
++    public int MovementsToFinish { get; set; }
+    public PuzzleTreeNode<T> Parent { get; set; }
+...
+```
+
+## Desenvolvimento
+​	Inicialmente, foi utilizado um método recursivo para solucionar o quebra cabeça, então começamos criando um construtor do quebra cabeça - uma classe chamada `HardCodeRecursiveBuilder` - e uma estrutura em arvore `PuzzleTreeWithoutInfo` para obter o caminho que percorremos até chegar no estado desejado.
+
+​	Essa estrutura inicialmente foi utilizada mais para salvar os caminhos percorridos pelo algoritmo sem duplicação e de fácil entendimento. Nela foi adicionado uma propriedade `Root` para guarda a referencia do inicio da arvore e dois métodos, `Insert` para inserir um nodo na arvore e `GetNodePathToRoot` para obter o caminho percorrido do nodo até a raiz. 
+
 #### Algoritmo busca sem informação recursivo
+
 ```csharp
 private IDictionary<string, IPuzzle> puzzleRepeatControl;
 ...
@@ -108,9 +191,7 @@ private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, Puzz
 ...
 ```
 
-**Apesar** do [algoritmo acima](#algoritmo-busca-sem-informação-recursivo) ter a **logica correta**, ele **nunca funcionou** devido a limite de chamadas na `stackTrace`
-
-Então, a partir do momento que identificamos esse problema, começamos a buscar uma solução alterativa a qual resultou na classe `HardCodeBuilder` e da abstração da classe `HardCodeRecursiveBuilder` para uma interface `IPuzzleBuilder` onde todos os builders deveriam seguir o padrão imposto por ela
+​	**Apesar** do [algoritmo acima](#algoritmo-busca-sem-informação-recursivo) ter a **logica correta**, ele **nunca funcionou** devido a limite de chamadas na `stackTrace`. Então, a partir do momento que identificamos esse problema, começamos a buscar uma solução alterativa a qual resultou na classe `HardCodeBuilder` e da abstração da classe `HardCodeRecursiveBuilder` para uma interface `IPuzzleBuilder` onde todos os builders deveriam seguir o padrão imposto por ela
 
 #### Algoritmo busca sem informação não recursivo
 ```csharp
@@ -179,9 +260,9 @@ private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, Puzz
 }
 ```
 
-O algoritmo [desenvolvido acima](#algoritmo-busca-sem-informação-não-recursivo), diferente do [algoritmo anterior](#algoritmo-busca-sem-informação-recursivo) ele entrega a solução quando a mesma existia!
+​	O algoritmo [desenvolvido acima](#algoritmo-busca-sem-informação-não-recursivo), diferente do [algoritmo anterior](#algoritmo-busca-sem-informação-recursivo) ele entrega a solução quando a mesma existia!
 
-Devido a não recursividade foi adicionado 3 novas variáveis de controle:
+​	Devido a não recursividade foi adicionado 3 novas variáveis de controle:
 - `hasMoreItems` para controle do loop se existe estados que não foram visitados
 - `foundSolution` para controle do loop se foi encontrado alguma solução ou não
 - `openedParents` para controle de quais estados já foram visitados para não repetir os mesmos
@@ -215,8 +296,7 @@ Devido a não recursividade foi adicionado 3 novas variáveis de controle:
 ...
 ```
 
-Agora, nos já tínhamos um algoritmo que funcionava. Porem, ele ainda era um grande problema devido a performance do mesmo.
-Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução. E criamos uma classe `PuzzleBuilder` para resolver esse problema.
+​	Agora, nos já tínhamos um algoritmo que funcionava. Porem, ele ainda era um grande problema devido a performance do mesmo. Então começamos a buscar a solução a partir dos estados com informações do quão próximos os estados estão da solução. E criamos uma classe `PuzzleBuilder` para resolver esse problema.
 
 #### Algoritmo busca com informação não recursivo
 ```csharp
@@ -297,7 +377,68 @@ private PuzzleTreeNode<IPuzzle> StartToBuildPuzzleTree(PuzzleEvents events, Puzz
 }
 ```
 
-[Nesse algoritmo](#algoritmo-busca-com-informação-não-recursivo) nos adicionamos mais 2 variáveis:
+​	[Nesse algoritmo](#algoritmo-busca-com-informação-não-recursivo) foram adicionadas novas propriedades ao nodo da arvore, para podermos realizar a busca com informação. Então, tivemos que visualizar o problema e definir métricas onde conseguiríamos dar uma pontuação aos estados. Essas métricas foram:
+
+- [Quantidade de peças fora do lugar](#algoritmo-que-calcula-a-quantidade-de-peças-fora-do-lugar)
+- [Quantidade de movimentos necessários para colocar cada peça em seu devido lugar](#algoritmo-que-calcula-a-quantidade-de-movimentos-necessários-para-colocar-cada-peça-em-seu-devido-lugar)
+
+##### Algoritmo que calcula a quantidade de peças fora do lugar
+```csharp
+public int AmountOfPiecesOutOfOrder()
+{
+    var amountOfPiecesOutOfOrder = 0;
+
+    for (int i = 0; i < Size; i++)
+    {
+        for (int j = 0; j < Size; j++)
+        {
+            if (Rows[i][j].Number != originalRows[i][j].Number)
+            {
+                amountOfPiecesOutOfOrder++;
+            }
+        }
+    }
+
+    return amountOfPiecesOutOfOrder;
+}
+```
+
+##### Algoritmo que calcula a quantidade de movimentos necessários para colocar cada peça em seu devido lugar
+```csharp
+public int MovementsToFinishAllPieces()
+{
+    var movementsToFinishAllPieces = 0;
+
+    for (int i = 0; i < Size; i++)
+    {
+        for (int j = 0; j < Size; j++)
+        {
+            if (Rows[i][j].Number != originalRows[i][j].Number)
+            {
+                movementsToFinishAllPieces += MovementsToFinish(Rows[i][j]);
+            }
+        }
+    }
+
+    return movementsToFinishAllPieces;
+}
+
+public int MovementsToFinish(PuzzlePiece piece)
+{
+    var originalPiece = originalRowsByIndex[piece.Number];
+    
+    // para calcular a diferença, é utilizado 
+    var movementToFinish = Math.Abs(
+        (originalPiece.Position.Column - piece.Position.Column) +
+        (originalPiece.Position.Row - piece.Position.Row)
+    );
+
+    return movementToFinish;
+}
+```
+
+​	Adicionamos também mais 2 variáveis ao [algoritmo](#algoritmo-busca-com-informação-não-recursivo):
+
 - `childRepeatControl`
 - `closedParents`
 
