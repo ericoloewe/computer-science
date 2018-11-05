@@ -28,8 +28,11 @@ Exemplo: Robô de limpeza
 
 #### Agente vs. programa
 
-
-
 ### Keywords
 
 - tendência
+
+## Links
+
+- [Introdução](https://docs.google.com/presentation/d/1WAAbr35vpkGSHWkTLa-WlzqMCMHzEfR-JqdOg_rPYdQ/edit?usp=sharing)
+- [Videos](https://www.dropbox.com/sh/ets0uhvqru6bjsy/AAAlXKxMgawCfqQIuyg8g1gOa?dl=0)
