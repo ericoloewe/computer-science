@@ -28,7 +28,13 @@ O contempla a taxa de aprovação por cidade dos alunos do ensino médio. No cen
 
 #### J48 (C4.5)
 
+Algoritmo que usa alvore de decisões para vasculhar os dados e encontrar a melhor classificação para os mesmos.
+
+[Weka: Decision Trees – J48](http://stp.lingfil.uu.se/~santinim/ml/2016/Lect_03/Lab02_DecisionTrees.pdf)
+
 #### Multilayer Perceptron
+
+[More Data Mining with Weka (Class 5) - 2014](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/slides/Class5-MoreDataMiningWithWeka-2014.pdf)
 
 ### 4) Analise de pré-processamento
 
