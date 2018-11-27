@@ -11,7 +11,7 @@
 
 2) Elabore uma procedure para um ASRD para o comando:
 
-````
+```
 <comando ring> ::= 'SHOW' <expressao> 'VEZES' 'TELA'
 
 Respostas: ⬇
@@ -30,7 +30,7 @@ void comandoRing() {
 		} else registraErro(...)
 	} else registraErro(...)
 }
-````
+```
 
 3) Retire a recursividade à esquerda:
 
