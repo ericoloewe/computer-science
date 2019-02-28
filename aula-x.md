@@ -1,0 +1,13 @@
+# Aula X
+
+## Arvores em python
+
+### busca em pre/pos ordem
+
+- busca em pré ordem
+- busca em ordem
+- busca em pos ordem
+
+![img](https://lh3.googleusercontent.com/A3jVhVPcNx-RL2w5CqIfbPTMSrkSI5uDY27tl8ybkaIYuESNZRjaE3GWkWK7P_V-vG610W3EKYpdz9-rMCz6EOSilUMslaAlAwoVpjkOTAV5ub-KEx65Lusq9-ksH1l0L_p6_dygDO9K_W_DUOepaPz1NvCfVyBvWeovBkfnf7ePjnLx9SipAM0Lp1wIicleFT3eOyGIQnysv588hgthw919nxOOr14Yl1I7yNODHG_9IRUrO_-R8fxgXy13AfTT1ne_BUde_Hx800u0bvrqhaP0-o61qyQJ8T9hPIp0KhDjqJ22FaMfzEbY-qtdcxsvUwWPL6uM5-vQE3O07Hzp6cupiiSYPkfXCz8H7fvm1VNKbGwa4jQES_MA86s1AgL9qkxaJSmkmexDSKcmqMxGFblg7k62OluBHrn5kq0kju6SBfM-SzkLsXSoqnRQGOxlBxaN_IaxNOF8dewGCykgVlIH1v5EFRy9K8FC1Hpn3zC5xi4iQfUEh-98NEcgp8DhHXTXMBkADiHgy9Ak2gXJ8KxQtT53sGuHV8MD4dD1lTebvEvIHdfRU39VDJR2IVX65FO3OABImEnHKl5-9CiBez3BSeEE65j8hl65SuGw_pE4ypj6aexgiYMTR8SgsNE4=w876-h657-no)
+
+### busca em profundidade
