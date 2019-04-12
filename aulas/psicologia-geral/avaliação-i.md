@@ -21,15 +21,15 @@
 
 4. Sobre os conceitos de raça, etnia e grupo étnico estudados, verifique as afirmativas verdadeiras e falsas, em seguida marque a alternativa correta:
 
-   [    ] Um grupo étnico consiste em pessoas que pertencem a mesma cultura.
+   [  :heavy_check_mark:  ] Um grupo étnico consiste em pessoas que pertencem a mesma cultura.
 
-   [    ] Não há um consenso científico claro sobre a definição do termo raça, sendo impossível medi-lo de modo confiável.
+   [  :heavy_check_mark:  ] Não há um consenso científico claro sobre a definição do termo raça, sendo impossível medi-lo de modo confiável.
 
-   [    ] As pesquisas atuais demonstram que os padrões étnicos não têm relação com o desenvolvimento humano.
+   [  :x:  ] As pesquisas atuais demonstram que os padrões étnicos não têm relação com o desenvolvimento humano.
 
-   [    ] A raça, como categoria social, continua sendo um dos fatores utilizados nas pesquisas porque faz diferença em relação a “como os indivíduos são tratados, onde vivem, suas oportunidades de emprego, a qualidade de sua assistência médica e se podem participar plenamente” em sua sociedade.
+   [   :heavy_check_mark:  ] A raça, como categoria social, continua sendo um dos fatores utilizados nas pesquisas porque faz diferença em relação a “como os indivíduos são tratados, onde vivem, suas oportunidades de emprego, a qualidade de sua assistência médica e se podem participar plenamente” em sua sociedade.
 
-   [    ] Termos como negro ou hispânico podem ser uma generalização étnica exagerada, que obscurece ou confunde essas variações.
+   [  :heavy_check_mark:  ] Termos como negro ou hispânico podem ser uma generalização étnica exagerada, que obscurece ou confunde essas variações.
 
    - F, V, V, F, F
 
@@ -59,33 +59,30 @@
 
 6. Sabe-se que existem fatores que causam impacto sobre o desenvolvimento humano. A partir dos conceitos de hereditariedade e ambiente estudados, analise as afirmativas abaixo.
 
-   I – A hereditariedade pode ser definida por costumes passados de geração para geração.
+   I – A hereditariedade pode ser definida por costumes passados de geração para geração. :question:
 
 
-   II – O ambiente é entendido como o mundo que está do lado de fora do eu, e que começa no útero, e a aprendizagem relacionada à experiência.
+   II – O ambiente é entendido como o mundo que está do lado de fora do eu, e que começa no útero, e a aprendizagem relacionada à experiência. :heavy_check_mark:
 
 
-   III – As pesquisas atuais apontam que tanto a genética como as influências ambientais antes e depois do nascimento têm papel importante no desenvolvimento de traços específicos de personalidade.
+   III – As pesquisas atuais apontam que tanto a genética como as influências ambientais antes e depois do nascimento têm papel importante no desenvolvimento de traços específicos de personalidade. :heavy_check_mark:
 
    - Apenas a afirmativa I está correta.
-
    - **Apenas as afirmativas II e III estão corretas.**
-
    - Apenas as afirmativas I e III estão corretas.
-
    - Apenas a afirmativa III está correta.
    - Todas as afirmativas estão corretas.
 
 7. Com base nos materiais estudados sobre a psicologia científica verifique as afirmativas verdadeiras e falsas, em seguida marque a alternativa correta:
 
 
-   [    ] A psicologia resume-se basicamente no estudo e no tratamento das doenças/transtornos mentais.
+   [  :x:  ] A psicologia resume-se basicamente no estudo e no tratamento das doenças/transtornos mentais.
 
-   [    ] A psicologia caracteriza-se pelo estudo científico do comportamento e dos processos mentais.
+   [  :heavy_check_mark:  ] A psicologia caracteriza-se pelo estudo científico do comportamento e dos processos mentais.
 
-   [    ] A psicologia, enquanto ciência, abrange o estudo das atividades biológicas, dos sentimentos, das percepções, da memória e dos pensamentos das pessoas.
+   [  :heavy_check_mark:  ] A psicologia, enquanto ciência, abrange o estudo das atividades biológicas, dos sentimentos, das percepções, da memória e dos pensamentos das pessoas.
 
-   [     ] Os conhecimentos produzidos no campo da psicologia podem relacionar-se com diversas áreas do conhecimento.
+   [  :heavy_check_mark:  ] Os conhecimentos produzidos no campo da psicologia podem relacionar-se com diversas áreas do conhecimento.
 
    - **F, V, V, V**
 
@@ -97,7 +94,7 @@
 
    - V, V, V, F
 
-8. De acordo com os conteúdos estudados sobre o Desenvolvimento Humano, pode-se definir a velhice como:
+8. De acordo com os conteúdos estudados sobre o Desenvolvimento Humano, pode-se definir a velhice como: **(Revisar)**
 
    - O processo que ocorre em algumas pessoas, independe da idade. Já que você pode ser velho em qualquer idade.
 
@@ -123,7 +120,7 @@
 
    - Adolescência
 
-10. Acerca dos conceitos e definições estudadas sobre a cultura, analise as afirmativas abaixo:
+10. Acerca dos conceitos e definições estudadas sobre a cultura, analise as afirmativas abaixo: **(Revisar)**
 
     I – Cultura refere-se ao modo de vida global de uma sociedade ou grupo, que inclui costumes, tradições, leis, conhecimento, crenças, valores, linguagem e produtos materiais, de ferramentas a trabalhos artísticos
 
