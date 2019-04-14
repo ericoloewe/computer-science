@@ -68,9 +68,10 @@ Para utilizar a ferramenta é necessário:
 
 ## Conclusão
 
-Com esse trabalho foi possível verificar o que o
+Com esse trabalho foi possível verificar que oferecer uma aplicação como serviço (SaaS), traz muitos ganhos para o negócio, pois, conseguimos em poucos passos levar nossa aplicação ao consumidor. Além do prazo, com o saas, trazemos benefícios referentes a versão da aplicação, pois, fazemos com que todos usuários utilizem somente a última, o que pode ser programaticamente mais difícil, mas, faz com que não necessitamos de ter que dar suportes a versões legadas da aplicação.
 
 ## Referencias
 
 - [QuickBooks - Controle financeiro para seu negócio](https://quickbooks.intuit.com/br/compare/)
 - [Hábil Empresarial - Qual a Diferença entre as soluções?](https://www.habil.com.br/conheca-o-h%C3%A1bil/diferen%C3%A7as-entre-as-solu%C3%A7%C3%B5es/)
+- [O que é saas?](https://azure.microsoft.com/pt-br/overview/what-is-saas/)

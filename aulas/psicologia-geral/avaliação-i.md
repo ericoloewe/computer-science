@@ -33,11 +33,11 @@
 
    - F, V, V, F, F
 
-   - F, V, F, V, V
+   - **F, V, F, V, V**
 
    - V, F, V, V, V
 
-   - **V, V, F, V, V**
+   - V, V, F, V, V
 
    - V, F, V, F, F
 
@@ -94,7 +94,7 @@
 
    - V, V, V, F
 
-8. De acordo com os conteúdos estudados sobre o Desenvolvimento Humano, pode-se definir a velhice como: **(Revisar)**
+8. De acordo com os conteúdos estudados sobre o Desenvolvimento Humano, pode-se definir a velhice como: 
 
    - O processo que ocorre em algumas pessoas, independe da idade. Já que você pode ser velho em qualquer idade.
 
@@ -120,7 +120,7 @@
 
    - Adolescência
 
-10. Acerca dos conceitos e definições estudadas sobre a cultura, analise as afirmativas abaixo: **(Revisar)**
+10. Acerca dos conceitos e definições estudadas sobre a cultura, analise as afirmativas abaixo:
 
     I – Cultura refere-se ao modo de vida global de uma sociedade ou grupo, que inclui costumes, tradições, leis, conhecimento, crenças, valores, linguagem e produtos materiais, de ferramentas a trabalhos artísticos
 

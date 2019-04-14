@@ -45,25 +45,25 @@ Um exemplo de aplicação do problema estudado é um servidor, onde o mesmo rece
 
 ### Fluxogramas
 
-#### Principal
+#### Diagrama de classes
 
-- Papai Noel acorda apenas quando:
-  - É visitado por 3 elfos
-  - Ou por 9 renas
+![Diagrama de classes](./ClassDiagram1.png)
 
-![1554934835180](C:\Users\Erico\AppData\Roaming\Typora\typora-user-images\1554934835180.png)
+#### Fluxograma basico
 
-- Papai Noel é acordado por 9 renas então:
-  1. Amarra as renas ao treno
-  2. Entrega os presentes
-  3. Solta as renas
-  4. Volta a dormir
+![Fluxograma basico](./Problema do papai noel-Basico.png)
 
-![1554934798761](C:\Users\Erico\AppData\Roaming\Typora\typora-user-images\1554934798761.png)
+#### Fluxograma papai noel
 
-- Papai Noel é acordado por 3 elfos então:
-  1. Discute brinquedos com elfos
-  2. Volta a dormir
+![Fluxograma papai noel](./Problema do papai noel-Papai noel.png)
 
-![1554934857616](C:\Users\Erico\AppData\Roaming\Typora\typora-user-images\1554934857616.png)
+#### Fluxograma Rena
+
+![Fluxograma rena](./Problema do papai noel-Rena.png)
+
+#### Fluxograma Elfo
+
+![Fluxograma elfo](./Problema do papai noel-Elfo.png)
+
+
 
