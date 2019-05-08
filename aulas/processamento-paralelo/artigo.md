@@ -55,9 +55,21 @@ Uma paralelização do programa em uma granularidade mais fina oferecida pelo mo
 ## Links interessantes
 
 - [Programação paralela](http://www.ic.unicamp.br/~cortes/mo601/trabalho_mo601/ivan_freitas_cap2/artigo.pdf)
-
 - [Programação Concorrente x Paralela x Distribuída](https://pt.stackoverflow.com/questions/75727/programa%C3%A7%C3%A3o-concorrente-x-paralela-x-distribu%C3%ADda)
 - [Programação Paralela em Memória Compartilhada e Distribuída](http://www.inf.ufrgs.br/erad2015/downloads/p/mc/mc-schepke.pdf)
 - [Técnicas de orientação ao objetos para computação científica paralela](http://conteudo.icmc.usp.br/pessoas/francisco/works/dissert.pdf)
 - [Programação Paralela Híbrida em CPU e GPU: Uma Alternativa na Busca por Desempenho](http://www.eati.info/eati/2013/assets/anais/artigo124.pdf)
+- [The Semantics of a Simple Language for Parallel Programming](https://pdfs.semanticscholar.org/d42a/29e6977c28f7bf23d63b00c48f2e9100403e.pdf)
+- [Parallel Programming Techniques and Applications using Networked Workstations and Parallel Computers](http://140.127.182.82/homepage/ccchen/parallel/Slides1.pdf)
+- [Modelo HIBRIDO DE PROGRAMAÇÃO PARALELA](http://repositorio.unb.br/bitstream/10482/2271/1/DissertacaoMestrado%20Leonardo%20Nunes%20da%20Silva.pdf)
+- [Ambiente visual para programação distribuida em Java](https://www.lume.ufrgs.br/bitstream/handle/10183/3723/000342260.pdf?sequence=1&isAllowed=y)
+- [Parallel Programming book](https://www.cse.unr.edu/~fredh/class/415/text/pp-2ed/parallel.pdf)
+- [Programação Paralela e Distribuída em Java](https://www.researchgate.net/profile/Marinho_Barcellos/publication/264857336_Programacao_Paralela_e_Distribuida_em_Java/links/58de51c0a6fdcc3c6ac414f5/Programacao-Paralela-e-Distribuida-em-Java.pdf)
 
+## Sandbox
+
+Programação paralela é a divisão de uma determinada aplicação em partes, de maneira que essas partes possam ser executadas simultaneamente, por vários elementos de processamento.
+
+
+
+Computação paralela é o uso simultâneo de múltiplos recursos para resolver um problema computacionais.
