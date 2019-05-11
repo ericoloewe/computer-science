@@ -2,6 +2,20 @@
 
 ## Programação Paralela
 
+### Topicos
+
+- O que é processamento paralelo
+- O que é programação paralela
+- Arquiteturas programação paralela
+- Transferência de dados entre processos
+- Dificuldades programação paralela
+- Node.js e cases de programação paralela
+- Suporte no Node.js
+- Resultados atingidos com Node.js ❓
+- Dificuldade de se utilizar no Node.js
+- Conclusões
+- man
+
 ### O que é?
 
 - Consiste em executar simultaneamente várias partes de uma mesma aplicação
@@ -68,6 +82,9 @@ Uma paralelização do programa em uma granularidade mais fina oferecida pelo mo
 - [Node.js in Action](https://s3.amazonaws.com/academia.edu.documents/44678333/Book-12__Node.js.in.Action_-_Handsome.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1557365012&Signature=1gy6lOQ5va9aHQ%2Bn1d%2BxCwJYZVI%3D&response-content-disposition=inline%3B%20filename%3DM_A_N_N_I_N_G.pdf)
 - [A horizontally-scalable multiprocessing platform
   based on Node.js](https://www.researchgate.net/publication/280034228_A_horizontally-scalable_multiprocessing_platform_based_on_Nodejs)
+- [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2017.11.22a.pdf)
+- [Introduction to Parallel Programming Concepts](https://www.cct.lsu.edu/~scheinin/Parallel/parallelTrain-v1.0.pdf)
+- [Livros de programação gratuitos](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#parallel-programming)
 
 ## Sandbox
 
@@ -80,3 +97,23 @@ Computação paralela é o uso simultâneo de múltiplos recursos para resolver 
 
 
 Programação paralela funciona com multiplos cores ou só multiplos processadores
+
+### [Node.js Cluster - How it works](https://nodejs.org/api/cluster.html#cluster_how_it_works)
+
+#### Comunicação entre processos
+
+Node.js utiliza do IPC para se comunicar entre processos
+
+#### Gerenciamento de processos
+
+- Primeiro modelo [Windows, Linux]
+
+Node.js utiliza do algoritmo round-robin para gerenciar processos
+
+- Segundo modelo [Windows]
+
+O processo principal (Master) cria escutas para o processo principal e a envia aos workers (processos) interessados
+
+#### Limitações
+
+Infelizmente os clusters do Node possuem diversas limitações. Começando com politica de agendamento utilizada na versão 0.12.0 do Node.js de "deixar a responsabilidade ao sistema operacional" o qual é conhecido por não ser muito eficiente na distribuição de cargas geradas pelo Node.js. Em segundo lugar, o cluster só consegue iniciar instancias do Node.js em uma mesma maquina,
