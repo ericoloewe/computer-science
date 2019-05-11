@@ -65,6 +65,9 @@ Uma paralelização do programa em uma granularidade mais fina oferecida pelo mo
 - [Ambiente visual para programação distribuida em Java](https://www.lume.ufrgs.br/bitstream/handle/10183/3723/000342260.pdf?sequence=1&isAllowed=y)
 - [Parallel Programming book](https://www.cse.unr.edu/~fredh/class/415/text/pp-2ed/parallel.pdf)
 - [Programação Paralela e Distribuída em Java](https://www.researchgate.net/profile/Marinho_Barcellos/publication/264857336_Programacao_Paralela_e_Distribuida_em_Java/links/58de51c0a6fdcc3c6ac414f5/Programacao-Paralela-e-Distribuida-em-Java.pdf)
+- [Node.js in Action](https://s3.amazonaws.com/academia.edu.documents/44678333/Book-12__Node.js.in.Action_-_Handsome.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1557365012&Signature=1gy6lOQ5va9aHQ%2Bn1d%2BxCwJYZVI%3D&response-content-disposition=inline%3B%20filename%3DM_A_N_N_I_N_G.pdf)
+- [A horizontally-scalable multiprocessing platform
+  based on Node.js](https://www.researchgate.net/publication/280034228_A_horizontally-scalable_multiprocessing_platform_based_on_Nodejs)
 
 ## Sandbox
 
@@ -73,3 +76,7 @@ Programação paralela é a divisão de uma determinada aplicação em partes, d
 
 
 Computação paralela é o uso simultâneo de múltiplos recursos para resolver um problema computacionais.
+
+
+
+Programação paralela funciona com multiplos cores ou só multiplos processadores
