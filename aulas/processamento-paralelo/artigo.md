@@ -4,11 +4,11 @@
 
 ### Topicos
 
-- O que é processamento paralelo
-- O que é programação paralela
-- Arquiteturas programação paralela
-- Transferência de dados entre processos
-- Dificuldades programação paralela
+- O que é processamento paralelo :x:
+- O que é programação paralela :heavy_check_mark:
+- Dificuldades programação paralela :heavy_check_mark:
+- Arquiteturas programação paralela :heavy_check_mark:
+- Transferência de dados entre processos 
 - Node.js e cases de programação paralela
 - Suporte no Node.js
 - Resultados atingidos com Node.js ❓
@@ -85,18 +85,22 @@ Uma paralelização do programa em uma granularidade mais fina oferecida pelo mo
 - [Is Parallel Programming Hard, And, If So, What Can You Do About It?](https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.2017.11.22a.pdf)
 - [Introduction to Parallel Programming Concepts](https://www.cct.lsu.edu/~scheinin/Parallel/parallelTrain-v1.0.pdf)
 - [Livros de programação gratuitos](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#parallel-programming)
+- [Modelos para computação paralela](http://www.urisan.tche.br/~cspm/Trabalhos_lidos/erad03.pdf)
+- [Computação paralela em Javascript](https://www.researchgate.net/publication/282817272_Computacao_Paralela_em_JavaScript)
 
 ## Sandbox
 
 Programação paralela é a divisão de uma determinada aplicação em partes, de maneira que essas partes possam ser executadas simultaneamente, por vários elementos de processamento.
 
-
+-------------------------
 
 Computação paralela é o uso simultâneo de múltiplos recursos para resolver um problema computacionais.
 
-
+-------------------------
 
 Programação paralela funciona com multiplos cores ou só multiplos processadores
+
+-------------------------
 
 ### [Node.js Cluster - How it works](https://nodejs.org/api/cluster.html#cluster_how_it_works)
 
@@ -114,6 +118,34 @@ Node.js utiliza do algoritmo round-robin para gerenciar processos
 
 O processo principal (Master) cria escutas para o processo principal e a envia aos workers (processos) interessados
 
+-------------------------
+
 #### Limitações
 
 Infelizmente os clusters do Node possuem diversas limitações. Começando com politica de agendamento utilizada na versão 0.12.0 do Node.js de "deixar a responsabilidade ao sistema operacional" o qual é conhecido por não ser muito eficiente na distribuição de cargas geradas pelo Node.js. Em segundo lugar, o cluster só consegue iniciar instancias do Node.js em uma mesma maquina,
+
+-------------------------
+
+O desenvolvimento de programas em paralelo é considerado muito mais complicado do que programas sequenciais, uma vez que, com o paralelismo se tem múltiplas threads para se controlar e os dados podem ser logicamente e fisicamente distribuídos. Em particular:
+
+- Comunicação e sincronização (e.g deadlocks) são difíceis de serem rastreados
+- O não determinismo em um programa paralelo faz seu comportamento difícil de se entender
+- Particionamento de dados, mapeamento de processos e sincronização podem atrapalhar na performance.
+
+
+
+-----------------------
+
+
+
+Infelizmente não existe um modelo universal para computação paralela similar ao modelo de Von Neuman para a computação sequencial. Um bom modelo deve ter as seguintes qualidades: ser ao mesmo tempo simples e realista, sendo estas duas qualidades antagônicas. Quanto mais um modelo é simples, logo abstrato, menos ele aproxima o comportamento de uma maquina real. Por outro lado, um modelo muito realista geralmente é de difícil utilização.
+
+--------------
+
+Dada a diversidade de arquiteturas paralelas, diversas linguagens, compiladores e bibliotecas especiais foram propostos, visando gerenciar o paralelismo. \cite{lmsetmhs:96}
+
+% Explicar o porque os softwares vem sido escrito de maneira serial
+Tradicionalmente softwares vem sido escrito de maneira serial, mas isso vem cada vez mais se tornando um problema, pois, a cada dia o uso de tecnologia aumenta, junto com a quantidade de aplicações rodando, isso resulta em um uso gigantesco de energia e tempo. Com o paralelismo, conseguimos diminuir ambos os fatores, resultando em um ganho tanto para a aplicação quanto para o meio ambiente.
+
+% Explicar o que é computação paralela e serial
+Computação paralela é o uso simultâneo de múltiplos recursos para resolver um problema computacionais. \cite{bblln:18}
