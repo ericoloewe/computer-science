@@ -14,7 +14,6 @@
 - Resultados atingidos com Node.js ❓
 - Dificuldade de se utilizar no Node.js
 - Conclusões
-- man
 
 ### O que é?
 
