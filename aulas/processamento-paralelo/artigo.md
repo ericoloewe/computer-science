@@ -86,6 +86,8 @@ Uma paralelização do programa em uma granularidade mais fina oferecida pelo mo
 - [Livros de programação gratuitos](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#parallel-programming)
 - [Modelos para computação paralela](http://www.urisan.tche.br/~cspm/Trabalhos_lidos/erad03.pdf)
 - [Computação paralela em Javascript](https://www.researchgate.net/publication/282817272_Computacao_Paralela_em_JavaScript)
+- [Uso de programação funcional em paralelismo](https://www.ime.usp.br/~gold/cursos/2015/MAC5742/reports/ProgramacaoFuncional.pdf)
+- [Interprocess Communications](https://docs.microsoft.com/en-us/windows/desktop/ipc/interprocess-communications)
 
 ## Sandbox
 
@@ -148,3 +150,21 @@ Tradicionalmente softwares vem sido escrito de maneira serial, mas isso vem cada
 
 % Explicar o que é computação paralela e serial
 Computação paralela é o uso simultâneo de múltiplos recursos para resolver um problema computacionais. \cite{bblln:18}
+
+
+
+The cluster API: taking advantage of multiple cores
+Most modern computer CPUs have multiple cores, but a Node process uses only one
+of them when running. If you were hosting a Node application on a server and wanted
+to maximize the server’s usage, you could manually start multiple instances of your
+application on different TCP/IP ports and use a load balancer to distribute web traffic
+to these different instances, but that’s laborious to set up.
+To make it easier to use multiple cores for a single application, the cluster API was
+added to Node. This API makes it easy for your application to simultaneously run multiple “workers” on different cores that each do the same thing and respond to the
+same TCP/IP port. Figure 12.4 shows how an application’s processing would be organized using the cluster API on a four-core processor.
+
+
+
+
+
+It is important to keep in mind that spawned Node.js child processes are independent of the parent with exception of the IPC communication channel that is established between the two. Each process has its own memory, with their own V8 instances. Because of the additional resource allocations required, spawning a large number of child Node.js processes is not recommended.
