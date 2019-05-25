@@ -5,7 +5,7 @@ Nesta temática a proposta é estudar o conceito de normalidade e patologia no q
 Como se define e diferencia um comportamento normal de um patológico? É possível definir e generalizar um modelo de normalidade aplicável a todas as pessoas?
 Para buscar respostas a estas e tantas outras questões que se colocam frente à loucura e à promoção de saúde convido você a estudar os materiais disponíveis e realizar as atividades de estudo.
 
-### Material Básico
+### 📚 Material Básico
 
 [Normalidade e psicopatologia: Reflexões Iniciais](https://feevale.blackboard.com/bbcswebdav/pid-1020599-dt-content-rid-3300340_1/xid-3300340_1)
 
@@ -19,7 +19,7 @@ ENTREVISTA SOBRE SAÚDE MENTAL | versão adaptada do material abaixo: Vídeo em 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y5lO5RHZE2g" frameborder="0" allowfullscreen=""></iframe>
 
-### Material Complementar
+### 🖌 Material Complementar
 
 #### Saúde Mental
 

@@ -6,7 +6,7 @@
 
 Na temática que se inicia Fundamentos da Psicologia, serão abordados os aspectos introdutórios da Psicologia, seu desenvolvimento histórico, objetos de estudo e diferentes áreas de conhecimento.
 
-#### Material Básico
+#### 📚 Material Básico
 
 - [O Conceito de Ciência em Psicologia](https://feevale.blackboard.com/bbcswebdav/pid-1020589-dt-content-rid-3300219_1/xid-3300219_1)
 
@@ -26,7 +26,7 @@ Na temática que se inicia Fundamentos da Psicologia, serão abordados os aspect
 
 ![infogrÃ¡fico](D:\Codigos\repositorios\computer-science\aulas\psicologia-geral\Infografico_TeM_B.jpg)
 
-#### Material Complementar
+#### 🖌 Material Complementar
 
 Aqueles que tiverem interesse, poderão dar continuidade a suas leituras sobre os temas abordados nessa primeira temática, a partir da leitura do artigo e visita ao site disponibilizados. Ressaltamos, neste tópico, um convite especial para que você acesse o site do Conselho Federal de Psicologia, onde poderá encontrar vídeos e publicações sobre as diferentes áreas da Psicologia ([http://www.cfp.org.br](http://www.cfp.org.br/)). Nesse site você poderá conhecer um pouco mais das discussões e problemáticas da Psicologia na atualidade.
 

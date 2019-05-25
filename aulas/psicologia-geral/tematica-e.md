@@ -4,14 +4,14 @@
 
 Nesta temática estudaremos como os conhecimentos da psicologia estão inseridos em diferentes contextos. Tanto a prática profissional do psicólogo quanto seus saberes são transversais nas mais diversas áreas de atuação.
 
-### Material Básico
+### 📚 Material Básico
 
 - [Contextos e Possibilidades em Psicologia como Ciência e Profissão](https://feevale.blackboard.com/bbcswebdav/pid-1020604-dt-content-rid-3300372_1/xid-3300372_1) 
 - Psicologia - 50 Anos de Profissão no Brasil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/82shonzH99A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Material Complementar
+### 🖌 Material Complementar
 
 - [Psicologia Escolar e Educacional: história, compromissos e perspectivas](https://feevale.blackboard.com/bbcswebdav/pid-1020604-dt-content-rid-3300379_1/xid-3300379_1)
 

@@ -8,7 +8,7 @@ O ciclo vital humano traz, em cada uma de suas fases, novos desafios e atribuiç
 
 Nesta temática além das atividades de estudo você irá realizar a primeira atividade avaliativa. Portanto, atente aos prazos.
 
-### Material Básico
+### 📚 Material Básico
 
 - [Desenvolvimento Humano - Papalia & Feldman](https://feevale.blackboard.com/bbcswebdav/pid-1020592-dt-content-rid-3300238_1/xid-3300238_1)
 - [Fundamentos do Desenvolvimento Psíquico](https://feevale.blackboard.com/bbcswebdav/pid-1020592-dt-content-rid-3300240_1/xid-3300240_1)
@@ -27,7 +27,7 @@ Nesta temática além das atividades de estudo você irá realizar a primeira at
 
 <iframe id="iframe_container" width="550" height="400" style="font-size: 13px;" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="" src="https://prezi.com/embed/ge87lgnbriwq/?bgcolor=ffffff&amp;lock_to_path=0&amp;autoplay=0&amp;autohide_ctrls=0&amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI0aXpXS1dnMDltMTR4WGFoM0ExalJMZ1VnPT0&amp;landing_sign=E7WS2AtCBMfJ2eGkxWM6k8YYRDrJ2lTH-bFyExF6qjg"></iframe>
 
-### Material Complementar
+### 🖌 Material Complementar
 
 - [A ciência do desenvolvimento humano](https://feevale.blackboard.com/bbcswebdav/pid-1020592-dt-content-rid-3300335_1/xid-3300335_1) 
 
@@ -77,4 +77,3 @@ olhos fechados mas podem flutuar entre o aberto e o fechado. Pode-se observar os
 presença de movimentos frequentes, os olhos olham em torno e o recém-nascido faz pequenos sons. Este estado aparece antes de se alimentar ou quando o RN está inquieto.
 
 
-  

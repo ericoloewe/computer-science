@@ -6,7 +6,7 @@
 
 Esta última temática irá abordar o tema das relações humanas e as perspectivas atuais em psicologia. Em especial, vamos estudar o tema dos direitos humanos, gênero e subjetividades, por fim, as relações étnico-raciais sob a perspectiva da psicologia. Os materiais básicos estão organizados no formato de texto. O material complementar caracteriza-se pela apresentação de vídeos que podem auxiliar na compreensão dos materiais básicos.
 
-### Material Básico
+### 📚 Material Básico
 
 - [Psicologia, Direitos Humanos e Neoliberalismo](https://feevale.blackboard.com/bbcswebdav/pid-1020606-dt-content-rid-3300386_1/xid-3300386_1) 
 - Disponível em: http://each.uspnet.usp.br/rpp/index.php/RPPEACH/article/view/5
@@ -16,7 +16,7 @@ Esta última temática irá abordar o tema das relações humanas e as perspecti
 
 ![INFOGRÁFICO: Sexualidade Humana](./Infografico sexualidade-03_publicar.jpg)
 
-### Material Complementar
+### 🖌 Material Complementar
 
 - Psicologia e Direitos Humanos
 
