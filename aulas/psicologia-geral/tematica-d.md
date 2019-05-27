@@ -71,3 +71,56 @@ Todas elas sugerem a extinção dos hospitais psiquiátricos e buscam restaurar 
 
 Condições sociais, trabalho,lazer, sistema educacional competitivo, falta de estrutura familiar, violência urbana, etc.
 
+### Pergunta 1
+
+O que preconizam as teorias que surgiram no fim do século XX, chamadas de Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social?
+
+- Todas elas sugerem a extinção dos hospitais psiquiátricos e buscam restaurar a humanidade da pessoa institucionalizada.
+
+#### Resposta professor:
+
+Todas essas teorias sugerem a extinção dos hospitais psiquiátricos e buscam restaurar a humanidade da pessoa institucionalizada.
+
+### Pergunta 2
+
+De acordo com o texto, qual o conceito básico da reforma da assistência em saúde mental?
+
+- É o de devolver a autonomia, de devolver a “voz”, a identidade, as habilidades, o futuro, o papel social, ao paciente institucionalizado, procurando desta forma reabilitá-lo para o convívio na sociedade 
+
+#### Resposta professor:
+
+O conceito é de devolver a autonomia, de devolver a “voz”, a identidade, as habilidades, o futuro, o papel social ao paciente institucionalizado procurando, assim, reabilitá-lo para o convívio com a sociedade.
+
+### Pergunta 3
+
+Conforme indicado no texto "Normalidade e Patologia: Reflexões Iniciais", o dicionário de psicologia aponta três definições para normalidade. Cite e explique cada uma delas:
+
+1 - Comportamento é aceito como usual ou de ocorrência frequente
+
+2 - Comportamento normal considera-o assim aquele comportamento que se conforma às normas ou às demandas sociais aceitas﻿﻿
+
+3 - Comportamento estatisticamente comum, independente de consenso ﻿﻿
+
+#### Resposta professor:
+
+(1) Normalidade como um comportamento aceito como usual ou mais frequente. (2) Comportamento normal aquele que está conforme às normas ou às demandas sociais aceitas. (3)  Normalidade como algo estatisticamente comum, independente do consenso.
+
+### Pergunta 4
+
+Como pode-se evidenciar no texto, os profissionais da área da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Eles preferem falar em comportamento desajustado ou desajustamento. Por que isso ocorre?
+
+- Pois definir alguém /rotular alguém ﻿﻿﻿﻿como "normal" ou "anormal"﻿﻿﻿﻿﻿﻿﻿ é algo extremamente complexo, especialmente se nos baseamos em diretrizes ﻿absolutas. (﻿﻿﻿Devido a ﻿variação﻿ da definição﻿﻿ entre ﻿autores)﻿
+
+#### Resposta professor:
+
+A definição de normalidade ou anormalidade perpassa por padrões culturais, dessa forma, utilizar o termo “comportamento ajustado” ou “desajustamento” permite que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.
+
+### Pergunta 5
+
+O que as novas concepções (Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social) preconizam como causas fora do indivíduo que possam gerar a doença mental?
+
+- Condições sociais, trabalho,lazer, sistema educacional competitivo, falta de estrutura familiar, violência urbana, etc.
+
+#### Resposta professor:
+
+Condições sociais, trabalho, lazer, sistema ocupacional competitivo, falta de estrutura familiar, violência urbana, etc.
