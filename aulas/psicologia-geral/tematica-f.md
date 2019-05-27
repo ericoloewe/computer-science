@@ -48,15 +48,27 @@ Sexualidade
 
 Não é o sexo, mas o modo de ser que incorpora um corpo mediante suas práticas (relacionadas ao prazer, ao desejo, aos modos de ser e de buscar se realizar, às expressões de afeto, carinho e sentimento)
 
+#### Resposta professor:
+
+Modo de ser que incorpora um corpo mediante suas práticas (relacionada ao prazer, ao desejo, aos modos de ser e de buscar se realizar, às expressões de afeto, carinho e sentimento)
+
 ### PERGUNTA 2
 
 Racismo
 
 O racismo consiste na idéia de que algumas raças são inferiores a outras, atribuindo desigualdades sociais, culturais, políticas, psicológicas, à “raça” e, portanto, legitimando as diferenças sociais a partir de supostas  diferenças biológicas. 
 
+#### Resposta professor:
+
+Consiste na ideia de que algumas raças são inferiores a outras, atribuindo desigualdades sociais, culturais, políticas, psicológicas, à “raça” e, portanto, legitimando as diferenças sociais a partir de supostas diferenças biológicas.
+
 ### PERGUNTA 3
 
 Orientação Sexual
+
+Adoção de comportamento heterossexuais, bissexuais, homossexuais, transexuais, etc.
+
+#### Resposta professor:
 
 Adoção de comportamento heterossexuais, bissexuais, homossexuais, transexuais, etc.
 
@@ -66,17 +78,29 @@ Raça
 
 Raça é uma construção social essencialista, amplamente aceita criado e reforçado em práticas cotidianas.
 
+#### Resposta professor:
+
+É um operador social usado para agregar indivíduos e grupos que compartilham certos aspectos físicos observáveis e ajuda a determinar uma atitude negativa frente a eles. É uma construção social essencialista, amplamente aceita.
+
 ### PERGUNTA 5
 
 Sexo
 
 Associado àquilo que é físico, geneticamente herdado
 
+#### Resposta professor:
+
+Associado àquilo que é físico, geneticamente herdado.
+
 ### PERGUNTA 6
 
 Gênero
 
 Construção social de masculinidades e feminidades
+
+#### Resposta professor:
+
+Construção social de masculinidades e feminilidades
 
 ## Atividade Avaliativa - 2C - 24/05 a 07/06
 
