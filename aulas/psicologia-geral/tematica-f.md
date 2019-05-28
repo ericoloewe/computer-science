@@ -1,5 +1,3 @@
-
-
 # Temática F – Relações Humanas e perspectivas atuais em Psicologia
 
 ## Orientação de estudos
