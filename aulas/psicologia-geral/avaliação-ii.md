@@ -22,7 +22,7 @@ III - O racismo consiste na ideia de que algumas raças são inferiores a outras
 - Apenas a afirmativa I está correta
 - Apenas a afirmativa II está correta
 - Apenas as afirmativas I e II estão corretas
-- Apenas as afirmativas II e III estão corretas
+- **Apenas as afirmativas II e III estão corretas**
 - Todas as afirmativas estão corretas
 
 ### PERGUNTA 2
@@ -31,7 +31,7 @@ No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, 
 
 - Há uma definição no código de ética profissional que proíbe a utilização desses termos.
 - A definição de normalidade ou anormalidade é utilizada apenas pelo senso comum.
-- Eles preferem utilizar os termos “comportamento ajustado” ou “desajustamento”, os quais permitem que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.
+- **Eles preferem utilizar os termos “comportamento ajustado” ou “desajustamento”, os quais permitem que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.**
 - A definição de normalidade e anormalidade é muito antiga e não contempla as mudanças sociais e econômicas atuais.
 - Há um consenso na literatura para não designar as pessoas como “normais” ou “anormais”.
 
@@ -42,7 +42,7 @@ Considerando-se que os psicólogos possuem diversos campos de atuação, analise
 O psicólogo ___________________, entre outras atribuições, elabora laudos, relatórios e pareceres, colaborando com a ordem jurídica através da avaliação da personalidade deste e fornecendo subsídios ao processo judicial quando solicitado pela autoridade competente. Assessora, também, autoridades judiciais no encaminhamento a terapias psicológicas, quando necessário.
 
 - Clínico
-- Jurídico
+- **Jurídico**
 - do Trânsito
 - do Trabalho
 - Educacional/Escolar
@@ -53,7 +53,7 @@ Psicologia possui instrumentos próprios para obter dados sobre a vida psíquica
 
 - a prescrição de medicamentos
 - o reiky
-- as técnicas de entrevista
+- **as técnicas de entrevista**
 - o uso de florais
 - a grafologia.
 
@@ -63,7 +63,7 @@ No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, 
 
 > Esse entendimento significa que, mesmo um comportamento considerado pela sociedade como típico, quando se torna incapacitante ou gera angústia em demasia, poderá estar indicando um distúrbio psíquico
 
-- Verdadeiro
+- **Verdadeiro**
 - Falso
 
 ### PERGUNTA 6
@@ -78,7 +78,7 @@ No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, 
 
 [   ] Gênero é uma construção social de masculinidades e feminilidades.
 
-- V, F, F, V
+- **V, F, F, V**
 - F, F, V, V
 - V, V, F, F
 - V, V, F, V
@@ -96,7 +96,7 @@ III – A realização de atividades em grupo e de intervenção psicossocial co
 
 - Apenas a afirmativa I está correta.
 - Apenas a afirmativa II está correta.
-- Apenas a afirmativa III está correta.
+- **Apenas a afirmativa III está correta.**
 - Apenas as afirmativas I e II estão corretas.
 - Todas as afirmativas estão corretas.
 
@@ -112,7 +112,7 @@ III - que os pacientes psiquiátricos possam ter acesso à escola e ao bolsa fam
 
 - Apenas a afirmativa I está correta.
 - Apenas a afirmativa II está correta.
-- Apenas as afirmativas I e II estão corretas.
+- **Apenas as afirmativas I e II estão corretas.**
 - Apenas as afirmativas II e III estão corretas.
 - Todas as afirmativas estão corretas.
 
@@ -129,7 +129,7 @@ III - Comportamento normal aquele que está conforme às normas ou às demandas 
 - Apenas a afirmativa I está correta.
 - Apenas a afirmativa II está correta.
 - Apenas a afirmativa III está correta.
-- Apenas as afirmativas I e III estão corretas.
+- **Apenas as afirmativas I e III estão corretas.**
 - Apenas as afirmativas II e III estão corretas.
 
 ### PERGUNTA 10
@@ -142,7 +142,7 @@ II - O psicólogo de marketing e propaganda pode atuar assessorando quanto aos a
 
 III - O psicólogo federal atua no âmbito da Justiça Federal, nas instituições governamentais e não governamentais, colaborando no planejamento e na execução de políticas de cidadania, direitos humanos e prevenção da violência.
 
-- Apenas a afirmativa I está correta.
+- **Apenas a afirmativa I está correta.**
 - Apenas a afirmativa II está correta.
 - Apenas as afirmativas I e II estão corretas.
 - Apenas as afirmativas II e III estão corretas.
