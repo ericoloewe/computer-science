@@ -43,6 +43,136 @@ Espera-se que a turma consiga postar muitas dicas interessantes de filmes que tr
 
 Para auxiliar na fixação do conteúdo estudado na Temática C, responda às questões.
 
+### PERGUNTA 1
+
+O processo de envelhecimento envolve um declínio no funcionamento de todos os sistemas do corpo, em especial do cérebro.
+
+- **Verdadeiro**
+
+- Falso
+
+#### Resposta professor:
+
+-
+
+### PERGUNTA 2
+
+De acordo com dados da Organização Mundial da Saúde, a velhice inicia aos 65 anos e é o ápice do processo de envelhecimento que acompanha o desenvolvimento ao longo do ciclo vital.
+
+- **Verdadeiro**
+
+- Falso
+
+#### Resposta professor:
+
+-
+
+### PERGUNTA 3
+
+O que caracteriza a fase adulta?
+
+-
+
+#### Resposta professor:
+
+-
+
+### PERGUNTA 4
+
+Paul Baltes indica sete princípios da abordagem ao desenvolvimento do ciclo de vida. Quais são eles?
+
+-
+
+#### Resposta professor:
+
+-
+
+### PERGUNTA 5
+
+O que caracteriza a fase adulta?
+
+A: Desenvolvimento físico
+
+B: Desenvolvimento cognitivo
+
+C: Desenvolvimento psicossocial
+
+Relacione as colunas
+
+- [ ? ] Crescimento do corpo e do cérebro, incluindo os padrões de mudança nas capacidades sensoriais, habilidades motoras e saúde.
+
+- [ ? ] Padrão de mudança nas habilidades mentais, tais como aprendizagem, atenção, memória, linguagem, pensamento, raciocínio e criatividade.
+
+- [ ? ] Padrão de mudança nas emoções, personalidade e relações sociais.
+
+#### Resposta professor:
+
+-
+
+### PERGUNTA 6
+
+Tendo em vista que a divisão do ciclo vital em fases é uma construção social, conceitue “construção social”.
+
+\-
+
+#### Resposta professor:
+
+\-
+
+### PERGUNTA 7
+
+Como se pode conceituar o fenômeno chamado “adultescência” ou “kidadults”?
+
+\-
+
+#### Resposta professor:
+
+\-
+
+### PERGUNTA 8
+
+Na perspectiva do desenvolvimento humano, qual o papel do brincar na fase da infância?
+
+\-
+
+#### Resposta professor:
+
+\-
+
+### PERGUNTA 9
+
+O que é desenvolvimento humano?
+
+\-
+
+#### Resposta professor:
+
+\-
+
+### PERGUNTA 10
+
+A utilização do termo velhice é equivocada e, dessa forma, deve-se utilizar somente o termo Terceira Idade, por ter conotações menos depreciativas.
+
+- Verdadeiro
+
+- **Falso**
+
+#### Resposta professor:
+
+\-
+
+### PERGUNTA 11
+
+A velhice é percebida como fenômeno natural e social cujo processo envolve problemas e limitações de ordem biológica, econômica e sociocultural que singularizam seu processo de envelhecimento.
+
+- **Verdadeiro**
+
+- Falso
+
+#### Resposta professor:
+
+\-
+
 ## [Atividade Avaliativa - 1C](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_76531_1&content_id=_1020598_1&mode=view)
 
 Responda o questionário.
