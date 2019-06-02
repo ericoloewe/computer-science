@@ -47,30 +47,6 @@ Contribua comentando os apontamentos dos seus colegas e discutindo esta temátic
 ## Atividade de estudo 7: Questionário sobre saúde mental
 Após o estudo dos materiais básicos previstos na Temática D, teste seus conhecimentos acerca do conteúdo estudado, respondendo o questionário sobre saúde mental.
 
-- De acordo com o texto, qual o conceito básico da reforma da assistência em saúde mental?
-
-É o de devolver a autonomia, de devolver a “voz”, a identidade, as habilidades, o futuro, o papel social, ao paciente institucionalizado, procurando desta forma reabilitá-lo para o convívio na sociedade 
-
-- Como pode-se evidenciar no texto, os profissionais da área da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Eles preferem falar em comportamento desajustado ou desajustamento. Por que isso ocorre?
-
-Pois definir alguém /rotular alguém ﻿﻿﻿﻿como "normal" ou "anormal"﻿﻿﻿﻿﻿﻿﻿ é algo extremamente complexo, especialmente se nos baseamos em diretrizes ﻿absolutas. (﻿﻿﻿Devido a ﻿variação﻿ da definição﻿﻿ entre ﻿autores)﻿
-
-- Conforme indicado no texto "Normalidade e Patologia: Reflexões Iniciais", o dicionário de psicologia aponta três definições para normalidade. Cite e explique cada uma delas:
-
-1 - Comportamento é aceito como usual ou de ocorrência frequente
-
-2 - Comportamento normal considera-o assim aquele comportamento que se conforma às normas ou às demandas sociais aceitas﻿﻿
-
-3 - Comportamento estatisticamente comum, independente de consenso ﻿﻿
-
-- O que preconizam as teorias que surgiram no fim do século XX, chamadas de Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social?
-
-Todas elas sugerem a extinção dos hospitais psiquiátricos e buscam restaurar a humanidade da pessoa institucionalizada.
-
-- O que as novas concepções (Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social) preconizam como causas fora do indivíduo que possam gerar a doença mental?
-
-Condições sociais, trabalho,lazer, sistema educacional competitivo, falta de estrutura familiar, violência urbana, etc.
-
 ### Pergunta 1
 
 O que preconizam as teorias que surgiram no fim do século XX, chamadas de Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social?
