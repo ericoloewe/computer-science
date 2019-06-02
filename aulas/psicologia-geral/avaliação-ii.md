@@ -17,21 +17,21 @@ I – O racismo legitima as diferenças sociais a partir de supostas diferenças
 
 II - Raça é uma construção social essencialista, amplamente aceita, criada e reforçada em práticas cotidianas.
 
-III - O racismo consiste na ideia de que algumas raças são inferiores a outras, atribuindo desigualdades sociais, culturais, políticas, psicológicas, à “raça”.
+III - O racismo consiste na ideia de que algumas raças são inferiores a outras, atribuindo desigualdades sociais, culturais, políticas, psicológicas, à “raça”. :heavy_check_mark:
 
 - Apenas a afirmativa I está correta
 - Apenas a afirmativa II está correta
 - Apenas as afirmativas I e II estão corretas
-- **Apenas as afirmativas II e III estão corretas**
+- **Apenas as afirmativas II e III estão corretas** 
 - Todas as afirmativas estão corretas
 
 ### PERGUNTA 2
 
-No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, afirma-se que os profissionais da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Isso ocorre porque:
+No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, afirma-se que os profissionais da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Isso ocorre porque: :question:
 
 - Há uma definição no código de ética profissional que proíbe a utilização desses termos.
 - A definição de normalidade ou anormalidade é utilizada apenas pelo senso comum.
-- **Eles preferem utilizar os termos “comportamento ajustado” ou “desajustamento”, os quais permitem que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.**
+- **Eles preferem utilizar os termos “comportamento ajustado” ou “desajustamento”, os quais permitem que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.** 
 - A definição de normalidade e anormalidade é muito antiga e não contempla as mudanças sociais e econômicas atuais.
 - Há um consenso na literatura para não designar as pessoas como “normais” ou “anormais”.
 
@@ -39,7 +39,7 @@ No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, 
 
 Considerando-se que os psicólogos possuem diversos campos de atuação, analise a afirmativa a seguir, relacionada com esse tema, e preencha as lacunas abaixo, conforme as opções a seguir:
 
-O psicólogo ___________________, entre outras atribuições, elabora laudos, relatórios e pareceres, colaborando com a ordem jurídica através da avaliação da personalidade deste e fornecendo subsídios ao processo judicial quando solicitado pela autoridade competente. Assessora, também, autoridades judiciais no encaminhamento a terapias psicológicas, quando necessário.
+O psicólogo ___________________, entre outras atribuições, elabora laudos, relatórios e pareceres, colaborando com a ordem jurídica através da avaliação da personalidade deste e fornecendo subsídios ao processo judicial quando solicitado pela autoridade competente. Assessora, também, autoridades judiciais no encaminhamento a terapias psicológicas, quando necessário. :heavy_check_mark:
 
 - Clínico
 - **Jurídico**
