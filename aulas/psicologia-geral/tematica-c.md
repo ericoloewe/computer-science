@@ -71,7 +71,10 @@ De acordo com dados da Organização Mundial da Saúde, a velhice inicia aos 65 
 
 O que caracteriza a fase adulta?
 
--
+- Fase das realizações e confirmações
+- Fase de amadurecimento físico (não mais crescimento)
+- Alcança-se o auge da maturidade física e emocional ("auge financeiro")
+- Fase de sair da família de origem para formar a propria família (prazer e gratificação)
 
 #### Resposta professor:
 
@@ -81,7 +84,14 @@ O que caracteriza a fase adulta?
 
 Paul Baltes indica sete princípios da abordagem ao desenvolvimento do ciclo de vida. Quais são eles?
 
--
+1. **O desenvolvimento é vitalício.** O desenvolvimento é um processo vitalício de mudança. Cada período do ciclo de vida é afetado pelo que aconteceu antes e afetará o que está por vir. Cada período tem características e valores únicos. Nenhum período é mais ou menos importante que qualquer outro.
+
+  2. **O desenvolvimento é multidimensional.** Ocorre ao longo de múltiplas dimensões que interagem – biológica, psicológica e socialmente –, cada uma delas podendo se desenvolver em ritmos diferentes.
+  3. **O desenvolvimento é multidirecional.** Enquanto as pessoas ganham em uma área, podem perder em outra, às vezes ao mesmo tempo. As crianças crescem principalmente em uma direção – para cima – tanto em tamanho quanto em habilidades. Depois o equilíbrio aos poucos se desloca. Os adolescentes ganham em termos de habilidade física, mas sua facilidade em aprender uma nova língua declina. Algumas habilidades, como o vocabulário, geralmente continuam crescendo ao longo da idade adulta; outras, como a capacidade de resolver problemas com os quais não estão familiarizados, poderão diminuir; mas alguns novos atributos, como a sabedoria, poderão aumentar com a idade. As pessoas procuram maximizar os ganhos concentrando-se em fazer coisas que sabem fazer bem e minimizar perdas aprendendo a administrá-las ou compensá-las.
+  4. **Influências relativas de mudanças biológicas e culturais sobre o ciclo de vida.** O processo de desenvolvimento é influenciado tanto pela biologia quanto pela cultura, mas o equilíbrio entre essas influências se altera. Habilidades biológicas, como acuidade sensorial, força e coordenação muscular, tornam-se mais fracas com a idade, mas apoios culturais, tais como educação, relacionamentos e ambientes tecnologicamente adequados à idade, podem ajudar a compensar.
+  5. **O desenvolvimento envolve mudança na alocação de recursos.** Os indivíduos escolhem como “investir” seus recursos de tempo, energia, talento, dinheiro e apoio social de várias maneiras. Os recursos podem ser usados para o crescimento (por exemplo, aprender a tocar um instrumento ou aprimorar uma habilidade), para a conservação ou recuperação (praticar para manter ou recobrar uma proficiência), ou para lidar com a perda quando a conservação e a recuperação não forem possíveis. A alocação de recursos para essas três funções muda ao longo da vida, à medida que diminui o conjunto de recursos disponíveis. Na infância e no início da vida adulta, a maior parte dos recursos é direcionada para o crescimento; na velhice, para a regulação da perda. Na meia-idade, a alocação é mais equilibrada entre as três funções.
+  6. **O desenvolvimento revela plasticidade.** Muitas capacidades, como a memória, a força física e a resistência, podem ser aperfeiçoadas com o treinamento e a prática, mesmo em idade avançada. Mas, até mesmo nas crianças, a plasticidade tem limites que em parte dependem das várias influências sobre o desenvolvimento. Uma das tarefas da pesquisa em desenvolvimento é descobrir até que ponto determinados tipos de desenvolvimento podem ser modificados nas diversas idades.
+  7. **O desenvolvimento é influenciado pelo contexto histórico e cultural.** Cada pessoa se desenvolve em múltiplos contextos – circunstâncias ou condições definidas em parte pela maturação e em parte pelo tempo e lugar. Os seres humanos não apenas influenciam, mas também são influenciados pelo contexto histórico-cultural. Conforme discutiremos ao longo deste livro, os cientistas do desenvolvimento descobriram diferenças significativas entre coortes, por exemplo, no funcionamento  intelectual, no desenvolvimento emocional de mulheres na meia-idade e na flexibilidade da personalidade na velhice.
 
 #### Resposta professor:
 
@@ -99,11 +109,11 @@ C: Desenvolvimento psicossocial
 
 Relacione as colunas
 
-- [ ? ] Crescimento do corpo e do cérebro, incluindo os padrões de mudança nas capacidades sensoriais, habilidades motoras e saúde.
+- [ A ] Crescimento do corpo e do cérebro, incluindo os padrões de mudança nas capacidades sensoriais, habilidades motoras e saúde.
 
-- [ ? ] Padrão de mudança nas habilidades mentais, tais como aprendizagem, atenção, memória, linguagem, pensamento, raciocínio e criatividade.
+- [ B ] Padrão de mudança nas habilidades mentais, tais como aprendizagem, atenção, memória, linguagem, pensamento, raciocínio e criatividade.
 
-- [ ? ] Padrão de mudança nas emoções, personalidade e relações sociais.
+- [ C ] Padrão de mudança nas emoções, personalidade e relações sociais.
 
 #### Resposta professor:
 
@@ -113,7 +123,7 @@ Relacione as colunas
 
 Tendo em vista que a divisão do ciclo vital em fases é uma construção social, conceitue “construção social”.
 
-\-
+É um conceito ou prática que pode parecer natural e óbvio àqueles que o aceitam, mas na realidade é uma invenção de uma determinada cultura ou sociedade
 
 #### Resposta professor:
 
@@ -123,7 +133,7 @@ Tendo em vista que a divisão do ciclo vital em fases é uma construção social
 
 Como se pode conceituar o fenômeno chamado “adultescência” ou “kidadults”?
 
-\-
+É caracterizado por um prolongamento da adolescência, de modo que a transição para a vida adulta ocorre parcialmente.
 
 #### Resposta professor:
 
@@ -133,7 +143,7 @@ Como se pode conceituar o fenômeno chamado “adultescência” ou “kidadults
 
 Na perspectiva do desenvolvimento humano, qual o papel do brincar na fase da infância?
 
-\-
+O brincar tem um papel fundamental na infância, pois auxilia a criança na mediação dessa separação, de modo que é através dele que a criança pode colocar seus conflitos em cena, de forma ativa.
 
 #### Resposta professor:
 
@@ -143,7 +153,7 @@ Na perspectiva do desenvolvimento humano, qual o papel do brincar na fase da inf
 
 O que é desenvolvimento humano?
 
-\-
+Estudo científico dos processos de transformação e estabilidade ao longo de todo o ciclo de vida humano.
 
 #### Resposta professor:
 
