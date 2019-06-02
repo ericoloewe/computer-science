@@ -74,7 +74,7 @@ O que caracteriza a fase adulta?
 - Fase das realizações e confirmações
 - Fase de amadurecimento físico (não mais crescimento)
 - Alcança-se o auge da maturidade física e emocional ("auge financeiro")
-- Fase de sair da família de origem para formar a propria família (prazer e gratificação)
+- Fase de sair da família de origem para formar a própria família (prazer e gratificação)
 
 #### Resposta professor:
 
