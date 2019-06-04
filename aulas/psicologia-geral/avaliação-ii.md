@@ -49,7 +49,7 @@ O psicólogo ___________________, entre outras atribuições, elabora laudos, re
 
 ### PERGUNTA 4
 
-Psicologia possui instrumentos próprios para obter dados sobre a vida psíquica. Entre esses, encontra-se
+Psicologia possui instrumentos próprios para obter dados sobre a vida psíquica. Entre esses, encontra-se :heavy_check_mark:
 
 - a prescrição de medicamentos
 - o reiky
@@ -59,7 +59,7 @@ Psicologia possui instrumentos próprios para obter dados sobre a vida psíquica
 
 ### PERGUNTA 5
 
-No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, há a definição de que o comportamento para ser considerado psicologicamente perturbado deve ser angustiante ou incapacitante. Sendo assim, analise a afirmativa abaixo e responda verdadeiro ou falso.
+No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, há a definição de que o comportamento para ser considerado psicologicamente perturbado deve ser angustiante ou incapacitante. Sendo assim, analise a afirmativa abaixo e responda verdadeiro ou falso. :heavy_check_mark:
 
 > Esse entendimento significa que, mesmo um comportamento considerado pela sociedade como típico, quando se torna incapacitante ou gera angústia em demasia, poderá estar indicando um distúrbio psíquico
 
@@ -68,15 +68,15 @@ No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, 
 
 ### PERGUNTA 6
 
-4. Sobre o tema da sexualidade humana, verifique as afirmativas verdadeiras e falsas, em seguida marque a alternativa correta:
+4. Sobre o tema da sexualidade humana, verifique as afirmativas verdadeiras e falsas, em seguida marque a alternativa correta: :heavy_check_mark:
 
-[   ] Sexo está associado àquilo que é físico, geneticamente herdado.
+[  V  ] Sexo está associado àquilo que é físico, geneticamente herdado.
 
-[   ] Sexualidade compreende aquilo que é aprendido após a iniciação sexual.
+[  F  ] Sexualidade compreende aquilo que é aprendido após a iniciação sexual.
 
-[   ] Opção sexual é a adoção de comportamento heterossexuais, bissexuais, homossexuais, transexuais, etc.
+[  F  ] Opção sexual é a adoção de comportamento heterossexuais, bissexuais, homossexuais, transexuais, etc.
 
-[   ] Gênero é uma construção social de masculinidades e feminilidades.
+[  V  ] Gênero é uma construção social de masculinidades e feminilidades.
 
 - **V, F, F, V**
 - F, F, V, V
@@ -86,13 +86,13 @@ No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, 
 
 ### PERGUNTA 7
 
-Entre as atribuições do Psicólogo do Trabalho pode-se observar:
+Entre as atribuições do Psicólogo do Trabalho pode-se observar: :heavy_check_mark:
 
-I – A comunicação da demissão de um funcionário quando o gestor desse não estiver na empresa.
+I – A comunicação da demissão de um funcionário quando o gestor desse não estiver na empresa. :x:
 
-II – O atendimento psicoterapêutico de funcionários realizado de forma individual ou em grupo.
+II – O atendimento psicoterapêutico de funcionários realizado de forma individual ou em grupo. :x:
 
-III – A realização de atividades em grupo e de intervenção psicossocial com os trabalhadores.
+III – A realização de atividades em grupo e de intervenção psicossocial com os trabalhadores. :heavy_check_mark:
 
 - Apenas a afirmativa I está correta.
 - Apenas a afirmativa II está correta.
@@ -102,13 +102,13 @@ III – A realização de atividades em grupo e de intervenção psicossocial co
 
 ### PERGUNTA 8
 
-As teorias que surgiram no fim do século XX, chamadas de Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social preconizam:
+As teorias que surgiram no fim do século XX, chamadas de Antipsiquiatria, a Psiquiatria Existencial e a Psiquiatria Social preconizam: :heavy_check_mark:
 
-I - a extinção dos hospitais psiquiátricos.
+I -   a extinção dos hospitais psiquiátricos. :heavy_check_mark:
 
-II -  a busca por restaurar a humanidade da pessoa institucionalizada.
+II -  a busca por restaurar a humanidade da pessoa institucionalizada. :heavy_check_mark:
 
-III - que os pacientes psiquiátricos possam ter acesso à escola e ao bolsa família.
+III - que os pacientes psiquiátricos possam ter acesso à escola e ao bolsa família. :x:
 
 - Apenas a afirmativa I está correta.
 - Apenas a afirmativa II está correta.
