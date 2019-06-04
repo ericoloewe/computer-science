@@ -118,13 +118,13 @@ III - que os pacientes psiquiátricos possam ter acesso à escola e ao bolsa fam
 
 ### PERGUNTA 9
 
-Conforme estudado no tema da Saúde Mental, o Dicionário de Psicologia aponta três definições para normalidade. Diante disso, analise as afirmativas abaixo.
+Conforme estudado no tema da Saúde Mental, o Dicionário de Psicologia aponta três definições para normalidade. Diante disso, analise as afirmativas abaixo. :heavy_check_mark:
 
-I - Normalidade como um comportamento aceito como usual ou mais frequente. 
+I - Normalidade como um comportamento aceito como usual ou mais frequente.  :heavy_check_mark:
 
-II – Normalidade como algo que é contrário à anormalidade, ou seja, excetuando-se os comportamentos anormais (errados) todos outros são normais.
+II – Normalidade como algo que é contrário à anormalidade, ou seja, excetuando-se os comportamentos anormais (errados) todos outros são normais. :x:
 
-III - Comportamento normal aquele que está conforme às normas ou às demandas sociais aceitas.
+III - Comportamento normal aquele que está conforme às normas ou às demandas sociais aceitas. :heavy_check_mark:
 
 - Apenas a afirmativa I está correta.
 - Apenas a afirmativa II está correta.
@@ -134,7 +134,7 @@ III - Comportamento normal aquele que está conforme às normas ou às demandas 
 
 ### PERGUNTA 10
 
-Sobre a prática profissional do psicólogo, conforme estudado na temática sobre psicologia aplicada à diferentes contextos, pode-se afirmar que:
+Sobre a prática profissional do psicólogo, conforme estudado na temática sobre psicologia aplicada à diferentes contextos, pode-se afirmar que: :heavy_check_mark:
 
 I - O psicólogo jurídico, em seu trabalho, elabora laudos, relatórios e pareceres, colaborando com o indivíduo envolvido com a Justiça, através da avaliação da personalidade.
 
