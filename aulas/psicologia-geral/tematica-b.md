@@ -106,7 +106,7 @@ Platão (427-347 a.C.), discípulo de Sócrates, segundo Rosenfeld (1993), foi o
 
 Conforme Aristóteles (384-322 a.C.), aluno de Platão, a alma e o corpo não poderiam ser dissociados. Rosenfeld (1993) destaca que, para Aristóteles, a alma é a enteléquia dos seres vivos, enumerando três níveis de desenvolvimento da psyché: a alma vegetativa (com as funções de alimentação e reprodução), alma já presente no nível das plantas; a alma sensitiva (funções de percepção e movimento), que se associa no animal à alma vegetativa; e a alma racional (pensante), que se associa no homem aos níveis inferiores. 
 
-### Respostas
+### Respostas dos professores
 
 - **Cite algumas das possíveis áreas de inserção da psicologia?**
 
