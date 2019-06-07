@@ -167,7 +167,7 @@ Reflexão sobre o cotidiano || entendimento do cotidiano
 
 Conhecimento constante de abstração e conhecimento da 
 
-### Motivos da dificuldades de definição clara do objeto da pscologia
+### Motivos da dificuldades de definição clara do objeto da psicologia
 
 - Diversidade das correntes teóricas
   - Psicologia - Ciência recente

@@ -315,7 +315,7 @@ A velhice é percebida como fenômeno natural e social cujo processo envolve pro
 
 6. Sabe-se que existem fatores que causam impacto sobre o desenvolvimento humano. A partir dos conceitos de hereditariedade e ambiente estudados, analise as afirmativas abaixo.
 
-   I – A hereditariedade pode ser definida por costumes passados de geração para geração. :question:
+   I – A hereditariedade pode ser definida por costumes passados de geração para geração. :x:
 
    II – O ambiente é entendido como o mundo que está do lado de fora do eu, e que começa no útero, e a aprendizagem relacionada à experiência. :heavy_check_mark:
 
@@ -573,7 +573,7 @@ III - O racismo consiste na ideia de que algumas raças são inferiores a outras
 
 #### PERGUNTA 2
 
-No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, afirma-se que os profissionais da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Isso ocorre porque: :question:
+No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, afirma-se que os profissionais da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Isso ocorre porque:
 
 - Há uma definição no código de ética profissional que proíbe a utilização desses termos.
 - A definição de normalidade ou anormalidade é utilizada apenas pelo senso comum.

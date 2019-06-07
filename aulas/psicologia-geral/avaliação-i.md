@@ -59,7 +59,7 @@
 
 6. Sabe-se que existem fatores que causam impacto sobre o desenvolvimento humano. A partir dos conceitos de hereditariedade e ambiente estudados, analise as afirmativas abaixo.
 
-   I – A hereditariedade pode ser definida por costumes passados de geração para geração. :question:
+   I – A hereditariedade pode ser definida por costumes passados de geração para geração. :x:
 
 
    II – O ambiente é entendido como o mundo que está do lado de fora do eu, e que começa no útero, e a aprendizagem relacionada à experiência. :heavy_check_mark:

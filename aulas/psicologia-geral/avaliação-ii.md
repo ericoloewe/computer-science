@@ -27,11 +27,11 @@ III - O racismo consiste na ideia de que algumas raças são inferiores a outras
 
 ### PERGUNTA 2
 
-No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, afirma-se que os profissionais da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Isso ocorre porque: :question:
+No texto de Normalidade e Patologia, apresentado na temática de Saúde Mental, afirma-se que os profissionais da saúde resistem em usar as terminologias “normalidade” e “anormalidade”. Isso ocorre porque:
 
 - Há uma definição no código de ética profissional que proíbe a utilização desses termos.
 - A definição de normalidade ou anormalidade é utilizada apenas pelo senso comum.
-- **Eles preferem utilizar os termos “comportamento ajustado” ou “desajustamento”, os quais permitem que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.** 
+- **Eles preferem utilizar os termos “comportamento  ajustado:question:” ou “desajustamento”, os quais permitem que não sejam esquecidos os padrões culturais envolvidos, que determinam grande parte dessa questão.** 
 - A definição de normalidade e anormalidade é muito antiga e não contempla as mudanças sociais e econômicas atuais.
 - Há um consenso na literatura para não designar as pessoas como “normais” ou “anormais”.
 
