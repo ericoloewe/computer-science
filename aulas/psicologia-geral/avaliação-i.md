@@ -6,18 +6,26 @@
    - Perspectiva neurocientífica 		
    - Perspectiva comportamental
    - Perspectiva humanista
-   - **Perspectiva psicodinâmica**
+   - **Perspectiva psicodinâmica** :heavy_check_mark:
 
 2. Não há um momento definido **objetivamente** em que um bebê se torna uma criança ou um adolescente torna-se um adulto. No entanto, os cientistas do desenvolvimento definiram períodos do ciclo vital e, dessa forma, essas divisões do ciclo vital devem ser consideradas construções sociais.
 
-   - **Verdadeiro**
+   - **Verdadeiro** :heavy_check_mark:
    - Falso
+     - feedback professor
+     - Não há um momento definido objetivamente em que um bebê se torna uma criança ou um adolescente torna-se um adulto. Os cientistas do desenvolvimento definiram os períodos do ciclo vital, dessa forma essas definições são consideradas construções sociais que, com o avanço das pesquisas e as modificações culturais e sociais existentes, podem se modificar ao longo do tempo.
 
 3. Os seres humanos são seres sociais. Desde o começo, desenvolvem-se dentro de um contexto social e histórico. Dessa forma, pode-se definir que a unidade econômica e doméstica que compreende laços de parentesco envolvendo duas gerações e que consiste em pai e mãe, ou apenas um dos dois, e seus filhos biológicos, adotados ou enteados é chamada de família extensa:
 
    - Verdadeiro
 
-   - **Falso**
+   - **Falso** :heavy_check_mark:
+
+     - feedback professor
+
+     - Família nuclear pode ser definida como a unidade econômica e doméstica que compreende laços de parentesco envolvendo duas gerações e que consiste em pai e mãe, ou apenas um dos dois, e seus filhos biológicos, adotados ou enteados
+
+       A família extensa é considerada uma rede de parentesco envolvendo muitas gerações e formada por pais, filhos e outros parentes, às vezes vivendo juntos no mesmo lar.
 
 4. Sobre os conceitos de raça, etnia e grupo étnico estudados, verifique as afirmativas verdadeiras e falsas, em seguida marque a alternativa correta:
 
@@ -33,13 +41,21 @@
 
    - F, V, V, F, F
 
-   - **F, V, F, V, V**
+   - F, V, F, V, V :heavy_check_mark:
 
    - V, F, V, V, V
 
-   - V, V, F, V, V
+   - **V, V, F, V, V** :x:
 
    - V, F, V, F, F
+
+     - feedback professor
+
+     - Um grupo étnico consiste em pessoas unidas por determinada cultura, ancestralidade, religião, língua ou origem nacional, onde tudo isso contribui para formar um senso de identidade, atitudes, crenças e valores comuns.
+
+       Os padrões étnicos e culturais afetam o desenvolvimento humano por sua influência na composição de uma família, nos recursos econômicos e sociais, no modo como seus membros agem em relação uns aos outros, nos alimentos que comem, nos jogos e nas brincadeiras das crianças, no modo como aprendem, no aproveitamento escolar, nas profissões escolhidas pelos adultos e na maneira como os membros da família pensam e percebem o mundo. Por exemplo, nos Estados Unidos, os filhos de imigrantes têm uma probabilidade menor de que suas mães trabalhem
+
+       extradomiciliarmente (Hernandez, 2004; Shields e Behrman, 2004).
 
 5. Acerca do conhecimento científico e do conhecimento do senso comum estudados, analise as afirmativas abaixo.
 
@@ -119,6 +135,12 @@
    - **Terceira infância**
 
    - Adolescência
+
+     - feedback professor
+
+     - A terceira infância pode ser caracterizada por diversas mudanças, entre elas: ganhos cognitivos permitem à criança beneficiar-se da instrução formal na escola.
+
+       Algumas crianças demonstram necessidades educacionais e talentos especiais. A corregulação reflete um deslocamento gradual no controle dos pais para a criança. Os colegas assumem importância fundamental.
 
 10. Acerca dos conceitos e definições estudadas sobre a cultura, analise as afirmativas abaixo:
 
