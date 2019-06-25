@@ -30,8 +30,6 @@ Da linguagem utilizada, foi selecionada as documentações abaixo.
 - Documentação: [Link](http://erlang.org/doc/man/erl.html)
 - [Iniciando um binário](https://stackoverflow.com/questions/30091487/init-terminating-in-do-boot-is-thrown-when-executing-erlang-script)
 
-
-
 ### Execução
 
 Trabalho feito em Erlang (versão 21)
@@ -73,7 +71,7 @@ listenBufferAndConsume(ConsumerId, BufferPid, TimeToConsume) ->
     end.
 ```
 
-Já o trabalho do produtor se resume em basicamente "produzir" e enviar o produto para se consumido ao buffer. Realizar o envio, o produtor reinicia seu ciclo.
+Já o trabalho do produtor se resume em basicamente "produzir" e enviar o produto para ser consumido ao buffer. Realizado o envio, o produtor reinicia seu ciclo.
 
 ```erlang
 produce(ProducerId, BufferPid, TimeToProduce) ->
@@ -84,7 +82,7 @@ produce(ProducerId, BufferPid, TimeToProduce) ->
     produce(ProducerId, BufferPid, TimeToProduce).
 ```
 
-O trabalho do buffer consiste em receber os produtos dos produtores e enviar os mesmos para os consumidores que estão na lista de espera.
+O trabalho do buffer - similar a fila de um mercado - consiste em gerenciar os consumidores e produtos, ele recebe o produto dos produtores e os insere em uma lista de espera, caso haja algum consumidor na lista de espera (de consumidores) o buffer envia o produto para o próximo consumidor disponível.
 
 ```erlang
 manage(Consumers, Products) ->
@@ -100,7 +98,10 @@ manage(Consumers, Products) ->
     end.
 ```
 
-Ele faz isso a partir do dois métodos abaixo
+O gerenciamento do que foi comentado anteriormente é feito nos dois métodos abaixo:
+
+- `receiveConsumerAndKeepManaging` adiciona um consumidor a lista de espera e caso haja produtos disponíveis é enviado um para o primeiro consumidor da fila, caso não haja nenhum produto, o consumidor entra na fila de espera aguardando por um produto.
+- `receiveProductAndKeepManaging` adiciona um produto a lista de espera e caso haja consumidores interessados é enviado o primeiro produto da fila ao consumidor, caso não haja nenhum consumidor, o produto entra na fila de espera para ser consumido mais tarde.
 
 ```erlang
 receiveConsumerAndKeepManaging(ConsumerId, PID,
@@ -126,7 +127,7 @@ receiveProductAndKeepManaging(ProducerId, Product, PID,
     end.
 ```
 
-E a notificação do consumidor é feita a partir de
+Foi centralizado a notificação do consumidor em `notifyConsumerAndKeepManaging` assim, todo momento que tiver um produto disponível para um consumidor, é enviado esse produto e partir do PID do consumidor (`PID ! {MoreOldProduct}`). Por fim, após ser enviado o produto ao consumidor, é reiniciado o ciclo do buffer com os produtos e consumidores que restaram a partir do `manage(RestOfConsumers, RestOfProducts)`.
 
 ```erlang
 notifyConsumerAndKeepManaging(Consumers, Products) ->
