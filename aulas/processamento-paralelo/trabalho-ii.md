@@ -1,5 +1,7 @@
 # Trabalho II
 
+## Nome: Érico de Souza Loewe
+
 ## Descrição
 
 ### O que deve ser entregue junto com o trabalho:
