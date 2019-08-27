@@ -8,19 +8,13 @@ namespace server_socket
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            // Establish the local endpoint for the socket.  
-            // The DNS name of the computer  
-            // running the listener is "host.contoso.com".  
-            IPHostEntry ipHostInfo = Dns.GetHostEntry(Dns.GetHostName());
-            IPAddress ipAddress = ipHostInfo.AddressList[0];
+            IPAddress ipAddress = IPAddress.Parse("127.0.0.1");
             IPEndPoint localEndPoint = new IPEndPoint(ipAddress, 8080);
-
             Socket listener = new Socket(ipAddress.AddressFamily, SocketType.Stream, ProtocolType.Tcp);
-
 
             try
             {
+                Console.WriteLine("Start to run");
                 listener.Bind(localEndPoint);
                 listener.Listen(100);
                 listener.Accept();
