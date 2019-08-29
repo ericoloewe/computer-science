@@ -33,8 +33,19 @@ namespace server_socket
 
                 // Receive the response from the remote device.  
                 int bytesRec = handler.Receive(bytes);
+
                 Console.WriteLine("Echoed test = {0}",
                     Encoding.UTF8.GetString(bytes, 0, bytesRec));
+
+                var response = Encoding.UTF8.GetBytes(
+@"HTTP/1.1 200 OK
+Content-Type: text/html
+Connection: close
+
+<html>Lorem</html>"
+                );
+
+                handler.Send(response);
 
                 // Release the socket.  
                 handler.Shutdown(SocketShutdown.Both);
