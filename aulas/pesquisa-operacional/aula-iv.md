@@ -94,9 +94,9 @@ Determinar as quantidades ótimas a comprar de cada fornecedor a fim de satisfaz
 
 #### Variáveis de decisão
 
-- F1: Quantidade de kg compradas pelo fornecedor 1
+- F1: Quantidade de kg compradas do fornecedor 1
 
-- F2: Quantidade de kg compradas pelo fornecedor 2
+- F2: Quantidade de kg compradas do fornecedor 2
 
 #### Função objetivo
 
@@ -104,7 +104,7 @@ MIN(0,30F1 + 0,85F2)
 
 #### Restrições
 
-Residuos: 0,05F1 <= 175, 0,1F2 <= 175
+Resíduos: 0,05F1 <= 175, 0,1F2 <= 175
 
 Cobre: 0,25F1 >= 1000, 0,75F2 >= 1000
 
