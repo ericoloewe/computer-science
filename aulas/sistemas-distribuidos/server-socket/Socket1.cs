@@ -5,7 +5,7 @@ using System.Text;
 
 namespace server_socket
 {
-    class Server
+    class Socket1
     {
         public void Start()
         {
