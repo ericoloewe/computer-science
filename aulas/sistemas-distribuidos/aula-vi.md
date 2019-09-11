@@ -15,6 +15,8 @@ A classe implementa a interface de sockets Berkeley (tambem conhecida como **POS
 
 É um padrão para determinar interfaces comuns entre sistemas operacionais.
 
+- [O que é o POSIX? Stack overflow](https://pt.stackoverflow.com/questions/194883/o-que-é-o-posix)
+
 #### POSIX sockets (Berkeley sockets)
 
 Interface criada para padronizar a implementação de sockets no SO.
