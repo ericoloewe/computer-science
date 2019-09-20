@@ -17,3 +17,12 @@ Restrições:
 - 4x + 5y < 50
   - ***Folga: 25***
 
+### Prova
+
+![Pag 1](./prova I pesquisa operacional-3.jpg)
+
+![Pag 2](./prova I pesquisa operacional-1.jpg)
+
+![Pag 3](./prova I pesquisa operacional-2.jpg)
+
+![Pag 4](./prova I pesquisa operacional-4.jpg)
