@@ -66,3 +66,28 @@ te(no)->fi
 te(yes)->po
 ```
 
+#### 2ª Solução viável básica
+
+| Básicas  | Não básicas |
+| -------- | ----------- |
+| x_0 = 27 | x_1 = 0     |
+| x_5 = 6  | x_2 = 0     |
+| x_4 = 3  | x_3 = 0     |
+|          | x_6 = 0     |
+
+Quadro final
+
+![Quadro I](./20191003_213533.jpg)
+
+### Exemplo II
+
+Quadro do exemplo
+
+x_o - 400M - 100A              = 0
+
+​               2M +    3A + **1x_1** = 0
+
+​               2M +    1A + **1x_2** = 0
+
+![Quadro do exemplo](./20191003_215925.jpg)
+
