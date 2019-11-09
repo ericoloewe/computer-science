@@ -74,6 +74,30 @@ Quando aplicação subir para a placa, deve-se abrir o Serial Monitor (Ctrl + Sh
 
 > (um guia passo a passo para implementar a solução)
 
+### Pir e ESP32
+
+Se iniciou o desenvolvimento da aplicação a partir do entendimento do funcionamento do sensor PIR no ESP32. Para isso, foi configurado o sensor em sua devida porta, foi configurado a transmissão serial e gerado prints do valor do sensor no método loop.
+
+### ESP32 e Sockets
+
+Após ter o valor do sensor em mãos, foi desenvolvido a comunicação da placa com o "mundo externo", para isso foi conectado a placa no hotspot gerado pelo computador, e do computador, foi acessado o socket da placa através do `telnet <host> <port>`.
+
+### Receber dados no servidor web
+
+
+
+### Transmitir dados do servidor para o cliente
+
+
+
+### Criar layout app
+
+
+
+### Notificar usuário quando detectar alguma presença
+
+
+
 ## O resultado obtido 
 
 > (a aplicação funcionando na prática).
