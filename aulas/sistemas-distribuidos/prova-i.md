@@ -107,6 +107,31 @@ Utiliza dos objetos distribuidos para facilitar o desenvolvimento de aplicaçõe
 É utilizado para realizar a comunicação de aplicações de um mesmo sistema
 
 ### 11. Diferencie Computação Móvel e Computação Ubíqua. Como elas se complementam?
+
+#### Computação movel
+
+É o acesso a informação de diferentes lugares.
+
+#### Computação ubiqua
+
+Computação ubíqua é onde a computação move-se para **fora** das estações de trabalho e computadores pessoais e torna-se **pervasiva na nossa vida** quotidiana aonde quer que estejamos. 
+
+>  É o termo utilizado para descrever a onipresença da TI no codiano das pessoas
+
 ### 12. Comente, com base em suas próprias concepções, a relação entre Objetos Distribuídos, Web Services e Computação Móvel. Que cenário você vislumbra para médio e longo prazo?
+
+
+
 ### 13. Explique o método de roteamento Chord para redes P2P. Qual o número máximo de passos para n=4?
+
+No maximo 4 passos.
+
 ### 14 .Em uma rede Chord com n=4, qual a distância entre os nós GUID 14 e 2?
+
+![image-20191126200649121](C:\Users\Erico\AppData\Roaming\Typora\typora-user-images\image-20191126200649121.png)
+
+14 + 2^2 = 18
+
+18 - 15 = 3
+
+1 passo
