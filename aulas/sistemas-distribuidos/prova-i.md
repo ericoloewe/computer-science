@@ -134,4 +134,4 @@ No maximo 4 passos.
 
 18 - 15 = 3
 
-1 passo
+1 passo	
