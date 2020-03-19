@@ -6,27 +6,51 @@
 
 #### Atividade I – Acesse a NOTÍCIA a seguir relacionada ao comportamento dos mercados. 
 
-https://www.jornaldocomercio.com/_conteudo/economia/2020/03/729544-compras-nossupermercados-foram-20-acima-da-media-no-final-de-semana.html Agora, responda: 
+https://www.jornaldocomercio.com/_conteudo/economia/2020/03/729544-compras-nos-supermercados-foram-20-acima-da-media-no-final-de-semana.html
 
-1.  Qual o fator externo que fez mudar o comportamento dos mercados? 
-2. Explique como o mercado de supermercados está se comportando com aumento de demanda. 
-3. Explique como estão se comportando o mercado de álcool e máscaras, tanto pelo lado da oferta como para a demanda. 
+Agora, responda: 
+
+##### 1. Qual o fator externo que fez mudar o comportamento dos mercados? 
+
+O covid-19 (corona virus).
+
+"A alta seria provocada por consumidores que resolveram reforçar o estoque de mantimentos, evitar novas saídas e fugir de aglomerações nos próximos dias, atendendo recomendações decorrentes do avanço do coronavírus do Estado."
+
+##### 2. Explique como o mercado de supermercados está se comportando com aumento de demanda. 
+
+Fora o alcool gel e mascaras, o presidente da Agas (Antônio Cesa Longo) assegura que:
+
+"O abastecimento tem plenas condições de ser mantido normalmente. Tanto porque os supermercados trabalham com provisões para 40 dias quanto porque a indústria regional tem sistemas de entrega e logística rápida e o Estado conta com um boa rede de fornecedores locais."
+
+E referente a falta de produtos no mercado: 
+
+"O empresário ressalta, ainda, que essa alta média de 20% nas compras devem ser equalizadas nos próximos dias. Isso porque o consumidor que aumentou o número de itens ou volumes comprados entre sábado e domingo deixará de comprá-los nos próximos dias."
+
+##### 3.Explique como estão se comportando o mercado de álcool e máscaras, tanto pelo lado da oferta como para a demanda. 
+
+Existe um **aumento no lado da demanda**, onde muitas pessoas que não compravam esse tipo de produto, passaram a adquiri-lo.
+
+No lado da oferta, existe um susto, pois até então não era esperado que as pessoas passassem a adquirir mais o produto. E com isso os ofertantes estão com certos **problemas** para realizar o **abastecimento imediato dos produtos**.
 
 #### Atividade II – Acesse a NOTÍCIA a seguir relacionada ao comportamento dos mercados.
 
-https://www.jornaldocomercio.com/_conteudo/colunas/mercado_digital/2020/03/729663- impactado-pelo-covid-19-mercado-de-dispositivos-moveis-cai.html Agora, responda: 
+https://www.jornaldocomercio.com/_conteudo/colunas/mercado_digital/2020/03/729663-impactado-pelo-covid-19-mercado-de-dispositivos-moveis-cai.html
 
-1. Porque o mercado de dispositivos caiu? 
-2. O que poderá acontecer com a oferta de dispositivos móveis no mercado? 
-3. No pior dos cenários, de quanto será o percentual de queda no mercado de dispositivos móveis? 
+Agora, responda: 
+
+1. **Porque o mercado de dispositivos caiu?** 
+2. **O que poderá acontecer com a oferta de dispositivos móveis no mercado?** 
+3. **No pior dos cenários, de quanto será o percentual de queda no mercado de dispositivos móveis?** 
 
 #### Atividade III – Acesse o VÍDEO seguir relacionada ao comportamento da OFERTA. 
 
-https://www.jornaldocomercio.com/_conteudo/galeria_de_videos/2020/02/726418-presidenteda-panvel-dimed-fala-do-impacto-do-digital-nas-lojas.html Agora, responda: 
+https://www.jornaldocomercio.com/_conteudo/galeria_de_videos/2020/02/726418-presidente-da-panvel-dimed-fala-do-impacto-do-digital-nas-lojas.html
 
-1. Qual o fator que fez mudar o comportamento da Dimed no mercado? 
-2. De que forma a tecnologia contribui para mudar o comportamento empresarial? Esse fator incentiva a ofertar mais ou menos bens? 
-3. De que forma a demanda pode ser beneficiada com a tecnologia que a Dimed está incorporando no seu processo de produção?
+Agora, responda: 
+
+1. **Qual o fator que fez mudar o comportamento da Dimed no mercado?** 
+2. **De que forma a tecnologia contribui para mudar o comportamento empresarial? Esse fator incentiva a ofertar mais ou menos bens?** 
+3. **De que forma a demanda pode ser beneficiada com a tecnologia que a Dimed está incorporando no seu processo de produção?**
 
 ### MUDANÇAS NO PONTO DE EQUILÍBRIO, EM VIRTUDE DE DESLOCAMENTOS DA OFERTA E DA DEMANDA
 
@@ -64,9 +88,9 @@ Positiva da demanda quanto pela variação positiva da oferta. Com relação ao 
 
 #### Atividade IV 
 
-1. Por quais OUTROS motivos, além do apontado no item 2.26 anterior, a DEMANDA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico. 
-2. Por quais OUTROS motivos, além do apontado no item 2.27 anterior, a OFERTA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico. 
-3. Dá para atribuir deslocamentos da oferta e demanda pelo vírus Covid-19? 
+1. **Por quais OUTROS motivos, além do apontado no item 2.26 anterior, a DEMANDA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico.** 
+2. **Por quais OUTROS motivos, além do apontado no item 2.27 anterior, a OFERTA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico.** 
+3. **Dá para atribuir deslocamentos da oferta e demanda pelo vírus Covid-19?** 
    1. { } sim 
    2. { } não 
-4. O processo de produção da empresa na qual trabalha está sendo afetada de que forma por esse evento Covid-19? Diga se está tendo escassez de insumos ou alteração de preço ou alteração de quantidades ofertadas, ou seja, faça uma análise sobre o comportamento individual da sua empresa e tente projetar qual o comportamento que a empresa deverá ter. Caso não trabalhe pergunte para algum colega.
+4. **O processo de produção da empresa na qual trabalha está sendo afetada de que forma por esse evento Covid-19? Diga se está tendo escassez de insumos ou alteração de preço ou alteração de quantidades ofertadas, ou seja, faça uma análise sobre o comportamento individual da sua empresa e tente projetar qual o comportamento que a empresa deverá ter. Caso não trabalhe pergunte para algum colega.**
