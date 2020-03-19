@@ -38,9 +38,19 @@ https://www.jornaldocomercio.com/_conteudo/colunas/mercado_digital/2020/03/72966
 
 Agora, responda: 
 
-1. **Porque o mercado de dispositivos caiu?** 
-2. **O que poderá acontecer com a oferta de dispositivos móveis no mercado?** 
-3. **No pior dos cenários, de quanto será o percentual de queda no mercado de dispositivos móveis?** 
+##### 1. Porque o mercado de dispositivos caiu? 
+
+Pois boa parte dos componentes eletrônicos vem da china e "os embarques e a produção de smartphones e de componentes como sensores de impressão digital, touch pad e até memórias têm diminuído em até 50% globalmente, devido às medidas estabelecidas pelo governo chinês para conter o covid-19."
+
+##### 2. O que poderá acontecer com a oferta de dispositivos móveis no mercado? 
+
+Ira diminuir, devido a falta de componentes para fabricação do produto.
+
+"Em uma situação realista, a América Latina pode estar em declínio de 5% até o final do ano; embora prevista uma recuperação do mercado para o segundo semestre do ano", alerta Mendoza.
+
+##### 3. No pior dos cenários, de quanto será o percentual de queda no mercado de dispositivos móveis?
+
+No pior dos cenários, se a pandemia não for contida, a produção de componentes continuará baixa e a queda do mercado poderá ficar entre 15% e 20%. Segundo a IDC, algumas ações podem ser feitas pelo mercado para enfrentar os prejuízos, como o aumento das vendas online e maior cooperação entre as cadeias de suprimentos, principalmente para a compra e entrega de componentes.
 
 #### Atividade III – Acesse o VÍDEO seguir relacionada ao comportamento da OFERTA. 
 
@@ -48,9 +58,18 @@ https://www.jornaldocomercio.com/_conteudo/galeria_de_videos/2020/02/726418-pres
 
 Agora, responda: 
 
-1. **Qual o fator que fez mudar o comportamento da Dimed no mercado?** 
-2. **De que forma a tecnologia contribui para mudar o comportamento empresarial? Esse fator incentiva a ofertar mais ou menos bens?** 
-3. **De que forma a demanda pode ser beneficiada com a tecnologia que a Dimed está incorporando no seu processo de produção?**
+##### 1. Qual o fator que fez mudar o comportamento da Dimed no mercado? 
+
+Estamos vivendo um momento de mudanças imediatistas.
+
+##### 2. De que forma a tecnologia contribui para mudar o comportamento empresarial? Esse fator incentiva a ofertar mais ou menos bens? 
+
+- Economia de tempo
+- Integração dos estoques
+
+##### 3. De que forma a demanda pode ser beneficiada com a tecnologia que a Dimed está incorporando no seu processo de produção?
+
+- Economia de tempo no atendimento
 
 ### MUDANÇAS NO PONTO DE EQUILÍBRIO, EM VIRTUDE DE DESLOCAMENTOS DA OFERTA E DA DEMANDA
 
