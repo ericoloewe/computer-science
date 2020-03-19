@@ -107,9 +107,21 @@ Positiva da demanda quanto pela variação positiva da oferta. Com relação ao 
 
 #### Atividade IV 
 
-1. **Por quais OUTROS motivos, além do apontado no item 2.26 anterior, a DEMANDA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico.** 
-2. **Por quais OUTROS motivos, além do apontado no item 2.27 anterior, a OFERTA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico.** 
-3. **Dá para atribuir deslocamentos da oferta e demanda pelo vírus Covid-19?** 
-   1. { } sim 
-   2. { } não 
-4. **O processo de produção da empresa na qual trabalha está sendo afetada de que forma por esse evento Covid-19? Diga se está tendo escassez de insumos ou alteração de preço ou alteração de quantidades ofertadas, ou seja, faça uma análise sobre o comportamento individual da sua empresa e tente projetar qual o comportamento que a empresa deverá ter. Caso não trabalhe pergunte para algum colega.**
+##### 1. Por quais OUTROS motivos, além do apontado no item 2.26 anterior, a DEMANDA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico. 
+
+Devido a fatores externos como o COVID-19, que fez que a demanda de mascaras e álcool gel aumentasse, sem ter necessariamente o aumento do poder aquisitivo do demandante.
+
+##### 2. Por quais OUTROS motivos, além do apontado no item 2.27 anterior, a OFERTA se desloca? Dê um exemplo de deslocamento para a direita. Faça o gráfico. Dê um exemplo de deslocamento para a esquerda. Faça o gráfico. 
+
+O deslocamento da oferta, pode ser obtido através do aumento da demanda de certos produtos, como o das mascaras e álcool gel devido ao COVID-19.
+
+##### 3. Dá para atribuir deslocamentos da oferta e demanda pelo vírus Covid-19? 
+
+1. { x } sim 
+2. { } não 
+
+##### 4. O processo de produção da empresa na qual trabalha está sendo afetada de que forma por esse evento Covid-19? Diga se está tendo escassez de insumos ou alteração de preço ou alteração de quantidades ofertadas, ou seja, faça uma análise sobre o comportamento individual da sua empresa e tente projetar qual o comportamento que a empresa deverá ter. Caso não trabalhe pergunte para algum colega.
+
+Trabalho na CWI Software, desenvolvendo sistemas para a Via varejo e no meu projeto estamos adotando a politica home-office a partir do dia 17/03 para evitar a aglomeração de pessoas. (parte do time já adotava essa politica parcialmente, 1 - 2 dias na semana)
+
+Com essa politica, sofremos um pouco, devido a nem toda equipe estar preparada para trabalhar dessa maneira, diminuindo a produção das nossas demandas. Teremos que ficar mais atentos a esses casos e aceitar que teremos uma redução parcial da nossa produtividade.
