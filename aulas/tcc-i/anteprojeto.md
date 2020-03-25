@@ -31,3 +31,5 @@ E por último, e não menos importante, (Dietmar et al., 2010) traz em sua obra 
 ## Links
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rYinLmOWRtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+https://www.ifpi.org/news/IFPI-GLOBAL-MUSIC-REPORT-2019
