@@ -28,9 +28,7 @@ Nesse sentido, hoje vamos dar seguimento as nossas aulas à distancia através d
 - relativa ao item “b” para explicar as dúvidas de vocês e dar esclarecimentos adicionais.
 - relativa a elasticidade (ou sensibilidade), item “c”, em que vou esclarecer os principais aspectos dessa questão. Na condução de minha explicação de hoje, repassarei os conceitos principais, exemplos e outros materiais afim de interagirmos durante o decorrer da aula.
 
- 
-
-OU seja, na medida que formos conduzindo nosso processo, será disponibilizado outros vídeos e notícias para esclarecer melhor os tópicos.
+> OU seja, na medida que formos conduzindo nosso processo, será disponibilizado outros vídeos e notícias para esclarecer melhor os tópicos.
 
 ### TESTE
 
@@ -46,7 +44,7 @@ OU seja, na medida que formos conduzindo nosso processo, será disponibilizado o
 
 ## Tematica D
 
-**Para se organizarem e conduzirem os estudos, TODOS OS INSTRUMENTOS que utilizarmos são importantes!**
+> **Para se organizarem e conduzirem os estudos, TODOS OS INSTRUMENTOS que utilizarmos são importantes!**
 
 **I) Abri uma “temática D – vídeos de apoio – conteúdos econômicos”** onde já disponibilizei uns vídeos e disponibilizarei mais, testes e outros arquivos que julgar importante.
 
@@ -65,3 +63,41 @@ Com essa caminhada, conseguiremos dar sequência em nossos estudos.
 Fico a disposição sempre que precisarem não apenas para elucidar as dúvidas, mas também para receber de vocês também ideias de como nossas aulas podem acontecer (e também sobre outros assuntos interdisciplinares). 
 
 Passarei esse aviso também via Mensagem de Curso. Estarei on-line no nosso turno normal de aula. Espero vocês!
+
+-------------------
+
+### Oferta/Demanda/Mercados
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2FdEBPCxmvM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-20_Wo8ky50" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### [Testes sobre Oferta/Demanda/Mercados](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_88092_1&content_id=_1331632_1&mode=view)
+
+Esse teste se relaciona com o comportamento dos mercados.
+
+### Deslocamentos da curva da oferta
+
+Esse video mostra como funciona o mecanismo de deslocamento da curva da oferta. Está em ingles, mas tem tradução para o português. O video apresenta conceitos que nao vamos trabalhar como o excedente do ofertante, portanto não se fixem nisso.
+
+> OBS: Video sobre deslocamento da demanda não foi encontrado algum que pudesse auxiliar na condução do nosso aprendizado
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1RFDGo4YwxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### [Teste sobre Deslocamentos Oferta e Demanda](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_88092_1&content_id=_1331659_1&mode=view)
+
+Esse teste tem relação ao conteúdo de deslocamento da curva da oferta e demanda.
+
+### Elasticidade da demanda
+
+Esse video está referenciado no "Forum - funcionamento dos mercados" na "temática - elasticidades".
+
+Está em ingles, mas tem tradução para o português. A parte matemática não deve ser estudada, apenas os conceitos e relações.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H63ZPPBLk54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### [Teste sobre elasticidade](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_88092_1&content_id=_1331670_1&mode=view)
+
+Esse teste se refere a sensibilidade ou elasticidades de comportamento da demanda face aos bens adquiridos no mercado. As explicações sobre o conteúdo está disponível no FORUM - funcionamento dos mercados/ TEMÁTICA - elasticidades. 
+
+### [Capítulos do Livro - cap. 1, cap 2, cap. 3](https://drive.google.com/open?id=1vVIQY64xMRX7HuXgQ5K003gUPvMerKtY)
