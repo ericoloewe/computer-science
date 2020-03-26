@@ -228,11 +228,84 @@ Esse video mostra como funciona o mecanismo de deslocamento da curva da oferta. 
 
 > OBS: Video sobre deslocamento da demanda não foi encontrado algum que pudesse auxiliar na condução do nosso aprendizado
 
+#### A curvada oferta se desloca
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1RFDGo4YwxM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Fatores importantes
+
+- mudanças nos custos
+  - Como inovações tecnologicas afetam os custos?
+  - ----------Preço dos insumos ----------------------------
+  - Impostos e taxas
+  - expectativas
+  - entrada e saida de produtores
+  - Oportunidades
+
+##### Aumento na oferta
+
+Se uma tecnlogia diminuir o preço de produção, a oferta pelo produto ira aumentar
+
+![Aumento na oferta](image-20200325222052872.png)
+
+##### Aumento no preço dos insumos diminui a oferta
+
+> custos altos = redução na oferta
+
+![Aumento no preço dos insumos diminui a oferta](image-20200325222544382.png)
+
+##### Imposto sobre produto
+
+> Imposto sobre produto=aumento nos custos
+
+![Imposto sobre produto](image-20200325222830173.png)
+
+##### Subsidio
+
+> Imposto sobre produto=redução nos custos
+
+##### Expectativa
+
+![Expectativa](image-20200325223351742.png)
+
+##### Entrada e saida de produtores
+
+![Entrada e saida de produtores](image-20200325223625466.png)
+
+##### Oportunidades
+
+![Oportunidades](image-20200325223944499.png)
+
+
+
+
 
 #### [Teste sobre Deslocamentos Oferta e Demanda](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_88092_1&content_id=_1331659_1&mode=view)
 
 Esse teste tem relação ao conteúdo de deslocamento da curva da oferta e demanda.
+
+##### QUESTION 1
+
+O que acontece com o **mercado da industria farmacêutica** se a apropriação de **inovação tecnológica** for incorporada ao seu processo de **produção**?  Analise a resposta considerando o **deslocamento da curva da oferta**.
+
+
+1. A curva da oferta tenderá para a **esquerda ou para a direita**?
+
+A curva da oferta ira tendera a se deslocar para direita e para baixo, pois como seus custos abaixaram, a empresa tendem a vender a um preço mais baixo do que antes. aumentando a oferta do produto.
+
+2. Diga qual a **tendência** do novo **ponto de equilíbrio**. O preço de equilíbrio irá aumentar ou diminuir?  As quantidades de equilíbrio serão maiores ou menores?
+
+A tendencia no inicio é diminuir o preço do produto, mas com o custo de produção menor, as empresas tendem a produzir mais o produto, para vender mais no preço anterior, chegando a um novo ponto de equilibrio.
+
+###### Resposta professora
+
+Se há inovação tecnológica a curva da oferta se deslocará para a direita. 
+
+O novo ponto de equilíbrio será: 
+
+1. Preço menor.
+
+2. Quantidades de equilíbrio maiores. 
 
 ### Elasticidade da demanda
 
