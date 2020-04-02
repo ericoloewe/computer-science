@@ -315,7 +315,9 @@ Está em ingles, mas tem tradução para o português. A parte matemática não 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H63ZPPBLk54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-#### A curva da demanda é elastica quando:
+#### Anotações do video
+
+##### A curva da demanda é elastica quando:
 
 > Quando a quantidade esta mudando muito em resposta do preço
 
@@ -323,13 +325,66 @@ Quando um aumento no preço reduz bastante a quantidade demandada.
 
 E, de maneira similar,  quando uma queda no preço aumenta bastante a quantidade demandada.
 
+##### Demanda não elastica
+
+![Elasticidade da demanda](image-20200401215200273.png)
+
+##### Demanda elastica
+
+![Demanda elastica](image-20200401215320886.png)
+
 ##### No caso de duas curvas
 
 A curva mais horizontal sera a curva elastica.
 
+##### Fatores determinates elasticidade da demanda
+
+- **Disponibilidade de substitutos**
+
+  > Quanto mais substitutos mais elastica a curva
+
+- Horizonte temporal
+
+- Categoria do produto
+
+- Necessidade vs. luxo
+
+  > Artigos de luxo são mais elasticos
+
+- Tamanho da compra
+
+  > Compra de tamanho maiores serão mais elasticas
+
+| Menos elasticas            | Mais elasticas            |
+| -------------------------- | ------------------------- |
+| Poucos substitutos         | Muitos substitutos        |
+| Curto prazo (Menor tempo)  | Longo prazo (Maior tempo) |
+| Necessidades               | Luxo                      |
+| Pequena parte do orçamento | Grande parte do orçamente |
+
 #### [Teste sobre elasticidade](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_88092_1&content_id=_1331670_1&mode=view)
 
 Esse teste se refere a sensibilidade ou elasticidades de comportamento da demanda face aos bens adquiridos no mercado. As explicações sobre o conteúdo está disponível no FORUM - funcionamento dos mercados/ TEMÁTICA - elasticidades. 
+
+##### Question 1
+
+A seguinte afirmação coloca que: 
+
+```
+“O petróleo, por ser a matéria prima básica da matriz energética mundial, é considerado um bem essencial. Sendo um bem essencial possuem pequena elasticidade-preço da demanda, isto é, são inelásticos em relação ao preço.”
+```
+
+Você concorda com tal afirmação? Justifique.
+
+###### Resposta
+
+Acredito que a frase correta seria "Sendo um bem essencial deixa de ter uma demanda elastica, isto é, são inelásticos em relação a quantidade demandada."
+
+Mas parcialmetne sim, pois o pretroleo é um bem essencial e que possuem poucos substitutos, por isso sua demanda não é elastica.
+
+###### Resposta professora
+
+No curto prazo, o petróleo é um bem essencial para a demanda, portanto se o preço aumentar muito sua quantidade demandada cairá pouco,ou seja será inelastica ou insensível. Não há substitutos próximos que possam mudar rapidamente o comportamento da demanda. Já no longo prazo pode haver bens que possam substituir o petróleo e, portanto, as escolhas da demanda serão mais elásticas ou mais sensíveis.
 
 ### [Capítulos do Livro - cap. 1, cap 2, cap. 3](https://drive.google.com/open?id=1vVIQY64xMRX7HuXgQ5K003gUPvMerKtY)
 
