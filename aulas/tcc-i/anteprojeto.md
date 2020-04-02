@@ -28,6 +28,12 @@ Diferente da recomendação colaborativa ou baseada em conteúdo, a recomendaç�
 
 E por último, e não menos importante, (Dietmar et al., 2010) traz em sua obra o modelo híbrido de recomendação, onde a ideia e combinar as diferentes técnicas, buscando gerara uma boa e mais assertiva recomendação. (Dietmar et al., 2010)
 
+### Spotify
+
+Fundado em 2006, Spotify em seu site se define como:
+
+Um serviço de streaming digital de música, podcast e video que permite que seus usuários tenham acesso milhões de músicas ou outros conteúdos dos artistas ao redor do mundo. (Spotify, 2019)
+
 ## Links
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rYinLmOWRtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -315,6 +315,18 @@ Está em ingles, mas tem tradução para o português. A parte matemática não 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H63ZPPBLk54" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### A curva da demanda é elastica quando:
+
+> Quando a quantidade esta mudando muito em resposta do preço
+
+Quando um aumento no preço reduz bastante a quantidade demandada.
+
+E, de maneira similar,  quando uma queda no preço aumenta bastante a quantidade demandada.
+
+##### No caso de duas curvas
+
+A curva mais horizontal sera a curva elastica.
+
 #### [Teste sobre elasticidade](https://feevale.blackboard.com/webapps/blackboard/content/launchAssessment.jsp?course_id=_88092_1&content_id=_1331670_1&mode=view)
 
 Esse teste se refere a sensibilidade ou elasticidades de comportamento da demanda face aos bens adquiridos no mercado. As explicações sobre o conteúdo está disponível no FORUM - funcionamento dos mercados/ TEMÁTICA - elasticidades. 

@@ -52,9 +52,9 @@
 - metodologia:
   - começa classificando minha pesquisa
   - como tu vai fazer
-    - levantamento bibliografico (dizer que vou precisar fazer)
-    - definição do sistema (ideia geral do sistema {arquitetura})
-    - como avaliar (como os artigos e trabalhos tem avaliado os RecSys)
+    - levantamento bibliográfico (dizer que vou precisar fazer) :heavy_check_mark:
+    - definição do sistema (ideia geral do sistema {arquitetura}) :heavy_check_mark:
+    - como avaliar (como os artigos e trabalhos tem avaliado os RecSys) :heavy_check_mark: :warning:
 
 -------------------
 
@@ -62,3 +62,15 @@
   - estudar algoritmos de machine learning
 - para classificação:
   - livro: metodologia cientifica, pag 126
+
+## 01/04/2020
+
+### Atividades
+
+- Montar capítulos do meu tcc
+
+### TODO
+
+- Corrigir bibliografia
+  - Precisam ser conforme normas da ABNT
+- Cuidar a pontuação e acentuação do texto.
