@@ -68,9 +68,40 @@
 ### Atividades
 
 - Montar capítulos do meu tcc
+- Revisão geral do anteprojeto
 
 ### TODO
 
-- Corrigir bibliografia
+- Corrigir bibliografia 
   - Precisam ser conforme normas da ABNT
 - Cuidar a pontuação e acentuação do texto.
+- Corrigir metodologia :heavy_check_mark:
+- Corrigir metodologia conforme cronograma
+  - Pesquisa bibliográfica sobre técnicas e algoritmos utilizados por sistemas de recomendação :heavy_check_mark:
+  - Investigar APIs de Serviços de Streamings Musicais :heavy_check_mark:
+  - Definir contexto comportamental e de ambiente :heavy_check_mark:
+  - Liberação da aplicação para obter os dados necessários. :heavy_check_mark:
+  - Estudar técnicas para avaliar os  resultados :heavy_check_mark:
+  - Desenvolver tela de avaliação de playlist 
+  - Organizar dados obtidos
+  - Definir técnica para avaliar resultados :heavy_check_mark:
+  - Desenvolver sistema de recomendação :heavy_check_mark:
+  - Análise dos resultados :heavy_check_mark:
+
+## 03/04/2020
+
+OBS:
+
+- 4 tipos de procedimentos técnicos é uma bala no pé?
+- Abordagem quantitativa é mais fácil?
+
+### Atividades
+
+- questão de pesquisa
+- abordagem
+
+### TODO
+
+- melhorar abordagem
+- questão de pesquisa
+- objetivos

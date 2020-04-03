@@ -34,6 +34,10 @@ Fundado em 2006, Spotify em seu site se define como:
 
 Um serviço de streaming digital de música, podcast e video que permite que seus usuários tenham acesso milhões de músicas ou outros conteúdos dos artistas ao redor do mundo. (Spotify, 2019)
 
+### Definição do sistema
+
+Para avaliar o estudo, será desenvolvido um sistema que permitirá ao usuário criar uma nova *playlist*, onde o sistema consultará os contextos relacionados as músicas escutadas pelo usuário, gerando uma nova lista de músicas recomendadas. A avaliação de contexto será feita enquanto o usuário estiver ouvindo as músicas e editando a *playlist*, possibilitando que o sistema identifique e altere (caso julgue necessário) as músicas no meio da edição. Ao final da edição, será enviado uma avaliação para o usuário, a qual vai permitir que o sistema tenha conhecimento dos gostos do usuário. 
+
 ## Links
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rYinLmOWRtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
