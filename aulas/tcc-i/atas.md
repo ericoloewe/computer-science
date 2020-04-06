@@ -98,10 +98,11 @@ OBS:
 ### Atividades
 
 - questão de pesquisa
+- procedimentos técnicos
 - abordagem
 
 ### TODO
 
-- melhorar abordagem
-- questão de pesquisa
-- objetivos
+- melhorar abordagem :heavy_check_mark:
+- questão de pesquisa :heavy_check_mark:
+- objetivos :heavy_check_mark:
