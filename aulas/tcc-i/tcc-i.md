@@ -63,7 +63,7 @@
   - Avaliação :warning:
     - Estudar dados obtidos
     - Definição das tecnicas de avaliações utilizadas
-  - **Liberação do plugin com recomendação e avaliação das recomendações **
+  - **Liberação do plugin com recomendação e avaliação das recomendações**
 - Resultados
   - Principais resultados obtidos (acertos, erros)
   - Avaliação da recomendação feita a partir das respostas do usuario (levantamento)
