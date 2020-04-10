@@ -179,6 +179,15 @@ Após o acesso e leitura, e de posse do conhecimento dos materiais já feitos e 
 
 *Justifique ainda apresentando seu ponto de vista.
 
+##### Resposta
+
+As empresas de tecnologia tendem a ter um crescimento muito rápido se transformando em um líder indispensável de sua especialidade, fazendo com que a empresa se torne um monopólio em sua especialidade.
+
+O problema disso, é que as empresas acabam se apropriando dos dados da população, e podem direcionar os consumidores para algo que os beneficie.
+
+Tecnicamente falando, é muito difícil de desmembrar uma aplicação dessas, ou de compartilhar os dados entre elas. Ambos envolvem um desenvolvimento gigantesco tornando essas alternativas algo difícil de ser feito.Mas no caso de escolher uma das opções escolheria a de compartilhar os dados, pois ela é algo em partes justo e algo mais viável do que realmente quebrar uma dessas aplicações.
+Acredito que a melhor solução seria regulamentar essas empresas. Apesar de ser algo tecnicamente complexo, seria a melhor opção, para não quebrar uma empresa desse porte, mas também não deixar ela controlar a população.
+
 #### QUESTION 2
 
 2.Acesse o link abaixo.
@@ -192,6 +201,12 @@ Após o acesso e leitura, e de posse do conhecimento dos materiais já feitos e 
 *Pontue sua justificativa incorporando a teoria e o que de fato acontece na realidade. 
 
 *Justifique ainda apresentando seu ponto de vista.
+
+##### Resposta
+
+Cada vez mais tem lançado aplicativos de cartão de crédito no mercado. Os bancos estão se revolucionando cada vez mais com a vinda do nubank e Inter.
+
+O oligopólio dos bancos ainda existem, mas cada vez mais o número de concorrências no mercado aumenta, o que nos leva a ver que existe uma possibilidade no termino desse oligopólio.
 
 ### Resumo executivo
 
