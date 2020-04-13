@@ -4,6 +4,10 @@ Apresentar um RESUMO EXECUTIVO com relação às seguintes estruturas de mercado
 
 ## Resumo executivo
 
+Pequeno resumo das estruturas de mercado.
+
+![Resumo das estruturas de mercado.](image-20200412212551190.png)
+
 ### CONCORRENCIA PERFEITA
 
 (1.conceito e características; 2. benefícios e custos dessa estrutura para os
@@ -99,6 +103,18 @@ EX: companhias aereas do Brasil
 
 (1.conceito e características; 2. benefícios e custos dessa estrutura para os
 mercados; 3. exemplo.)
+
+#### Monopsônio/Oligopsônio
+
+É o monopólio/oligopólio na compra de fatores de produção. 
+
+Ex: compra de autopeças da industria automobilistica
+
+#### Monopólio bilateral
+
+Trata-se de quando um único comprador se depara com o único vendedor do insumo no mercado
+
+Ex: fabricas do interior com somente um sindicato
 
 ## Observações
 
