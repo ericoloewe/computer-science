@@ -24,7 +24,7 @@ objetivo da firma, Produção,eficácia técnica e eficácia econômica,função
 
 ### Questão 1 – Conforme as questões a seguir, identifique a alternativa correta:
 
-I) A Economia atual é uma ciência que analisa de que forma as pessoas e as empresas, individual ou coletivamente, organizam a produção de bens e serviços para a satisfação das necessidades humanas, considerando escassos os recursos disponíveis para a produção desses bens ou serviços. Em outras palavras, a **Economia estuda como as pessoas tomam decisões sobre compra, venda, investimento, poupança, consumo, trabalho etc.**, e como interagem umas com as outras com o objetivo de satisfazer suas necessidades econômicas. :x:
+I) A Economia atual é uma ciência que analisa de que forma as pessoas e as empresas, individual ou coletivamente, organizam a produção de bens e serviços para a satisfação das necessidades humanas, considerando escassos os recursos disponíveis para a produção desses bens ou serviços. Em outras palavras, a **Economia estuda como as pessoas tomam decisões sobre compra, venda, investimento, poupança, consumo, trabalho etc.**, e como interagem umas com as outras com o objetivo de satisfazer suas necessidades econômicas. :heavy_check_mark:
 
 II) A **Macroeconomia** é o campo da Ciência Econômica que aborda os aspectos específicos das relações econômicas, ou como os **agentes econômicos** influenciam essas relações. Enfoca as relações de mercado, estabelecidas pela oferta e demanda de bens e o equilíbrio e o grau de variação de ambos (elasticidade), a forma pela qual as empresas se organizam no mercado, entre outros pontos. Assim, a Macroeconomia aborda os agentes econômicos e suas inter-relações e influências no estabelecimento das relações econômicas.  :x:
 
@@ -34,15 +34,15 @@ IV) Para a produção dos bens e serviços, a sociedade utiliza os fatores pr
 
 V) Define-se como sistema econômico a **forma de organização** das relações de produção e consumo de **bens e serviços** pelos agentes da sociedade (instituições, empresas, pessoas, governo e outros) para a satisfação de suas necessidades.
 
-- a) VERDADEIRAS: I, II, III – FALSAS: IV, V
+- a) VERDADEIRAS: I, II, III – FALSAS: IV, V :x:
 
-- **b) VERDADEIRAS: IV, V – FALSAS: I, II,III**
+- b) VERDADEIRAS: IV, V – FALSAS: I, II,III :question:
 
-- c) VERDADEIRAS: I, IV, V – FALSAS: II, III
+- **c) VERDADEIRAS: I, IV, V – FALSAS: II, III** :heavy_check_mark:
 
-- d) VERDADEIRAS: II, III, IV – FALSAS: I, V
+- d) VERDADEIRAS: II, III, IV – FALSAS: I, V :x:
 
-- e) VERDADEIRAS: III, V – FALSAS: I, II, IV
+- e) VERDADEIRAS: III, V – FALSAS: I, II, IV :x:
 
 ### Questão 2 – Relacione a primeira coluna com a segunda:
 
@@ -93,25 +93,25 @@ V) Define-se como sistema econômico a **forma de organização** das relaç
 ### Questão 4 – Sobre a elasticidade é falso afirmar que:
 
 
-a)  A **elasticidade da demanda** **mede** a intensidade da **variação da demanda** em bem ou serviço em relação aos fatores determinantes, no caso dos diferentes produtos. Isso porque produtos diferentes reagem de forma diferente às variações dos fatores determinantes (preço do próprio produto, renda e preço dos bens relacionados), e essa diferença **é determinada pelo grau de elasticidade do produto**. :x:
+a)  A **elasticidade da demanda** **mede** a intensidade da **variação da demanda** em bem ou serviço em relação aos fatores determinantes, no caso dos diferentes produtos. Isso porque produtos diferentes reagem de forma diferente às variações dos fatores determinantes (preço do próprio produto, renda e preço dos bens relacionados), e essa diferença **é determinada pelo grau de elasticidade do produto**. :heav
 
 
-b) A elasticidade-preço da demanda (Epd) é influenciada diretamente pela essencialidade do produto **(relação entre necessidade e supérfluo)**: isso significa que o grau de elasticidade de um produto possui uma relação inversa ao grau de necessidade desse produto. Um produto cuja necessidade é alta (as pessoas precisam desse produto no dia a dia e, portanto, já adquirem o necessário) terá um grau de elasticidade baixo, pois uma alteração no preço provocará uma baixa alteração na demanda, uma vez que as pessoas já estão adquirindo o necessário. :question:
+b) A elasticidade-preço da demanda (Epd) é influenciada diretamente pela essencialidade do produto **(relação entre necessidade e supérfluo)**: isso significa que o grau de elasticidade de um produto possui uma relação inversa ao grau de necessidade desse produto. Um produto cuja necessidade é alta (as pessoas precisam desse produto no dia a dia e, portanto, já adquirem o necessário) terá um grau de elasticidade baixo, pois uma alteração no preço provocará uma baixa alteração na demanda, uma vez que as pessoas já estão adquirindo o necessário. :heavy_check_mark:
 
 
-c) A existência de substitutos próximos, também é outro fator que influencia na elasticidade-preço da demanda (Epd) isso significa que o grau de variação da elasticidade de um produto terá uma relação direta com a possibilidade ou não da substituição do produto por outro com a mesma função, no caso de uma variação do preço do primeiro. Isso porque, no caso da existência de bens substitutos, as pessoas tendem a migrar para este se houver aumento do preço do produto principal, o que tende a provocar uma grande redução na demanda do mesmo, e o contrário também pode acontecer.
+c) A existência de **substitutos próximos**, também é outro fator que influencia na elasticidade-preço da demanda (Epd) isso significa que o grau de variação da elasticidade de um produto terá uma relação direta com a possibilidade ou não da substituição do produto por outro com a mesma função, no caso de uma variação do preço do primeiro. Isso porque, no caso da existência de bens substitutos, as pessoas tendem a migrar para este se houver aumento do preço do produto principal, o que tende a provocar uma grande redução na demanda do mesmo, e o contrário também pode acontecer. :heavy_check_mark:
 
 
-d) Além do preço do próprio produto, outro fator que provoca alterações na demanda é a renda. O cálculo da elasticidade-renda da demanda (Erd) tem por objetivo analisar a influência da variação do preço de um produto em relação aos outros produtos a ele relacionados.
+d) Além do **preço do próprio produto**, outro fator que provoca **alterações na demanda é a renda**. O cálculo da elasticidade-renda da demanda (Erd) tem por objetivo analisar a influência da variação do preço de um produto em relação aos **outros produtos** a ele relacionados. :x:
 
 
-e) Quando a variação percentual da quantidade demandada é maior que a variação percentual do preço do produto isso significa que a elasticidade-preço da demanda (Epd) é elástica, ou seja, nessa categoria os produtos são considerados bens supérfluos podendo servir de exemplo serviços de entretenimento como cinemas.
+e) Quando a variação percentual da quantidade demandada é maior que a variação percentual do preço do produto isso significa que a elasticidade-preço da demanda (Epd) é elástica, ou seja, nessa categoria os produtos são considerados bens supérfluos podendo servir de exemplo serviços de entretenimento como cinemas. :heavy_check_mark:
 
 ### Questão 5 –  Os principais conceitos utilizados na Teoria da Produção são destacados a seguir:
 
 | Opções                                                       | Alternativas                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| I) _______________é uma unidade técnica que produz bens e/ou serviços de forma racional, procurando maximizar seus resultados relativos à produção e ao lucro. Esse conceito abrange um empreendimento de modo geral, que inclui as atividades industriais e agrícolas, profissionais, técnicas e de serviços.<br/><br/> II) ________________são bens ou serviços utilizados pela firma para a realização da produção. São divididos em dois fatores principais: capital e trabalho. O fator capital (K) são os elementos que contribuem indiretamente para a realização da produção (máquinas, equipamentos, prédios, entre outros) ou que serão transformados em produtos finais (matérias- -primas e insumos de produção). O trabalho (L) corresponde à capacidade humana atuando no processo produtivo (atividade física e intelectual) e que resultará em produtos.<br/><br/> III) _________________ ocorrem quando a variação na quantidade do produto total é mais que proporcional à variação utilizada dos fatores de produção.<br/><br/> IV) ________________é a relação que mostra qual a quantidade máxima obtida do produto a partir da quantidade utilizada dos fatores de produção (K;L). Indica o máximo de produto que se pode obter com a combinação dos fatores produtivos, uma vez escolhido determinado processo de produção mais conveniente. | Fatores de produção<br/><br/>Rendimentos crescentes de escala<br/><br/>Função de produção<br/><br/>Empresa ou firma |
+| I) _____________é uma unidade técnica que produz bens e/ou serviços de forma racional, procurando maximizar seus resultados relativos à produção e ao lucro. Esse conceito abrange um empreendimento de modo geral, que inclui as atividades industriais e agrícolas, profissionais, técnicas e de serviços.<br/><br/> II) ____________são bens ou serviços utilizados pela firma para a realização da produção. São divididos em dois fatores principais: capital e trabalho. O fator capital (K) são os elementos que contribuem indiretamente para a realização da produção (máquinas, equipamentos, prédios, entre outros) ou que serão transformados em produtos finais (matérias- -primas e insumos de produção). O trabalho (L) corresponde à capacidade humana atuando no processo produtivo (atividade física e intelectual) e que resultará em produtos.<br/><br/> III) _____________ ocorrem quando a variação na quantidade do produto total é mais que proporcional à variação utilizada dos fatores de produção.<br/><br/> IV) ______________é a relação que mostra qual a quantidade máxima obtida do produto a partir da quantidade utilizada dos fatores de produção (K;L). Indica o máximo de produto que se pode obter com a combinação dos fatores produtivos, uma vez escolhido determinado processo de produção mais conveniente. | II - Fatores de produção<br/><br/>III-Rendimentos crescentes de escala<br/><br/>IV - Função de produção<br/><br/>I - Empresa ou firma |
 
 #### Portanto, a ordem correta das lacunas é:
 
@@ -123,15 +123,14 @@ e) Quando a variação percentual da quantidade demandada é maior que a vari
 
 - d) I) empresas ou firmas – II) fatores de produção – III) função de produção – IV) rendimentos crescentes de escala
 
-- e) I) empresas ou firmas – II) fatores de produção – III) rendimentos crescentes de escala – IV) função de produção
+- **e) I) empresas ou firmas – II) fatores de produção – III) rendimentos crescentes de escala – IV) função de produção**
 
 ### Questão 6 – Sobre o comportamento dos custos na Teoria da Firma é FALSO afirmar que:
 
 
-a) Da mesma forma que na teoria da produção, os custos são analisados em dois momentos: no curto e no longo prazo. No curto prazo, os custos totais de uma empresa são compostos pelo custo fixo, que representa um custo de produção que não varia em função da quantidade produzida, e pelo custo variável, que apresenta uma variação em função da quantidade produzida.
+a) Da mesma forma que na teoria da produção, os custos são analisados em dois momentos: no curto e no longo prazo. No curto prazo, os custos totais de uma empresa são compostos pelo custo fixo, que representa um custo de produção que não varia em função da quantidade produzida, e pelo custo variável, que apresenta uma variação em função da quantidade produzida. :heavy_check_mark:
 
-
-b) Custo total é o custo de se produzir uma unidade extra do produto, ou seja, referem-se às variações de custo, quando se altera a produção. Enquanto que Custo marginal é a soma do custo fixo e custo variável.
+b) Custo total é o custo de se produzir uma unidade extra do produto, ou seja, referem-se às variações de custo, quando se altera a produção. Enquanto que Custo marginal é a soma do custo fixo e custo variável. :x:
 
 
 c) Os custos de produção se referem ao total de recursos financeiros despendidos para a realização do processo produtivo de um bem ou serviço, ou, de outra forma, o valor total pago pela utilização dos fatores produtivos utilizados no processo de produção de um produto.
@@ -146,17 +145,17 @@ e) O caminho de expansão relaciona aumentos de orçamento ou custo total com au
 
 ------------------
 
-Cadê arquiva denúncias contra a XP Investimentos
+#### Cadê arquiva denúncias contra a XP Investimentos
 
-ATO DE CONCENTRAÇÃO
+***ATO DE CONCENTRAÇÃO***
 
-Tribunal entendeu que eventuais condutas da empresa não caracterizaram descumprimento do acordo firmado com a autarquia
+**Tribunal entendeu que eventuais condutas da empresa não caracterizaram descumprimento do acordo firmado com a autarquia**
 
 (por Assessoria de Comunicação Social Publicado: 18/03/2020)
 
  O Conselho Administrativo de Defesa Econômica (Cade) decidiu, na sessão de julgamento desta quarta-feira (18/03), pelo arquivamento de denúncias (entre elas a realizada pelo banco BTG Pactual) de supostas práticas anticompetitivas por parte da XP Investimentos.
 
-As denúncias foram analisadas no âmbito do acompanhamento do Acordo em Controle de Concentrações (ACC) firmado entre a XP e o Cade. O acordo foi celebrado em 2018 como condição para a aprovação do ato de concentração pelo qual o Itaú adquiriu participação da XP.
+As denúncias foram analisadas no âmbito do acompanhamento do Acordo em Controle de Concentrações (ACC) firmado entre a XP e o Cadê. O acordo foi celebrado em 2018 como condição para a aprovação do ato de concentração pelo qual o Itaú adquiriu participação da XP.
 
 Não foram verificadas, no âmbito da análise, que eventuais condutas cometidas pela XP relatadas nas denúncias tenham caracterizado qualquer forma de exigência de exclusividade ou ocorrência de fechamento de mercado que possa apontar algum problema concorrencial ou uma ofensa ao acordo.
 
@@ -181,6 +180,6 @@ IV) No monopólio uma única empresa atua no mercado além de não haver substit
 - a) II, III e IV corretas
 
 - b) II e III corretas
-- c) I, II e III corretas
+- **c) I, II e III corretas**
 - d) apenas a IV correta
 - e) todas corretas
