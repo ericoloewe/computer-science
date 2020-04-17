@@ -106,3 +106,17 @@ OBS:
 - melhorar abordagem :heavy_check_mark:
 - questão de pesquisa :heavy_check_mark:
 - objetivos :heavy_check_mark:
+
+## 17/04/2020
+
+### Atividades
+
+- Revisão da avaliação dos avaliadores
+- Artigo encontrado
+- Quebra tcc
+
+### TODO
+
+- Ler artigos dalalana
+- Deixar questão de pesquisa mais claro
+- Definir o que seria o contexto comportamental e de ambiente

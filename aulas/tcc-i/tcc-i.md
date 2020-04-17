@@ -1,46 +1,73 @@
 # TCC I
 
+investigar o problema
+
+para conseguir identificar tecnicas
+
+como o pessoal esta trabalhando com o assunto
+
 ## Atividades
 
 ### Quebra dos capítulos
 
-- Introdução
+- Introdução (basicamente motivação anteprojeto)
   - Introdução aos sistemas de recomendação
     - Historico
     - Cases de sucesso
     - Netflix prize
   - Introdução ao mercado musical e os sistemas de streaming musical
-- Tipos de sistemas de recomendação
-  - Sistemas de recomendação baseado em conteudo
-  - Sistemas de recomendação colaborativo
-  - Sistemas de recomendação baseado em conhecimento
-  - Sistemas de recomendação hibrido
-- Algoritmos de sistemas de recomendação
-  - Tipos
-  - Bibliotecas
-  - Casos de uso
-- Classificação de dados :warning: :star2:
-  - Algoritmos de classificação
-  - Bibliotecas que possuam a implementação dos algoritmos
-  - Casos de uso
-- Contextos
-  - O que é o contexto comportamental?
-  - O que é o contexto ambiente?
-  - Como sera obtido os contextos? (plugin)
-  - Conseguimos definir um peso para cada atributo do contexto? :star2:
-- Técnicas para avaliar os  resultados de um RecSys :warning:
-  - Algoritmos
-  - Bibliotecas
-  - Casos de uso
-- Mercado musical e a diversidade de musicas disponiveis :star:
-  - Introdução ao mercado musical
-  - Migração do mercado musical para o streaming
-- APIs de Serviços de *Streamings* Musicais (**Spotify**, Dezzer, Google play music, Amazon music) :star:
+  
+- Sistemas de recomendação (não se aprofundar)
+  
+  - Mercado musical e a diversidade de musicas disponiveis :star:
+    - Introdução ao mercado musical
+    - Migração do mercado musical para o streaming
+  - Tipos de sistemas de recomendação
+    - Sistemas de recomendação baseado em conteudo
+    - Sistemas de recomendação colaborativo
+    - Sistemas de recomendação baseado em conhecimento
+    - Sistemas de recomendação hibrido
+  - Algoritmos de sistemas de recomendação
+    - Tipos
+    - Bibliotecas
+    - Casos de uso
+  - Classificação de dados :warning: :star2: (só se achar necessario nos trabalhos relacionados)
+    - Algoritmos de classificação
+    - Bibliotecas que possuam a implementação dos algoritmos
+    - Casos de uso
+  - Técnicas para avaliar os  resultados de um RecSys :warning:
+    - Algoritmos
+    - Bibliotecas
+    - Casos de uso
+  
+- Trabalhos relacionados (se aprofundar)
+
+  - O que eles fizeram
+  - Quais tecnicas e algoritmos utilizaram
+  - Que resultados chegaram
+  - Como mediram o sistema de recomendação
+  - Tabela com tecnicas
+    - Descobrir qual tecnica irei utilizar no meu trabalho
+
+- Modelagem do que sera feito
+
+  > como sera feito o trabalho
+
+  - Contexto
+    - O que é o contexto comportamental?
+    - O que é o contexto ambiente?
+    - Como sera obtido os contextos? (plugin)
+    - Conseguimos definir um peso para cada atributo do contexto? :star2:
+  - Arquitetura do sistema
+    - Detalhar plugin, sistema
+    - Detalhar integração spotify
+
+- APIs de Serviços de *Streamings* Musicais (**Spotify**, Dezzer, Google play music, Amazon music) :star: (tcc 2)
   - Sobre o serviço (Numero de usuarios e musicas)
   - Quais funcionalidade possui?
   - Possui suporte a aplicações web?
   - Conseguimos reproduzir a partir do plugin?
-- Desenvolvimento
+- Desenvolvimento (tcc 2)
   - Serviços de *Streamings* Musicais :star2:
     - Definição do Serviço a ser utilizado pelo plugin
     - Definição dos endpoints a serem utilizados
@@ -64,12 +91,12 @@
     - Estudar dados obtidos
     - Definição das tecnicas de avaliações utilizadas
   - **Liberação do plugin com recomendação e avaliação das recomendações**
-- Resultados
+- Resultados (tcc 2)
   - Principais resultados obtidos (acertos, erros)
   - Avaliação da recomendação feita a partir das respostas do usuario (levantamento)
   - Avaliação da recomendação feita a partir das ações do usuario (pesquisa experimental)
   - Tendencias de comportamento (percentuais)
-- Conclusão
+- Conclusão (considerações, abordar o que fiz e o que irei fazer)
   - Trabalhos futuros
 
 #### Legenda
