@@ -61,6 +61,7 @@ como o pessoal esta trabalhando com o assunto
   - Arquitetura do sistema
     - Detalhar plugin, sistema
     - Detalhar integração spotify
+    - Detalhar inteligencia recsys
 
 - APIs de Serviços de *Streamings* Musicais (**Spotify**, Dezzer, Google play music, Amazon music) :star: (tcc 2)
   - Sobre o serviço (Numero de usuarios e musicas)
