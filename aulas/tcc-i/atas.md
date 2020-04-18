@@ -109,6 +109,9 @@ OBS:
 
 ## 17/04/2020
 
+- não precisamos corrigir o anteprojeto
+- liberar acesso ao git
+
 ### Atividades
 
 - Revisão da avaliação dos avaliadores
@@ -117,6 +120,7 @@ OBS:
 
 ### TODO
 
-- Ler artigos dalalana
+- Ler artigos Dalalana
 - Deixar questão de pesquisa mais claro
 - Definir o que seria o contexto comportamental e de ambiente
+
