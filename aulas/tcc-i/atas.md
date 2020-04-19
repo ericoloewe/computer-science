@@ -124,3 +124,10 @@ OBS:
 - Deixar questão de pesquisa mais claro
 - Definir o que seria o contexto comportamental e de ambiente
 
+## 22/04/2020
+
+- Devemos remover o ultimo paragrafo da introdução?
+
+### Atividades
+
+### TODO
