@@ -128,6 +128,41 @@ OBS:
 
 - Devemos remover o ultimo paragrafo da introdução?
 
+- Talvez devêssemos colocar na questão de pesquisa "recomendação musical a partir do **contexto** ... e  das **musicas conhecidas** de uma pessoa com **gosto eclético**"
+
+  - Dado que a pessoa gosta de diversos tipos musicais
+
+    - Rock
+    - Eletronica
+    - Pagode
+    - ...
+
+  - Dado o contexto atual que a pessoa esta vivendo
+
+    - Sentimento
+
+    - Atividade
+
+    - Localização
+
+    - Comportamento (Pausa, troca de playlist, passa muitas vezes a playlist)
+
+      > Pausa, troca de playlist,
+
+  - Conseguimos **acertar o tipo** correto para o **contexto atual**?
+
+- Conheci o "recommender systems handbook" (só tinha baixado a introdução antes :roll_eyes:)
+
+  - Ele possui capítulos do tipo:
+    - 13 Music Recommender Systems
+    - 13.3 Contextual Music Recommendation
+      - fala sobre ambiente
+      - fala sobre comportamento
+      - fala como utilizar o contexto nos sistemas de recomendação
+  - Nele vi que é comprovado que o contexto pode ajudar na recomendação
+  - Poderemos **utilizar esse estudo** no tcc **e testar** como eles se comportam juntos
+    - Iremos aplicar no nosso sistema e apresentar os resultados (estatísticos)
+
 ### Atividades
 
 ### TODO

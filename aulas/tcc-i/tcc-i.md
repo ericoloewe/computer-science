@@ -118,7 +118,7 @@ como o pessoal esta trabalhando com o assunto
 #### New Paths in Music Recommender Systems Research Markus
 
 - Particularidades da musica fez muitas contribuições aos assuntos de sistemas de recomendação, principalmente:
-  - baseado em conteudo
+  - baseado em conteúdo
   - hibrido
   - user modeling
   - interfaces
@@ -130,13 +130,25 @@ como o pessoal esta trabalhando com o assunto
 - No mundo do recsys, musica é muitas vezes tratada como só mais um item
 - Basicamente fala sobre o capitulo do livro "Music Recommender Systems. In Recommender Systems Handbook"
 
+#### Effective Nearest-Neighbor Music Recommendations Malte
 
+- Realizado na ACM RecSys Challenge 2018
+- Automatização da *playlist continuation*
+- Apresentaram uma sessão hibrida baseada em recomendação musical
+  - O método é baseado no vizinho mais próximo de uma matriz fatorial
+
+#### Towards Seed-Free Music Playlist Generation
+
+- Apresentaram um modelo de filtragem neural hibrida colaborativa
+- Focam nas playlists com pouco dados (cold start)
+- Utilizaram o RNN para entender o nome da playlist
+- Utilizaram WRMF para entender as características da playlist e musicas
 
 ## Recomender system handbook
 
 ### Aplicando o contexto na musica
 
-- Contexto tem efeito sobre a preferencia do usuario
+- Contexto tem efeito sobre a preferencia do usuário
 - para explorar informações sobre contexto e musica, deve-se:
   - Estabelecer um grau de relevância entre a musica e a informação contextual
     - Obter por usuário
@@ -147,3 +159,6 @@ como o pessoal esta trabalhando com o assunto
   - Predizer um contexto intermediário (precisa das outras técnicas)
 - 
 
+## Pesquisas Scholar
+
+- "eclectic" music recommendation context aware
