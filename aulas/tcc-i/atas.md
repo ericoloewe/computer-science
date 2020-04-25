@@ -124,9 +124,9 @@ OBS:
 - Deixar questão de pesquisa mais claro
 - Definir o que seria o contexto comportamental e de ambiente
 
-## 22/04/2020
+## 25/04/2020
 
-- Devemos remover o ultimo paragrafo da introdução?
+- Devemos remover o ultimo paragrafo da introdução? 
 
 - Talvez devêssemos colocar na questão de pesquisa "recomendação musical a partir do **contexto** ... e  das **musicas conhecidas** de uma pessoa com **gosto eclético**"
 
@@ -162,7 +162,43 @@ OBS:
   - Nele vi que é comprovado que o contexto pode ajudar na recomendação
   - Poderemos **utilizar esse estudo** no tcc **e testar** como eles se comportam juntos
     - Iremos aplicar no nosso sistema e apresentar os resultados (estatísticos)
+  
+- temos pesquisa na Finlândia sobre musica: http://musiq.hiit.fi/
+
+  - conseguimos algum apoio das universidades de la?
+  
+- context aware, sensível ao contexto
 
 ### Atividades
 
+- Elementos visuais que mostrem porque a recomendação foi feita
+- leituras da semana
+- artigos encontrados
+- 
+
 ### TODO
+
+- adicionar paragrafo final introdução
+  - este trabalho esta dividido em
+    - capitulo 1 introdução
+    - capitulo 2...
+  - apresentar o que tem no meu tccc
+  
+- sair do tcc 1 com clareza do escopo / objetivo do trabalho
+
+- escrever como encontrei os trabalhos relacionados
+  - eu pesquisei os termos no scholar
+  - acabei olhando o resumo dos primeiros 5 trabalhos
+  - e selecionei os que tinham mais a ver com o meu trabalho
+
+- olhar revisão sistemática
+
+  - 3.1.1.1 Formulação de pesquisa
+    - olhar a,b,c
+  - 3.1.1.2 Formulação de critérios
+    - Definir onde vou buscar os artigos (scholar)
+    - **Definir string de busca (c)**
+
+- Ler "3 REVISÃO SISTEMÁTICA SOBRE TÉCNICAS DE ANÁLISE PREDITIVA APLICADAS À REABILITAÇÃO PULMONAR"
+
+  

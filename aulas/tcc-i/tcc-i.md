@@ -157,7 +157,6 @@ como o pessoal esta trabalhando com o assunto
   - Mapear características de baixo nível de uma musica com o contexto
   - Caracterizar as musicas aos seus contextos (trabalho manual)
   - Predizer um contexto intermediário (precisa das outras técnicas)
-- 
 
 ## Pesquisas Scholar
 
