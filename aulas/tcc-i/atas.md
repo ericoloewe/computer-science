@@ -183,14 +183,11 @@ OBS:
     - capitulo 1 introdução
     - capitulo 2...
   - apresentar o que tem no meu tccc
-  
 - sair do tcc 1 com clareza do escopo / objetivo do trabalho
-
 - escrever como encontrei os trabalhos relacionados
   - eu pesquisei os termos no scholar
   - acabei olhando o resumo dos primeiros 5 trabalhos
   - e selecionei os que tinham mais a ver com o meu trabalho
-
 - olhar revisão sistemática
 
   - 3.1.1.1 Formulação de pesquisa
@@ -198,7 +195,17 @@ OBS:
   - 3.1.1.2 Formulação de critérios
     - Definir onde vou buscar os artigos (scholar)
     - **Definir string de busca (c)**
-
 - Ler "3 REVISÃO SISTEMÁTICA SOBRE TÉCNICAS DE ANÁLISE PREDITIVA APLICADAS À REABILITAÇÃO PULMONAR"
 
-  
+## 29/04/2020
+
+- Tenho definido o objetivo de pesquisa: a ideia é acertar a musica com o momento vivido
+- Caso ele não estiver bom, e se ajustassemos o tcc para:
+  - avaliarmos o comportamento em cima do componente **nível de "prazer" que a musica traz no contexto**?
+- Ou podemos fazer uma revisão sistematica
+
+### Atividades
+
+- 
+
+### TODO

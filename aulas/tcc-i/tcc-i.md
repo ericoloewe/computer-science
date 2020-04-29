@@ -158,6 +158,11 @@ como o pessoal esta trabalhando com o assunto
   - Caracterizar as musicas aos seus contextos (trabalho manual)
   - Predizer um contexto intermediário (precisa das outras técnicas)
 
-## Pesquisas Scholar
+## Pesquisas
 
 - "eclectic" music recommendation context aware
+- ('RecSys' OR 'recommender systems' OR 'machine learning') AND ('music' OR 'musical' OR 'song' OR 'playlist') AND ('behavioral context' OR 'environmental context' OR 'context-aware' OR 'HCI' OR 'human computer interaction' OR 'emotion' OR 'pleasure')
+- [IEEE](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=('RecSys' OR 'recommender systems' OR 'machine learning') AND ('music' OR 'musical' OR 'song' OR 'playlist') AND ('behavioral context' OR 'environmental context' OR 'context-aware' OR 'HCI' OR 'human computer interaction' OR 'emotion' OR 'pleasure'))
+- [ACM](https://dl.acm.org/action/doSearch?AllField=('RecSys'+OR+'recommender+systems'+OR+'machine+learning')+AND+('music'+OR+'musical'+OR+'song'+OR+'playlist')+AND+('behavioral+context'+OR+'environmental+context'+OR+'context-aware'+OR+'HCI'+OR+'human+computer+interaction'+OR+'emotion'+OR+'pleasure'))
+- [SCHOLAR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=('RecSys'+OR+'recommender+systems'+OR+'machine+learning')+AND+('music'+OR+'musical'+OR+'song'+OR+'playlist')+AND+('behavioral+context'+OR+'environmental+context'+OR+'context-aware'+OR+'HCI'+OR+'human+computer+interaction'+OR+'emotion'+OR+'pleasure')&btnG=)
+
