@@ -162,6 +162,7 @@ como o pessoal esta trabalhando com o assunto
 
 - "eclectic" music recommendation context aware
 - ('RecSys' OR 'recommender systems' OR 'machine learning') AND ('music' OR 'musical' OR 'song' OR 'playlist') AND ('behavioral context' OR 'environmental context' OR 'context-aware' OR 'HCI' OR 'human computer interaction' OR 'emotion' OR 'pleasure')
+- ((“RecSys” OR “recommender systems”) AND (“machine learning”) AND (“music” OR “musical” OR “song” OR “playlist”) AND (“behavioral context” OR “environmental context” OR “context-aware”))
 - [IEEE](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=('RecSys' OR 'recommender systems' OR 'machine learning') AND ('music' OR 'musical' OR 'song' OR 'playlist') AND ('behavioral context' OR 'environmental context' OR 'context-aware' OR 'HCI' OR 'human computer interaction' OR 'emotion' OR 'pleasure'))
 - [ACM](https://dl.acm.org/action/doSearch?AllField=('RecSys'+OR+'recommender+systems'+OR+'machine+learning')+AND+('music'+OR+'musical'+OR+'song'+OR+'playlist')+AND+('behavioral+context'+OR+'environmental+context'+OR+'context-aware'+OR+'HCI'+OR+'human+computer+interaction'+OR+'emotion'+OR+'pleasure'))
 - [SCHOLAR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=('RecSys'+OR+'recommender+systems'+OR+'machine+learning')+AND+('music'+OR+'musical'+OR+'song'+OR+'playlist')+AND+('behavioral+context'+OR+'environmental+context'+OR+'context-aware'+OR+'HCI'+OR+'human+computer+interaction'+OR+'emotion'+OR+'pleasure')&btnG=)
