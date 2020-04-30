@@ -11,21 +11,21 @@ Esse teste contem 5 questões de multipla escolha.
 
 O PIB não deve ser confundido com o bem estar nacional, embora estejam fortemente relacionados. Qual das seguintes alternativas abaixo estão corretas:
 
-I-   O PIB ignora muitas transações feitas fora do mercado formal de trabalho
+I-   O PIB ignora muitas transações feitas fora do mercado formal de trabalho :heavy_check_mark:
 
-II-  O PIB ignora os ativos segunda mão
+II-  O PIB ignora os ativos segunda mão :heavy_check_mark:
 
-III- O PIB ignora os ativos financeiros , como ações e títulos
+III- O PIB ignora os ativos financeiros , como ações e títulos :heavy_check_mark:
 
-IV- O PIB incorpora os artigos não vendidos, mas produzidos durante um determinado período
+IV- O PIB incorpora os artigos não vendidos, mas produzidos durante um determinado período 
 
-V- O PIB incorpora os custos ecológicos
+V- O PIB incorpora os custos ecológicos :x:
 
 - a) II, III e IV
 
 - b) II, III, IV e V
 
-- c) I, II, III e IV
+- **c) I, II, III e IV**
 
 - d) I, II, III, IV e V
 
@@ -33,15 +33,15 @@ V- O PIB incorpora os custos ecológicos
 
 Marque com C (correta  ) ou com I (incorreta) as seguintes questões , e logo após marque a alternativa certa.
 
-I) (   ) O PNB é o valor total de renda recebida pelos residentes domésticos num determinado período de tempo. Sempre que os fatores domésticos de produção receberem mais do que os fatores estrangeiros de produção que trabalham na economia interna, o PIB será maior que o PNB.
+I) ( I ) O PNB é o valor total de renda recebida pelos residentes domésticos num determinado período de tempo. Sempre que os fatores domésticos de produção receberem mais do que os fatores estrangeiros de produção que trabalham na economia interna, o PIB será maior que o PNB.
 
-II) (   ) Para realizar comparações significativas no cálculo do produto é fundamental saber se as alterações das variáveis macroeconômicas refletem alterações nos preços dos bens ou alterações no volume físico dos mesmos.
+II) ( I ) Para realizar comparações significativas no cálculo do produto é fundamental saber se as alterações das variáveis macroeconômicas refletem alterações nos preços dos bens ou alterações no volume físico dos mesmos.
 
-III) (   ) A macroeconomia é o ramo da economia que estuda o comportamento agregado dos agentes econômicos, e sua base se encontra fundamentada na microeconomia.
+III) ( I ) A macroeconomia é o ramo da economia que estuda o comportamento agregado dos agentes econômicos, e sua base se encontra fundamentada na microeconomia.
 
 - a) alternativas I, II e III corretas
 
-- b) alternativas I, II e III incorretas
+- **b) alternativas I, II e III incorretas**
 
 - c) alternativa I correta, II correta, e III incorreta
 
@@ -51,11 +51,11 @@ III) (   ) A macroeconomia é o ramo da economia que estuda o comportamento agre
 
 A expressão economia informal é usualmente empregada para indicar a parcela das atividades não contabilizadas no PIB. Além dessa economia subterrânea não fazer parte do PIB também podemos excluir de seus cálculos:
 
-- I) os custos ecológicos provocados na natureza pelas fábricas.
+- I) os custos ecológicos provocados na natureza pelas fábricas. :x:
 
-- II) a fabricação de veículos pela empresa FIAT no ano corrente.
+- II) a fabricação de veículos pela empresa FIAT no ano corrente. 
 
-- III) os insumos intermediários.
+- III) os insumos intermediários. :x:
 
 
 a) I e II corretas
@@ -69,8 +69,7 @@ c) II e III corretas
 
 d) Todas as alternativas corretas
 
-
-e) Todas as alternativas incorretas
+**e) Todas as alternativas incorretas**
 
 #### QUESTION 4
 
@@ -82,15 +81,15 @@ c. investimento agregado
 d. despesa nacional
 e. depreciação
 
-(     ) os que são vendidos para consumo ou utilização final.
+(  a  ) os que são vendidos para consumo ou utilização final.
 
-(     ) gasto com os agentes econômicos com o produto nacional.
+(  d  ) gasto com os agentes econômicos com o produto nacional.
 
-(     ) utilizados na fabricação de outros bens , mas que não se desgastam totalmente no processo produtivo.
+(  b  ) utilizados na fabricação de outros bens , mas que não se desgastam totalmente no processo produtivo.
 
-(     ) aumento da capacidade produtiva da economia , num dado período.
+(  c  ) aumento da capacidade produtiva da economia , num dado período.
 
-(     ) consumo do estoque de capital físico em determinado período.
+(  e  ) consumo do estoque de capital físico em determinado período.
 
 - a) e, b, a, d, c
 
@@ -100,7 +99,7 @@ e. depreciação
 
 - d) b, c, e, a, d
 
-- e) a, d, b, c, e
+- **e) a, d, b, c, e**
 
 ### Pesquisa - crises macroeconômicas
 
