@@ -160,10 +160,20 @@ como o pessoal esta trabalhando com o assunto
 
 ## Pesquisas
 
+## Antigas
+
 - "eclectic" music recommendation context aware
 - ('RecSys' OR 'recommender systems' OR 'machine learning') AND ('music' OR 'musical' OR 'song' OR 'playlist') AND ('behavioral context' OR 'environmental context' OR 'context-aware' OR 'HCI' OR 'human computer interaction' OR 'emotion' OR 'pleasure')
 - ((“RecSys” OR “recommender systems”) AND (“machine learning”) AND (“music” OR “musical” OR “song” OR “playlist”) AND (“behavioral context” OR “environmental context” OR “context-aware”))
+- ((“RecSys” OR “recommender systems”) AND (“machine learning”) AND (“music” OR “musical” OR “song” OR “track”) AND (“behavioral context” OR “environmental context” OR “context-aware”))
+- (("RecSys" OR "recommender systems") AND ("machine learning") AND ("music" OR "musical") AND ("behavioral context" OR "environmental context" OR "context-aware"))
 - [IEEE](https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=('RecSys' OR 'recommender systems' OR 'machine learning') AND ('music' OR 'musical' OR 'song' OR 'playlist') AND ('behavioral context' OR 'environmental context' OR 'context-aware' OR 'HCI' OR 'human computer interaction' OR 'emotion' OR 'pleasure'))
 - [ACM](https://dl.acm.org/action/doSearch?AllField=('RecSys'+OR+'recommender+systems'+OR+'machine+learning')+AND+('music'+OR+'musical'+OR+'song'+OR+'playlist')+AND+('behavioral+context'+OR+'environmental+context'+OR+'context-aware'+OR+'HCI'+OR+'human+computer+interaction'+OR+'emotion'+OR+'pleasure'))
 - [SCHOLAR](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=('RecSys'+OR+'recommender+systems'+OR+'machine+learning')+AND+('music'+OR+'musical'+OR+'song'+OR+'playlist')+AND+('behavioral+context'+OR+'environmental+context'+OR+'context-aware'+OR+'HCI'+OR+'human+computer+interaction'+OR+'emotion'+OR+'pleasure')&btnG=)
 
+### Atuais
+
+- (("RecSys" OR "recommender systems") AND ("machine learning") AND ("music" OR "musical") AND ("behavioral context" OR "environmental context" OR "context-aware"))
+
+- [ACM Journals](https://dl.acm.org/action/doSearch?fillQuickSearch=false&expand=dl&AllField=AllField%3A%28%28%28%22RecSys%22+OR+%22recommender+systems%22%29+AND+%28%22machine+learning%22%29+AND+%28%22music%22+OR+%22musical%22%29+AND+%28%22behavioral+context%22+OR+%22environmental+context%22+OR+%22context-aware%22%29%29%29&Ppub=%5B20150505+TO+20200505%5D&startPage=&ConceptID=118230)
+- [ACM Proceedings](https://dl.acm.org/action/doSearch?fillQuickSearch=false&expand=dl&AllField=AllField%3A%28%28%28%22RecSys%22+OR+%22recommender+systems%22%29+AND+%28%22machine+learning%22%29+AND+%28%22music%22+OR+%22musical%22%29+AND+%28%22behavioral+context%22+OR+%22environmental+context%22+OR+%22context-aware%22%29%29%29&Ppub=%5B20150505+TO+20200505%5D&startPage=&ConceptID=118222)

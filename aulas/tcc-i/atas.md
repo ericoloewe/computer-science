@@ -228,3 +228,17 @@ OBS:
 - fazer a leitura
 - encontrar alguma lacuna que ainda não foi vista
 - tem um software StArt https://www.ibpad.com.br/blog/comunicacao-digital/start-gerenciador-de-revisao-bibliografica-sistematica/
+
+## 06/05/2020
+
+- Pensei em colocar track na string de busca
+  - Mas vi que o significado dessa palavra não é tão voltado a isso
+- 
+
+### Atividades
+
+- 
+
+### TODO
+
+- 

@@ -119,8 +119,6 @@ Colocar as referências bibliográficas da onde tirou as informações. Colocar 
 
 ## Aula => Macroeconomia
 
-
-
 ### Anotações
 
 - banco central esta em crise devido as taxas monetarias
