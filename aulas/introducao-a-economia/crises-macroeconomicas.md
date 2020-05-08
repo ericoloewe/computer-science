@@ -35,7 +35,7 @@ Tanto do setor industrial quanto do setor agrícola
 
 #### Pobreza
 
-Que assolou grande parte da população americana
+A Grande Depressão causou pobreza geral nos Estados Unidos e em diversos países do mundo.
 
 #### Brasil
 

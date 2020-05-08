@@ -237,8 +237,14 @@ OBS:
 
 ### Atividades
 
-- 
+- Revisar pesquisa
+- Revisar protocolo
+- Perguntas para o trabalho
 
 ### TODO
 
+- Fazer pesquisa em um unico dia e salvar todos trabalhos
+- Trazer somente os trabalhos lidos por completo no tcc
+  - Outros trabalhos só vamos trazer os numeros
+- Na medida que for lendo, pensar em perguntas para responder os trabalhos lidos por completo
 - 
