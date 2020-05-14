@@ -247,4 +247,9 @@ OBS:
 - Trazer somente os trabalhos lidos por completo no tcc
   - Outros trabalhos só vamos trazer os numeros
 - Na medida que for lendo, pensar em perguntas para responder os trabalhos lidos por completo
-- 
+
+
+
+## 13/05/2020
+
+- Devo ser criterioso na exclusão dos trabalhos?

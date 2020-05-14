@@ -173,6 +173,12 @@ Y = C + I + G + X - M
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DGLMC3Mcygc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### 4 - Esse video é uma entrevista com a Economista Monica de Bolle sobre a economia atual.
+
+Sugestão de um colega da turma!! Vale assistir!!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CE71uT4kcMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Aula => Macroeconomia
 
 Vamos aprender sobre:
