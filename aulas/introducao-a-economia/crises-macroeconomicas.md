@@ -1,4 +1,4 @@
-# Crises macroeconomicas
+# Crises macroeconômicas
 
 **Fazer um comparativo da Grande Depressão de 1929, Crise de 2008 e Crise atual** pontuando o entendimento de como aconteceu cada crise e quais as consequências econômicas mundiais, conforme modelo a seguir.
 
@@ -12,13 +12,13 @@ Qual a causa e quais foram as consequências econômicas mundiais.
 
 **Quebra da bolsa de Nova Iorque**
 
-Houve um aumento na produção, porem não houve aumento salariais, assim o mercado não teve como absover a quantidade de mercadorias que eram produzidas. Houve um aumento nos investimento na bolsa de valores devido ao boom economico e a alta especulação monetaria.
+Houve um aumento na produção, porem não houve aumento salariais, assim o mercado não teve como absolver a quantidade de mercadorias que eram produzidas. Houve um aumento nos investimento na bolsa de valores devido ao boom econômico e a alta especulação monetária.
 
-Essa properidade não estava em bases solidas. A demanda da massa não podia acompanhar a produtividade em rápido crescimento do sistema industrial resultando na superprodução e especulação. Que, no fim, provocou o colapso
+Essa propriedade não estava em bases solidas. A demanda da massa não podia acompanhar a produtividade em rápido crescimento do sistema industrial resultando na superprodução e especulação. Que, no fim, provocou o colapso
 
 ### Consequências econômicas mundiais
 
-#### Alto indice de desemprego
+#### Alto índice de desemprego
 
 - EUA: 27%
 - Grã-Bretanha: 23%
@@ -47,9 +47,9 @@ As soluções para a crise foram aplicadas, principalmente, por F. Delano Roosev
 
 1. Promoveu obras publicas
 
-2. Promoveu beneficios sociais
+2. Promoveu benefícios sociais
 
-   - Salario minimo
+   - Salario mínimo
 
    - Seguro desemprego
 
@@ -105,11 +105,37 @@ FONTE: https://www.politize.com.br/crise-financeira-de-2008/
 
 ### Causa
 
+**Provocada pela pandemia do novo coronavírus COVID-19**
 
+Causada devido as medidas de isolamento social para conter a doença. Com o isolamento as pessoas pararam de consumir parando o mercado e trazendo diversos impactos econômicos.
 
 ### Consequências econômicas mundiais
 
+- Mercado de ações americano despencou 20%
+- A taxa de desemprego pode disparar para acima de 20%
 
+![Global crisis](eng-apr-12-weo3-1.png)
+
+
+
+- Projeções da economia
+
+![Projeções](WEO-FINAL-projections-table.png)
+
+
+
+FONTE: https://blogs.imf.org/2020/04/14/the-great-lockdown-worst-economic-downturn-since-the-great-depression/
+
+#### Brasil
+
+- Taxa de desemprego pode chegar a 15%
+- Selic em 3%
+- Mercado de trabalho no Brasil, despencou de 82,6 em março, para 39,7 pontos, em abril
+- PIB de 2020 pela SPE é de -4,7%
+
+FONTE: https://oglobo.globo.com/economia/mais-da-metade-dos-paises-do-mundo-deve-terminar-2020-com-desemprego-maior-do-que-na-crise-de-2008-24422358
 
 ### Solução
 
+- https://www.gov.br/economia/pt-br/centrais-de-conteudo/publicacoes/notas-informativas/2020/nota-uma-ana-lise-da-crise-gerada-pela-covid19.pdf
+- https://g1.globo.com/economia/noticia/2020/05/10/crise-e-coronavirus-v-u-ou-w-os-3-cenarios-possiveis-para-a-recuperacao-economica-apos-a-pandemia-de-covid-19.ghtml
