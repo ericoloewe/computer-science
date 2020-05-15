@@ -9,6 +9,8 @@
   - salvar a musica e tempo da musica
 - avaliação do quanto a musica se encaixa no contexto
 - **nível de "prazer" que a musica traz no contexto**
+  - **ou nivel de "excitação" que a musica traz no contexto**
+- analisar comportamento **sequencial**
 
 ## Anotações
 

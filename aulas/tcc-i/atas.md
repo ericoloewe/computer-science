@@ -248,8 +248,18 @@ OBS:
   - Outros trabalhos só vamos trazer os numeros
 - Na medida que for lendo, pensar em perguntas para responder os trabalhos lidos por completo
 
-
-
-## 13/05/2020
+## 14/05/2020
 
 - Devo ser criterioso na exclusão dos trabalhos?
+
+### Atividades
+
+- Pull request
+- StArt
+- Revisão dos artigos
+
+### TODO
+
+- construir um ou 2 paragrafos abordando os criterios para selecionar ou nao os trabalhos
+  - comentar o que foi colocado no protocolo
+- figura com fazes
