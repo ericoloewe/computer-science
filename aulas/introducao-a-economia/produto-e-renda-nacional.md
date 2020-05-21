@@ -15,6 +15,12 @@ OA = DA
 PIB = C + I + G + X - M 
 ```
 
+### Analise
+
+É apresentado na noticia que devido ao COVID-19, a zona do euro ira contrair a uma taxa recorde de 7,7%, isso acontece devido as paralizações que aconteceram ou que estão acontecendo na indústria e no comercio, que visam diminuir o contato das pessoas, evitando a disseminação do vírus.
+
+falar sobre indices...
+
 ## Atividade II
 
 Acessar a notícia seguinte, a nível nacional, o “INFORME ECONÔMICO No. 17/2020” feito pela FIERGS (Federação das Indústrias do Estado do Rio Grande do Sul) através do link: 
