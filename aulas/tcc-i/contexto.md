@@ -11,6 +11,7 @@
 - **nível de "prazer" que a musica traz no contexto**
   - **ou nivel de "excitação" que a musica traz no contexto**
 - analisar comportamento **sequencial**
+- a mudança imediata da fila de musicas baseado na detecção do contexto
 
 ## Anotações
 

@@ -263,3 +263,40 @@ OBS:
 - construir um ou 2 paragrafos abordando os criterios para selecionar ou nao os trabalhos
   - comentar o que foi colocado no protocolo
 - figura com fazes
+
+## 22/05/2020
+
+### Atividades
+
+- revisão do texto
+- revisão das questões
+- revisão do tempo habil do trabalho
+  - não teremos mais tempo para o capitulo 4
+
+### TODO
+
+- diminuir figura 4 e 5
+- acentos (através, titulo)
+- vamos precisar responder todas questões
+- 
+- para cada um dos artigos:
+  - **protocolo de investigação**
+    - fazer um paragrafo dando uma ideia geral do trabalho (umas espécie de resumo)
+    - e responder todas perguntas
+
+## PROXIMA
+
+- a mudança imediata da fila de musicas baseado na detecção do contexto
+
+--------
+
+- vamos forcar no individual, o que dificilmente foi capturado até hoje
+- vamos dar a liberdade do usuario escolher suas musicas preferidas (spotify)
+
+### Atividades
+
+- 
+
+### TODO
+
+- 
