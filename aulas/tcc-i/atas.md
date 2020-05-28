@@ -286,12 +286,15 @@ OBS:
 
 ## PROXIMA
 
-- a mudança imediata da fila de musicas baseado na detecção do contexto
+- Recomendação dinâmica vs Recomendação estática
+  - a mudança imediata da fila de musicas baseado na detecção do contexto
+  - na troca de 3 vezes da musica, recomendar uma musica que o usuário tenha avaliado bem
+- Fazer comparação do nosso com o algoritmo do spotify
 
 --------
 
 - vamos forcar no individual, o que dificilmente foi capturado até hoje
-- vamos dar a liberdade do usuario escolher suas musicas preferidas (spotify)
+- vamos dar a liberdade do usuário escolher suas musicas preferidas (Spotify)
 
 ### Atividades
 
