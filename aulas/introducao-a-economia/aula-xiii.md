@@ -86,3 +86,5 @@ https://www.bcb.gov.br/pec/appron/Apres/20060221PR-Regime%20de%20metas%20para%20
 ## Anotações
 
 - moeda server para especular
+- os 600 são politicas fiscais e não monetarias
+- 
