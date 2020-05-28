@@ -289,7 +289,7 @@ OBS:
 - Recomendação dinâmica vs Recomendação estática
   - a mudança imediata da fila de musicas baseado na detecção do contexto
   - na troca de 3 vezes da musica, recomendar uma musica que o usuário tenha avaliado bem
-- Fazer comparação do nosso com o algoritmo do spotify
+- **Fazer comparação do nosso com o algoritmo do spotify**
 
 --------
 
@@ -298,8 +298,15 @@ OBS:
 
 ### Atividades
 
-- 
+- revisão dos trabalhos
+- insights
 
 ### TODO
 
-- 
+- procurar evitar palavras repetidas (usar sinônimos)
+- expressar com mais clareza o que é diversidade (diversidade do que)
+- especificar características
+- deixar menos genérico a revisão trabalho
+  - dar uma visão geral dos trabalhos no resumo
+- fazer uns 2 parágrafos indicando porque o trabalho (3.3.1) não será utilizado
+- remover seção 2 e evoluir a 3 e 4
