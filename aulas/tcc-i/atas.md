@@ -284,7 +284,7 @@ OBS:
     - fazer um paragrafo dando uma ideia geral do trabalho (umas espécie de resumo)
     - e responder todas perguntas
 
-## PROXIMA
+## 28/05/2020
 
 - Recomendação dinâmica vs Recomendação estática
   - a mudança imediata da fila de musicas baseado na detecção do contexto
