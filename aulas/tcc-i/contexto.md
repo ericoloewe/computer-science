@@ -20,6 +20,7 @@
 
 ## Anotações
 
+- validação se é um usuário típico ("brasileiro que não gosta de funk")
 - a recomendação não deve ser a mesma se o usuario estiver sozinho ou com mais pessoas
 - In their state-of-the-art on CARS, Adomavicius and Tuzhilin [1] present several ways to include contextual information 
 

@@ -310,3 +310,8 @@ OBS:
   - dar uma visão geral dos trabalhos no resumo
 - fazer uns 2 parágrafos indicando porque o trabalho (3.3.1) não será utilizado
 - remover seção 2 e evoluir a 3 e 4
+
+## Próximo encontro
+
+- inovamundi
+- 
