@@ -313,5 +313,35 @@ OBS:
 
 ## Próximo encontro
 
-- inovamundi
-- 
+- inovamundi (ano que vem)
+
+### Atividades
+
+- revisão comentarios:
+  - titulo
+  - figuras
+  - tabelas
+  - sumario
+
+- filtro do tipo colaborativo[[JVDC1\]](#_msocom_1)  (falo sobre isso na introdução)
+  -  [[JVDC1\]](#_msoanchor_1)Que seria o quê?
+
+- [bases] Já foi dito e não tem nada a ver com a pergunta (faz parte das subperguntas, manter?)
+- Como não foi feita nenhuma avaliação no nível de satisfação do usuário (pergunta anterior), essa pergunta parece sem sentido que seja respondida.
+- situacionais da audição musical (estranho!!!)
+- pergunta 3 (??? Não entendi.)
+
+### TODO
+
+- nos textos repetidos eliminar dos resumos
+- filtro do tipo colaborativo
+- foi avaliado o nível de satisfação do usuário com a música recomendada?
+  - foi utilizado alguma métrica para verificar a satisfação do usuário em relação ao sistema de recomendação?
+- na tabela, trocar perguntas por P1, P2, P3...
+- MODELAGEM DO “NOME DO TRABALHO” (TODO)
+- Focar no capitulo i
+- contexto
+  - definição do dicionario
+  - menção dos relacionados
+  - minha definição
+- citar o dicionario Michaelis como site

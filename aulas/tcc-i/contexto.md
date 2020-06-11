@@ -9,14 +9,14 @@
   - salvar a musica e tempo da musica
 - avaliação do quanto a musica se encaixa no contexto
 - **nível de "prazer" que a musica traz no contexto**
-  - **ou nivel de "excitação" que a musica traz no contexto**
+  - **ou nível de "excitação" que a musica traz no contexto**
 - analisar comportamento **sequencial**
 
 ### Recomendação dinâmica
 
 - a mudança imediata da fila de musicas baseado na detecção do contexto
-
 - na troca de 3 vezes da musica, recomendar uma musica que o usuário tenha avaliado bem
+- no inicio definir o contexto manualmente é algo complicado, mas que no futuro com essas informações vindo automaticamente, teremos um grande ganho aos RecSys.
 
 ## Anotações
 
