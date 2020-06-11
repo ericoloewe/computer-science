@@ -6,7 +6,7 @@ Acessar a notícia seguinte, a nível internacional:
 
 https://g1.globo.com/economia/noticia/2020/05/06/zona-do-euro-tera-recessao-recorde-e-inflacao-vai-desaparecer-diz-preve-comissao-europeia.ghtml
 
-**Após, faça uma análise** incluindo de que forma essa projeção irá afetar os componentes da oferta e demanda agregada. 
+Após, faça uma **análise** incluindo **de que forma** essa projeção **irá afetar** os componentes da **oferta e demanda agregada**. 
 
 Lembre que: 
 
@@ -19,25 +19,25 @@ PIB = C + I + G + X - M
 
 É apresentado na noticia que devido ao COVID-19, a zona do euro ira contrair a uma taxa recorde de 7,7%, isso acontece devido as paralizações que aconteceram ou que estão acontecendo na indústria e no comercio, que visam diminuir o contato das pessoas, evitando a disseminação do vírus.
 
-inflação irá quase desaparecer, enquanto a dívida pública e o déficit orçamentário vão disparar
+**inflação** irá quase desaparecer, enquanto a dívida pública e o déficit orçamentário vão disparar
 
-queda dois décimos maior do que a projetada pelo Fundo Monetário Internacional (FMI)
-
-
-
-depois de crescer 1,2% em 2019, o PIB das 19 economias da zona do euro em seu conjunto devem ter uma contração de 7,7% este ano
-
-crescimento do PIB em 2021, a 6,3%
+**queda dois décimos** maior do que a projetada pelo Fundo Monetário Internacional (FMI)
 
 
 
-taxa de inflação irá desacelerar a 0,2% em 2020
+depois de **crescer 1,2%** em 2019, o **PIB** das 19 economias da zona do euro em seu conjunto devem ter uma **contração de 7,7%** este ano
 
-acelerando a 1,1% no próximo ano
+**crescimento** do **PIB em 2021, a 6,3%**
 
 
 
-O investimento irá despencar 13,3% este ano
+**taxa de inflação** irá desacelerar a **0,2% em 2020**
+
+**acelerando a 1,1%** no próximo ano
+
+
+
+O **investimento irá despencar 13,3%** este ano
 
 
 
@@ -229,3 +229,14 @@ no auge da mais recente recessão quando a inflação atingiu 2 dígitos.
 Assistir a entrevista da Economista Mônica de Boulle *(vídeo disponível na temática E).* 
 
 **Após faça uma análise** pontuando quais as ações e projeções necessárias que as economias mundiais devem fazer para contornar e diminuir os impactos da crise atual, conforme a visão da economista. Tente identificar quais os componentes da oferta e demanda agregada que devem ser priorizados.
+
+
+
+- a economia vai voltar intermitentemente
+- pois o virus vai e volta
+- os 600 reais pode ser uma medida permanente durante uns 2 anos
+
+
+
+- a monica fala de planos futuros enquanto os ministros do pais ainda querem seguir com a agenda de dezembro
+- 
