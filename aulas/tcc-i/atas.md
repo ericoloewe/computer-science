@@ -311,7 +311,7 @@ OBS:
 - fazer uns 2 parágrafos indicando porque o trabalho (3.3.1) não será utilizado
 - remover seção 2 e evoluir a 3 e 4
 
-## Próximo encontro
+## 04/06/2020
 
 - inovamundi (ano que vem)
 
@@ -345,3 +345,31 @@ OBS:
   - menção dos relacionados
   - minha definição
 - citar o dicionario Michaelis como site
+
+## 18/06/2020
+
+
+
+## Atividades
+
+- capitulo 2
+
+## TODO
+
+- arrumar titulo capitulo 2 (deixar nome completo)
+- figuras centralizada (não pode estar italico, ver tamanho fonte)
+- usar termo caso de uso (figura 10)
+- trocar arquitetura por metodologia do sistema
+- explicar nas perguntas o que é contexto
+- remover terceira pergunta
+- especificar respostas da 4,5,6
+- no forms do google, colocar introdução breve do trabalho
+- trocar tempo por "horario do dia"
+- trocar desgosto e gosto por outra palavra (apreciar)
+- explicar melhor pergunta 8
+- trocar musica por dia para semana
+  - colocar faixas
+- especificar pergunta 11
+- colocar numeração no questionario
+- ler capitulo 2 e corrigir erros de portugues
+- construir questionario no forms
