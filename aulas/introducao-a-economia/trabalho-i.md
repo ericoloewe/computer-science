@@ -21,7 +21,7 @@ Em 1956 JK assumiu a presidência, trazendo o plano de metas batizado "50 anos e
 
 ### Síntese histórica do Canada
 
-Texto
+A historia do canada inicia pela caça, cultivo e sociedades comerciais dos indígenas. Após a chegada dos europeus em meados século XVI, a economia passou por uma serie de mudanças, iniciando com a pesca, comercio de peles e depois pela rápida urbanização, industrialização e mudança tecnológica. Mesmo com o escasso de recursos naturais, eles são sustentam até hoje de muitas regiões do pais. 
 
 ### Síntese histórica da Austrália
 

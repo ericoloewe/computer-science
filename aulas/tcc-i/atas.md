@@ -317,7 +317,7 @@ OBS:
 
 ### Atividades
 
-- revisão comentarios:
+- revisão comentários:
   - titulo
   - figuras
   - tabelas
@@ -350,26 +350,79 @@ OBS:
 
 
 
+### Atividades
+
+- revisão capitulo 2
+
+### TODO
+
+- arrumar titulo capitulo 2 (deixar nome completo) :heavy_check_mark:
+- figuras centralizada (não pode estar italico, ver tamanho fonte) :heavy_check_mark:
+- usar termo caso de uso (figura 10) 
+- trocar arquitetura por metodologia do sistema :heavy_check_mark:
+- explicar nas perguntas o que é contexto :heavy_check_mark:
+- remover terceira pergunta :heavy_check_mark:
+- especificar respostas da 4,5,6 :heavy_check_mark:
+- no forms do google, colocar introdução breve do trabalho​ :heavy_check_mark:
+- trocar tempo por "horario do dia" :heavy_check_mark:
+- trocar desgosto e gosto por outra palavra (apreciar) :heavy_check_mark:
+- explicar melhor pergunta 8 :heavy_check_mark:
+- trocar musica por dia para semana :heavy_check_mark:
+  - colocar faixas
+- especificar pergunta 11 :heavy_check_mark:
+- colocar numeração no questionario :heavy_check_mark:
+- ler capitulo 2 e corrigir erros de portugues :heavy_check_mark:
+- construir questionario no forms :heavy_check_mark:
+
+## Próxima
+
+- Criamos seções para as perguntas?
+- Esse trabalho foi dividido 6 etapas:
+    1. Questionário
+    2. Envio da aplicação aos usuários
+    3. Levantamento e classificação da base
+    4. Desenvolvimento do sistema de recomendação
+    5. Envio integração do sistema com aplicação aos usuários
+
+## 03/07/2020
+
+### TODO
+
+- pre teste
+  - relatar as melhorias do questionário no tcc
+  - escrever sobre os ajustes que foram feitos com base do que os amigos (tops) retornaram
+  - criar uma sub sessão "pre teste do questionario"
+- definir tempo que o questionário ira ficar aberto
+  - 2 semanas
+- enviar questionário
+
+## 09/07/2020
+
+### TODO
+
+- pre teste
+- questionário 1 semana
+- publicar novamente o questionário
+- assim que fechar, começar a escrever sobre o questionário
+- ver livro 
+  - prodanov
+  - MARCONI, Marina de Andrade. Fundamentos de metodologia científica. 8. Rio de Janeiro Atlas 2017 1 recurso online ISBN 9788597010770.
+  - MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia científica. 7. ed. São Paulo, SP: Atlas, c2017. xiv, 373 p. ISBN 9788597010701.
+
+## 23/07/2020
+
+- juliano vai entregar amanha capitulo 3
+
 ## Atividades
 
-- capitulo 2
+- revisar resultados questionário
 
 ## TODO
 
-- arrumar titulo capitulo 2 (deixar nome completo)
-- figuras centralizada (não pode estar italico, ver tamanho fonte)
-- usar termo caso de uso (figura 10)
-- trocar arquitetura por metodologia do sistema
-- explicar nas perguntas o que é contexto
-- remover terceira pergunta
-- especificar respostas da 4,5,6
-- no forms do google, colocar introdução breve do trabalho
-- trocar tempo por "horario do dia"
-- trocar desgosto e gosto por outra palavra (apreciar)
-- explicar melhor pergunta 8
-- trocar musica por dia para semana
-  - colocar faixas
-- especificar pergunta 11
-- colocar numeração no questionario
-- ler capitulo 2 e corrigir erros de portugues
-- construir questionario no forms
+- colocar perguntas em um apêndice
+- finalizar capitulo 3
+  - modelagem
+    - falar sobre o aplicativo
+  - colocar mais gráficos nos resultados
+- finalizar aplicativo
+- algoritmos para depois
