@@ -135,3 +135,26 @@ https://developer.spotify.com/console/get-audio-features-several-tracks/
 - monografia
 - definir K e KFold
 
+## 05/10/2020
+
+### Atividades
+
+- revisão monografia
+
+### TODO
+
+- revisar 3 e enviar para o juliano
+- revisar comentários
+- melhorar: "As indicações dos avaliadores foram analisadas e foi verificado que apenas uma apresentava o algoritmo utilizado"
+- falar sobre knn no cap 3 e não 2
+- incluir novos trabalhos no quadro de caracteristicas (2.5)
+- indicar na introdução que vamos "selecionar um dos algoritmos" (2)
+- no fim indicar qual algoritmo vamos usar e pq (knn pq aparece em dois artigos) (2.6)
+  - svm não pq é mais voltado a classes binarias
+- quadro: tirar da AUC até o kendell
+- figuras 3.3
+  - Figura 12 (a) Tela de login da aplicação; (b) Tela de Preenchimento do contexto; (c) Tela da lista de dispositivos do Spotfy (próprio, 2020).
+  -  A Figura 12 (a) apresenta...
+- acompanhar usuarios
+- count de quantos dados
+
